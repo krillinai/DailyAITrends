@@ -9,3 +9,4 @@
 
 ### 8月
 
+[2024.08.29 AI精选内容](https://github.com/krillinai/DailyAITrends/blob/main/zh-CN/2024.08.29%20AI%20Trends-cn.md)
