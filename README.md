@@ -1,5 +1,5 @@
 
-English|[中文](!https://github.com/krillinai/DailyAITrends/blob/main/README.zh-CN.md)
+English|[中文](https://github.com/krillinai/DailyAITrends/blob/main/README.zh-CN.md)
 
 # DailyAITrends
 
