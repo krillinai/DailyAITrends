@@ -1,3 +1,6 @@
+
+English|[中文](!https://github.com/krillinai/DailyAITrends/blob/main/README.zh-CN.md)
+
 # DailyAITrends
 
 Daily updates of the latest high-quality content in the field of AI, interviews, podcasts, papers, paragraphs, etc. Helping accelerate the connection to the future.
