@@ -1,4 +1,5 @@
-## 工具集合
+## 工具合集
+
 |序号|名称|描述|
 |---|---|---|
 |1|[10Web](https://10web.io)|提供可视化编辑器，也就是所见即所得，可以让用户轻松地创建和编辑网站，而无需编写代码。此外，该平台还提供了一些插件和主题，可以帮助用户更好地管理和优化他们的网站。|
@@ -67,20 +68,14 @@
 |64|[Capably](https://www.capably.ai/)|Capably是企业使用的AI管理平台，旨在跨组织部署AI员工，特点是简便、快捷且安全。|
 |65|[Agentx](https://www.agentx.so/)|使用您自己的数据创建一个多模型AI代理。利用LLM ChatGPT、GPT4、Gemini、Anthropic或其他更多模型，还可以生成图像和视频。|
 |66|[AhaApple](https://www.ahaapple.com/)|AI创意生成器，一键生成多个创意新颖的点子。利用AI模型、头脑风暴技巧和创新技术，只需一次点击，AhaApple将为您生成大量富有创意和新颖的想法。|
-|67|[AI & Analytics Engine](https://www.pi.exchange/the-ai-and-analytics-engine)|PI.EXCHANGE AI与分析引擎（以下简称“引擎”）是一个数据科学与机器学习（ML）平台，它赋予每个人——甚至是新手用户——以经济实惠的方式在数小时或数天内构建高性能ML应用程序的能力，无需数周或数月的等待——无需编程。
-
-这个易用的连接工具链提供了从原始数据到预测及洞察一站式所需的所有工具。手动和重复的机器学习任务被自动化，并且引擎的智能特性帮助用户从头到尾进行引导。
-
-开发和部署您的ML应用既可以通过引擎的无代码图形用户界面（GUI）实现，也可以通过API和SDK来实现。因此，无论您是在没有专门数据科学资源的情况下构建小型试点项目，还是部署大规模企业级ML系统，都能为您的现有团队配备正确的工具，快速构建有意义的解决方案。|
+|67|[AI & Analytics Engine](https://www.pi.exchange/the-ai-and-analytics-engine)|PI.EXCHANGE AI与分析引擎（以下简称“引擎”）是一个数据科学与机器学习（ML）平台，它赋予每个人——甚至是新手用户——以经济实惠的方式在数小时或数天内构建高性能ML应用程序的能力，无需数周或数月的等待——无需编程。这个易用的连接工具链提供了从原始数据到预测及洞察一站式所需的所有工具。手动和重复的机器学习任务被自动化，并且引擎的智能特性帮助用户从头到尾进行引导。开发和部署您的ML应用既可以通过引擎的无代码图形用户界面（GUI）实现，也可以通过API和SDK来实现。因此，无论您是在没有专门数据科学资源的情况下构建小型试点项目，还是部署大规模企业级ML系统，都能为您的现有团队配备正确的工具，快速构建有意义的解决方案。|
 |68|[AI Ads](https://creatorkit.com/aiads)|仅需输入网站URL，利用AI生成胜出的视频广告。|
 |69|[AI Anywhere](https://www.ai-anywhere.com/)|灵羽助手可以与您喜爱的应用程序无缝配合，包括浏览器，Word，Excel，PDF阅读器，通讯工具，文本编辑器，代码编辑器等等。|
 |70|[AI Art Apps Database](https://aiartapps.com/)|AI艺术资源和工具，为设计师、艺术家和提示工程师提供灵感、创作、学习、社群及提示构建的全方位支持。|
 |71|[AI Art Generator | Image-Maker](https://apps.apple.com/app/apple-store/id1644315225)|释放文字的全部潜能，用我们的AI艺术生成器应用创造令人震撼、独一无二的艺术作品。只需输入任何文本或短语，我们先进的算法就能将其转变成独一无二、视觉冲击力强的艺术品。多种风格任你挑选，创意无限。无论是想为您的家居创造个性化的艺术品，为社交媒体帖子增添创意，还是仅仅探索AI生成艺术的领域，我们的应用都能满足您的需求。|
 |72|[AI Art Limited](https://aiart.limited/)|让您通过转换现有图像或创造全新的照片，来制作出令人印象深刻、美感十足的AI艺术作品。|
 |73|[AI Art Weekly](https://aiartweekly.com/)|免费每周一次的生成式AI艺术新闻、访谈和资源汇总邮件|
-|74|[AI Assist by airfocus](https://airfocus.com/product/ai/)|模块化产品管理平台，特别为产品团队设计，适用于面向市场的产物、内部产物管理和IT组合管理。
-
-这一灵活的平台协助产物团队治理战略、理解用户需求、确定优先级，并围绕清晰的路线图使团队保持一致。|
+|74|[AI Assist by airfocus](https://airfocus.com/product/ai/)|模块化产品管理平台，特别为产品团队设计，适用于面向市场的产物、内部产物管理和IT组合管理。这一灵活的平台协助产物团队治理战略、理解用户需求、确定优先级，并围绕清晰的路线图使团队保持一致。|
 |75|[AI Assistant](https://www.aiassistant.so//)|AI助手是一款提高研究、文档管理和内容创作效率的生产力工具。它允许用户添加自己的数据，如文章、推文等，实现真正个性化的体验，并提供移动应用方便访问|
 |76|[AI Audio Kit](https://aiaudiokit.pages.dev/)|AI音频套件帮助你在macOS上直接使用OpenAI官方Whisper API转录音频！|
 |77|[AI Baby Generator](https://aibabygenerator.com/)|揭示宝宝未来的长相|
@@ -131,23 +126,17 @@
 |122|[AI Interior Pro](https://www.aiinteriorpro.com/)|AI生成的室内设计方案与灵感|
 |123|[Ai Intern](https://aiintern.io/)|高效完成研究，生成高质量内容，并迅速回应广泛的问题。优化工作流程，为更重要任务节省时间。|
 |124|[AI is a Joke](https://www.aiisajoke.com)|生成任何你能想象的笑话。是的，任何东西！使用最先进的A.I.，轻松从任何文字提示生成笑话|
-|125|[AI Jingle Generator](https://jinglemaker.callmefred.com/)|您可以选择开头、背景音乐和结尾，利用AI制作旁白，并让JINGLEMAKER瞬间神奇地生成您的宣传曲或过渡音效！
-
-您不仅可以下载最终的宣传曲，还能获取原始旁白音频。|
+|125|[AI Jingle Generator](https://jinglemaker.callmefred.com/)|您可以选择开头、背景音乐和结尾，利用AI制作旁白，并让JINGLEMAKER瞬间神奇地生成您的宣传曲或过渡音效！您不仅可以下载最终的宣传曲，还能获取原始旁白音频。|
 |126|[AI Kanye West](https://autoyeai.com/)|使用AI创作属于自己的坎耶风格歌词|
 |127|[AI Keywording Tool](https://pixify.io/ai-keywording-tool)|强大、高效且可定制的平台，专为批量处理和提高生产率设计。由关键词专家为关键词专家设计|
 |128|[AI Lesson Plans](https://ailessonplan.com/)|使用我们前沿的人工智能技术，让制作世界级课程计划的速度提升至原来的10倍。我们的生成式AI平台能够让像您一样的教育工作者在短时间内定制出符合学生年龄段、贴合班级特点的专属教案，每天为您节省数小时的宝贵时间。|
 |129|[AI Logo Generator](https://ailogogenerator.net/)|使用我们先进的AI技术，几分钟内即可生成定制化logo。只需用文字描述您想要的logo样式，我们的AI logo生成器将在一分钟内为您创造出令人惊艳的logo设计。|
 |130|[AI Magic Writer](https://bigvu.tv/create/ai-magic-writer-for-video-scripts)|借助AI技术，实现10倍速出版。只需描述您的主题，吸引人的脚本即刻为您准备就绪。|
-|131|[AI Mailer](https://ai-mailer.com)|Ai Mailer是一款尖端工具，它让公司、市场营销人员、作家、学生及所有频繁撰写邮件的人能够轻松快捷地创建个性化且专业的电子邮件。Ai Mailer采用GPT技术来生成最高质量的电子邮件，而且完全免费！
-
-通过Ai Mailer，您可以编写针对性极强的电子邮件，使之更加贴合收件人，从而提高邮件的有效性和互动性。|
+|131|[AI Mailer](https://ai-mailer.com)|Ai Mailer是一款尖端工具，它让公司、市场营销人员、作家、学生及所有频繁撰写邮件的人能够轻松快捷地创建个性化且专业的电子邮件。Ai Mailer采用GPT技术来生成最高质量的电子邮件，而且完全免费！通过Ai Mailer，您可以编写针对性极强的电子邮件，使之更加贴合收件人，从而提高邮件的有效性和互动性。|
 |132|[AI Majic](https://aimajic.com)|一个平台生成所有AI内容和AI旁白|
 |133|[AI Meme](https://ai-meme.com/)|Meme生成器AI免费在线工具，可以直接在网页浏览器或移动设备上运行。多亏了GPT-4视觉模型，现在可以快速创建模因。无需精通技术或Photoshop，只需指向相机或上传照片，让AI完成其余工作。准备好无尽的欢笑和制作模因的乐趣吧！|
 |134|[AI Mock Interview](https://sqlpad.io/interview-ai)|参与AI模拟面试练习——接受AI的犀利点评，让你100%准备好求职面试。利用AI模拟面试超级强化你的面试准备过程|
-|135|[AI Resume Optimizer](https://sqlpad.io/career-ai/resume/jd/)|为每个工作机会定制简历，使您能够展示最相关的技能和经验，从而提高在潜在雇主面前脱颖而出的机会，进而获得梦寐以求的面试机会。
-
-上传您的职位描述和简历，几分钟内，您将获得一份量身定制的版本，突出展示您的顶尖技能，大大提升给雇主留下深刻印象的几率，助您赢得理想工作。|
+|135|[AI Resume Optimizer](https://sqlpad.io/career-ai/resume/jd/)|为每个工作机会定制简历，使您能够展示最相关的技能和经验，从而提高在潜在雇主面前脱颖而出的机会，进而获得梦寐以求的面试机会。上传您的职位描述和简历，几分钟内，您将获得一份量身定制的版本，突出展示您的顶尖技能，大大提升给雇主留下深刻印象的几率，助您赢得理想工作。|
 |136|[Career AI ](https://sqlpad.io/career-ai/)|AI驱动的求职面试工具，通过学习求职面试中的最佳策略与成功案例，旨在为超过20种不同的面试场景生成高水平的回答内容。|
 |137|[Skills.ai](https://skills.ai/chat/)|skills.ai - 作为数据科学家的AI副驾，利用AI将你的数据分析过程提速10倍。|
 |138|[AI Music Generator](https://appintro.io/ai-song-generator-music-maker)|AI歌曲生成器是一款基于人工智能的音乐创作工具，能够为多种用途创作独特且个性化的音乐。它服务于从音乐初学者到专业人士，以及任何热爱音乐的创意人士。通过音乐AI生成器，无论为视频、播客还是其他创意项目制作原创音乐，现在都可以在几分钟内实现。|
@@ -155,8 +144,7 @@
 |140|[AI Named My Pet](https://www.ainamedmypet.com/)|让名为“我的宠物命名师”（My Pet Named）的AI带你进入奇妙的创想之旅吧！这位创意无限的AI智者能赋予您宠物一个独一无二、满载深情的名字，完美映射出它非凡的本质与个性。|
 |141|[AI Novelist](https://ai-novel.com/)|和有史以来最大的公开日本AI一起撰写故事吧|
 |142|[AI Palettes](https://ai-palettes.com/)|AI调色板：使用AI轻松生成令人叹为观止的颜色方案。立即发现理想的配色方案！|
-|143|[AI Passport Photos](https://www.aipassportphotos.com/)|
-在线制作护照及签证照片，确保获取符合生物识别要求的完美照片。|
+|143|[AI Passport Photos](https://www.aipassportphotos.com/)|在线制作护照及签证照片，确保获取符合生物识别要求的完美照片。|
 |144|[AI Pet Avatar](https://aipetavatar.com/)|将您的宠物变身为您所能想象的任何事物！|
 |145|[AI Photo](https://appahead.studio/apps/ai-photo/)|基于Stable Diffusion的文字生成照片|
 |146|[AI Picasso](https://aipicasso.studio.site/)|创建您自己的 AI 插图和 AI 头像|
@@ -178,9 +166,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |161|[AI Reverse Image Search](https://www.vecteezy.com/reverse-image-search)|AI反向图片搜索。上传源图像，为您的项目获得概念相关且完全许可的相似图像。|
 |162|[AI Reviews](https://embedsocial.com/ai-reviews/)|大规模的AI驱动评论管理。使用AI工具帮助您收集更多评论，更快回复评论并设计评论小部件。|
 |163|[AI Roasts My Career](https://6figr.com/career-roast)|6figr是一个针对员工的免费AI驱动职业服务。了解您在企业界的地位|
-|164|[AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)|全球首款基于文本的角色扮演游戏，其中的每一个场景、非玩家角色(NPC)、敌人、道具、制作配方以及游戏机制均百分之百由人工智能精心设计。
-
-这款游戏将深度学习与经典Roguelite元素融合，每一次探险都是独一无二、由AI动态生成的未知之旅，确保了前所未有的沉浸式文本冒险体验。|
+|164|[AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)|全球首款基于文本的角色扮演游戏，其中的每一个场景、非玩家角色(NPC)、敌人、道具、制作配方以及游戏机制均百分之百由人工智能精心设计。这款游戏将深度学习与经典Roguelite元素融合，每一次探险都是独一无二、由AI动态生成的未知之旅，确保了前所未有的沉浸式文本冒险体验。|
 |165|[AI Room Planner](https://airoomplanner.com/)|通过AI进行室内设计，获取数百个房间室内设计灵感——免费且无限制。|
 |166|[AI Room Styles](https://www.airoomstyles.com/)|免费家居布置及装饰服务，将您的房间照片转变为令人惊艳的效果，从而获得创新的设计灵感。|
 |167|[AI Scam Detective](https://www.aiscamdetective.com/)|您在线诈骗检测和预防的终极资源。将您的消息或对话粘贴到下面的框中，我会为您提供一个评分，从1到10表示可能是骗局的可能性，10分表示可能性很高|
@@ -193,8 +179,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |174|[AI Story](https://www.aistorygenerator.org/)|一款免费的AI驱动故事生成器，为您编写创意故事。生成具有想象力情节的随机短篇小说。|
 |175|[Ai Story Generator](https://appintro.io/ai-story-generator-novel-writer)|人工智能驱动应用程序，它能让用户轻松创作出自己独一无二的故事和小说。无论你是想激发写作灵感，还是单纯享受一个好的故事，AI故事生成器都是你创意旅程的理想伴侣。|
 |176|[AI Studio](https://www.delete.bg/aistudio)|Blend Studio帮助您在两击鼠标内创建专业产品照片和设计，无需聘请代理或自由职业者|
-|177|[AI Studios](https://www.deepbrain.io/aistudios)|
-快速使用简单文本创建AI生成的视频。支持使用Metahuman实现多语言文字转语音。与逼真AI虚拟形象对话。|
+|177|[AI Studios](https://www.deepbrain.io/aistudios)|快速使用简单文本创建AI生成的视频。支持使用Metahuman实现多语言文字转语音。与逼真AI虚拟形象对话。|
 |178|[AI Summarizer](https://sassbook.com/ai-summarizer)|高级AI理解原文内容，产生精炼摘要|
 |179|[AI SWOT Analysis](https://swotanalysis.dev/)|使用我们的AI驱动工具根据公司的描述为其创建SWOT分析|
 |180|[AI Teacha](https://aiteacha.com/)|AI Teacha是一个创新的AI教育平台，旨在协助教师在各种工作中生成内容，包括课程规划、评估生成、课程开发、学科特定问题解决等。|
@@ -206,18 +191,13 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |186|[AI Undetect](https://www.aiundetect.com/)|最佳无法察觉的AI与AI人性化工具，使用我们的AI检测器工具来评估您的AI生成内容。如果内容未能通过AI检测，您可以选择我们的AI人性化服务进行人工重写，确保其能成功规避AI检测器。|
 |187|[AI Vercel Playground](https://play.vercel.ai/)|Vercel AI SDK是一个TypeScript库，旨在帮助开发者使用React、Next.js、Vue、Nuxt、SvelteKit等构建AI驱动的应用程序。|
 |188|[AI Video Generator](https://vidds.co/tools/ai-video-generator/)|Vidds是一种快速简便的在线视频创作方式。无需传统的时间线编辑，通过使用精美的模板逐场景构建您的视频。快速、灵活且高效。|
-|189|[AI Why](https://apps.apple.com/ml/app/ai-why/id6448989314)|您的私人助理将像向五岁小孩解释那样口头回答您的所有问题。
-
-只需说话，就能获得从科学到历史等领域复杂话题的简化解释。立即下载，增进对周围世界的理解吧！|
+|189|[AI Why](https://apps.apple.com/ml/app/ai-why/id6448989314)|您的私人助理将像向五岁小孩解释那样口头回答您的所有问题。只需说话，就能获得从科学到历史等领域复杂话题的简化解释。立即下载，增进对周围世界的理解吧！|
 |190|[AI Yearbook Generator](https://aiyearbook.art/)|使用AI创造怀旧的年鉴照片想象一下，将您的照片转换成一系列年鉴风格！我们的AI年鉴图像生成器提供了无限可能，从经典的年代到独特的主题，包括各式各样的发型、服装和表情。尽情享受创作你从未想象过的永恒肖像的乐趣吧！|
-|191|[Ai-Ads](https://ai-ads.net/)|我们的先进人工智能技术悉心研究并选取具有高度商业意图的关键字，确保您的广告预算绝不会浪费在不相关的搜索上。通过将这些关键词聚类为相似术语的组，我们创建了高度针对性的广告组，每个组都配有针对您受众需求定制的动态登录页面。
-
-我们精密的人工智能算法持续优化您的广告系列，调整出价、广告文案及定向策略，以实现投资回报的最大化。凭借数百个精心挑选的关键字，您的品牌将在恰当的时机获得目标受众无与伦比的关注度。告别传统广告活动中的猜测工作，拥抱智能、数据驱动广告的未来。|
+|191|[Ai-Ads](https://ai-ads.net/)|我们的先进人工智能技术悉心研究并选取具有高度商业意图的关键字，确保您的广告预算绝不会浪费在不相关的搜索上。通过将这些关键词聚类为相似术语的组，我们创建了高度针对性的广告组，每个组都配有针对您受众需求定制的动态登录页面。我们精密的人工智能算法持续优化您的广告系列，调整出价、广告文案及定向策略，以实现投资回报的最大化。凭借数百个精心挑选的关键字，您的品牌将在恰当的时机获得目标受众无与伦比的关注度。告别传统广告活动中的猜测工作，拥抱智能、数据驱动广告的未来。|
 |192|[AI-Lawyer](https://ailawyer.pro)|我们的个人法律AI助手|
 |193|[AI-Signals](https://ai-signals.com/)|AI-signals是你在市场上获得终极优势的工具。通过人工智能驱动的指标进行交易，让你看到别人无法察觉的市场信息。|
 |194|[AI-VideoCraft](https://videopromptai.com/)|AI驱动的内容创作，助您制作出色的视频。|
-|195|[AI2image](https://www.ai2image.com/)|在几秒钟内生成您的专属图片，您可以根据简单的英语描述为网站、博客或社交媒体生成图片。
-尝试应用不同的库（色彩、背景、艺术风格、角度和位置）来调整您的图片，体验多样化的创作可能。|
+|195|[AI2image](https://www.ai2image.com/)|在几秒钟内生成您的专属图片，您可以根据简单的英语描述为网站、博客或社交媒体生成图片。尝试应用不同的库（色彩、背景、艺术风格、角度和位置）来调整您的图片，体验多样化的创作可能。|
 |196|[Ai4spaces](https://www.ai4spaces.com/)|一个基于人工智能的平台，能帮助您轻松打造理想中的家园。无论是生成房屋设计、室内布局或是翻新方案，AI4Spaces都能让您轻松实现，让创意与实际需求完美融合，让家的每一个角落都充满个性与温馨。|
 |197|[AI:JD](https://ai-jd.pangea.app/)|吸引更多求职者，采用定制化职位描述，无需亲力亲为完成所有工作。让AI处理繁琐环节，并根据您的喜好进行微调，一切只需90秒以内即可完成。|
 |198|[AiAgent.app](https://aiagent.app/)|一个网络应用程序，根据您设定的目标，能够自主做出选择并执行任务。|
@@ -229,9 +209,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |204|[AICardshop](https://www.aicardshop.com/)|创建AI生成的个性化卡片|
 |205|[AIChatbot](https://www.aichatbot.so/)|一个基于AI的对话式聊天机器人构建平台，专门用于客户服务。AI聊天机器人使您能够根据自身数据创建定制的GPT聊天机器人。您可以通过上传网站URL、PDF文件或站点地图来实现这一目标。该AI聊天机器人能用多种语言响应客户询问，并提供了将聊天机器人小部件直接嵌入您网站的便利性，从而大幅提升用户体验和服务效率。|
 |206|[AIChatting](https://www.aichatting.net/)|在线与AI聊天，只需请求您的AI聊天机器人助手生成即可！|
-|207|[AIChristmas](https://aichristmascards.com/)|我们的独特贺卡特色为美丽定制的图像，以及由世界上最先进的人工智能技术撰写的个性化信息。
-即使您不擅长绘画或写作，也能通过一张真正独一无二的贺卡向亲朋好友表达您的关怀之情。
-只需选择一个节日主题，创建一个图像，剩下的就交给我们的AI完成。您的贺卡将直接打印并邮寄给他们——这才是传递节日魔力的方式！|
+|207|[AIChristmas](https://aichristmascards.com/)|我们的独特贺卡特色为美丽定制的图像，以及由世界上最先进的人工智能技术撰写的个性化信息。即使您不擅长绘画或写作，也能通过一张真正独一无二的贺卡向亲朋好友表达您的关怀之情。只需选择一个节日主题，创建一个图像，剩下的就交给我们的AI完成。您的贺卡将直接打印并邮寄给他们——这才是传递节日魔力的方式！|
 |208|[AICodeConvert](https://aicodeconvert.com/)|将代码或自然语言转换为编程语言代码|
 |209|[AiCogni](https://aicogni.com/)|您的个人语音聊天机器人和写作助手，由ChatGPT驱动。让我们向您介绍一款终极AI工具，它将彻底改变您的学习和交流方式！|
 |210|[AICommit](https://aicommit.app/)|一款基于OpenAI GPT的JetBrains集成开发环境插件，它提供了多种智能编码功能，如自动提交消息生成、代码优化、代码解释、文档生成、代码转换及翻译等。让您的编码过程更加高效便捷。|
@@ -254,9 +232,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |227|[AiListz](https://ailistz.com/)|借助我们先进的AI驱动工具，彻底革新您的内容创作流程。体验无忧的图像生成、内容创建和写作辅助，提升您的数字存在感|
 |228|[Chicken](https://kookree.ai/chicken)|从文本创建逼真且富有想象力的视频|
 |229|[Aimges](https://www.aimagas.com/)|利用AI技术在线增强和升级您的视频与图像，让每一个视频或图像达到专业级质量。亲自体验我们的免费试用版来感受这一变化。|
-|230|[aiMindCrafter](https://aimindcrafter.com/)|利用人工智能的力量，将您的创意愿景转化为现实。无论您是艺术家、设计师还是手工爱好者，我们的尖端技术都能帮助您轻松创造出独特、高质量的数字艺术作品和手工艺品。想象一下拥有一个理解您创意需求的私人助手，它能帮助您精准而有创意地完善项目，精雕细琢每一个细节。
-
-|
+|230|[aiMindCrafter](https://aimindcrafter.com/)|利用人工智能的力量，将您的创意愿景转化为现实。无论您是艺术家、设计师还是手工爱好者，我们的尖端技术都能帮助您轻松创造出独特、高质量的数字艺术作品和手工艺品。想象一下拥有一个理解您创意需求的私人助手，它能帮助您精准而有创意地完善项目，精雕细琢每一个细节。|
 |231|[Aimons](https://www.aimons.xyz/)|创建属于您自己的AiMon，并在Polygon网络上将其铸造成NFT（非同质化代币）。|
 |232|[Aimply Briefs](https://briefs.aimply.io/)||
 |233|[AINiro](https://ainiro.io/)|基于ChatGPT创建一个定制的AI聊天机器人。|
@@ -380,8 +356,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |351|[Are You Smarter Than ChatGPT](https://smarterthangpt.com/)|挑战热门AI机器人ChatGPT的智力比拼游戏。|
 |352|[Ariana](https://www.timworks.com/ariana)|您的个人ChatGPT 4助手Ariana，通过WhatsApp全天候24/7可用。提供免费和付费计划，无需信用卡或下载。|
 |353|[Arible AI Avatars](https://arible.co/)|一系列实用的AI工具，均可通过单一计划访问。|
-|354|[Armchair](https://www.armchair.ai/)|
-Armchair利用人工智能帮助您选择、验证并开展副业想法。|
+|354|[Armchair](https://www.armchair.ai/)|Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |355|[Array Assistant](https://arrayassistant.ai/)|为您的Excel电子表格赋予AI的力量|
 |356|[Arria NLG](https://www.arria.com/)|Arria的专利语言平台允许组织使用AI在人类作者所需时间的一小部分内编写个性化、分析性叙述，从而扩展他们的沟通能力。系统摄入原始数据，对其进行模式和洞察分析，然后用清晰易懂的语言生成解释数据的自然语言叙述|
 |357|[Arsturn AI](https://tryarsturn.com/)|全功能对话式AI平台|
@@ -399,9 +374,7 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |369|[Article Summarizer](https://summary.arguflow.gg/)|使用Trieve的平台构建更好、更快、更相关的搜索和检索增强型问答系统（RAG）。该平台集成了日期新近度偏置、重排序模型、语义搜索、子句突出显示、文档扩展等功能于一体，所有这些都整合在一项服务中，您可以自行托管。|
 |370|[Article Summary](https://article-summary.vercel.app/)|使用AI生成文章摘要，Article Summary是一个基于网络的工具，能自动创建任何文章的简短摘要，以便快速分享文章的主要要点。|
 |371|[Article.Audio](https://article.audio/)|立即把您的文章转换成高质量的音频。您可以从超过140种语言和听起来自然的人声中进行选择。|
-|372|[Articleai](https://www.articleai.io/)|输入您希望在文章中包含的关键词选择，确保文章针对搜索引擎进行了优化，并且与目标受众相关。快速轻松地生成高质量文章，无需花费数小时亲自撰写。
-
-|
+|372|[Articleai](https://www.articleai.io/)|输入您希望在文章中包含的关键词选择，确保文章针对搜索引擎进行了优化，并且与目标受众相关。快速轻松地生成高质量文章，无需花费数小时亲自撰写。|
 |373|[ArticleForge](https://www.articleforge.com/)|只需一键即可自动创建完整、高质量、独特且符合SEO要求的文章。|
 |374|[Articly](https://articly.ai/)|使用Articly.ai简化您的博客之旅并实现显著的SEO成果。博客自动化，仅需三个简单步骤：连接、创建、放松。|
 |375|[Artifactory](https://artifactory.ai/)|通过云托管的Stable Diffusion，将文本描述转化为游戏中资产的概念设计。|
@@ -421,11 +394,7 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |389|[Arvin](https://www.tryarvin.com/)|Arvin AI：一款免费的ChatGPT浏览器扩展程序，依托GPT-4技术，为你提供AI助手服务，助力于AI艺术创作、内容摘要及内容创作。|
 |390|[ArxivPaperAI](https://www.arxivpaperai.com/)|与科研论文对话，秒速概括论文内容，并借助ChatGPT的强大功能深入交流见解。|
 |391|[Ascendant Art](https://apps.apple.com/us/app/ascendant-art-ai-avatars/id6447011482)|打造与你本人惊人相似，同时又如你想象般多样的虚拟形象。无论是用于游戏、社交媒体、专业头像，还是纯粹的乐趣，你的虚拟形象都是你探索数字宇宙新领域的通行证。|
-|392|[Ascent RegTech](https://www.ascentregtech.com/)|针对金融服务的综合全球监管生命周期管理平台
-
-覆盖整个监管生命周期的自动化解决方案，将监管前瞻扫描与细致入微的监管义务清单相结合，全部针对您的业务量身定制。
-
-横跨监管活动的整个范围，Ascent RLM以无与伦比的效率提供可执行的洞察。从识别监管动态的早期迹象，到通过新指南或执法行动体现的监管方法变化，再到规则采纳及持续的规则修正，Ascent为您提供所需信息，以减少风险、提高效率并降低成本。|
+|392|[Ascent RegTech](https://www.ascentregtech.com/)|针对金融服务的综合全球监管生命周期管理平台覆盖整个监管生命周期的自动化解决方案，将监管前瞻扫描与细致入微的监管义务清单相结合，全部针对您的业务量身定制。横跨监管活动的整个范围，Ascent RLM以无与伦比的效率提供可执行的洞察。从识别监管动态的早期迹象，到通过新指南或执法行动体现的监管方法变化，再到规则采纳及持续的规则修正，Ascent为您提供所需信息，以减少风险、提高效率并降低成本。|
 |393|[AsInstant](https://asinstant.com/)|定制化的人工智能解决方案，包括个性化的AI聊天机器人、自动化流程和精简的工作流程，旨在提高效率、降低成本并提升客户参与度。|
 |394|[Ask a Philosopher](https://philosophy.fyi/)|由AI驱动的哲学家，深刻理解多种哲学流派思想，通过先进的自然语言处理和推理能力，就复杂的生存问题提供发人深省的见解和视角。|
 |395|[Ask AI Lawyer](https://www.askailawyer.com/)|完全免费，利用最先进的人工智能技术，为您的法律问题提供答案。|
@@ -461,13 +430,9 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |425|[AskYourDatabase](https://www.askyourdatabase.com/)|这款AI SQL聊天机器人使用AI生成SQL代码，就像针对SQL数据库的ChatGPT一样。连接并使用ChatGPT与数据库聊天。|
 |426|[AskYourPDF](https://www.askyourpdf.com/)|我们打造了AskYourPDF，作为您唯一所需的PDF人工智能聊天应用。轻松上传您的PDF文件，并与我们的智能聊天AI互动，从您的文档中提取有价值的信息和答案，帮助您做出明智的决策。|
 |427|[Askyoutube](https://www.askyoutube.ai/)|借助AskYoutube探索人工智能的力量。立即找到问题的答案，无需观看所有YouTube视频。只需输入您的问题，即可获得最准确和精炼的信息。|
-|428|[Aspect](https://aspect-hq.com/)|AI面试笔记：作为面试的AI副驾，让您专注于候选人——适用于Google Meet、MS Teams和Zoom的AI面试笔记功能。
-
-|
+|428|[Aspect](https://aspect-hq.com/)|AI面试笔记：作为面试的AI副驾，让您专注于候选人——适用于Google Meet、MS Teams和Zoom的AI面试笔记功能。|
 |429|[Aspen](https://www.getaspenai.com/)|在几分钟内构建AI驱动的工具。Aspen是一个无需编码的平台，用于构建AI驱动的网络应用程序。|
-|430|[AssemblyAI](https://www.assemblyai.com/)|借助AssemblyAI行业领先的语音AI模型，将语音转录为文本，并从您的语音数据中提取洞察。
-
-|
+|430|[AssemblyAI](https://www.assemblyai.com/)|借助AssemblyAI行业领先的语音AI模型，将语音转录为文本，并从您的语音数据中提取洞察。|
 |431|[Assembo AI](https://app.assembo.ai/)|1分钟内获得惊艳的产品摄影效果。非常适合Shopify电商产品摄影、亚马逊AI拍摄、TikTok与Instagram产品图片拍摄。|
 |432|[AssetsAI](https://www.assetsai.art/)|为您的游戏提供AI驱动的、独特的、策划的资源。|
 |433|[Asterix Writer](https://www.asterixwriter.com/features)|像编辑照片一样编辑你的写作。Asterix旨在消除编辑的繁琐工作，它将美观的文本编辑器与尖端的AI工具相结合。|
@@ -480,29 +445,20 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |440|[Atlas Navi](https://www.atlasnavi.com/)|凭借机器学习和区块链等前沿技术，Atlas Navi将成为全球驾驶员的首选导航系统。|
 |441|[Atmo AI](https://www.atmo.ai/)|AI变革气象学。利用深度学习实现超精确天气预报。|
 |442|[Atomic AI](https://atomic.ai/)|AI驱动的RNA药物发现，达到原子级精准度。|
-|443|[Attention](https://www.attention.tech/)|Attention是最强大的销售智能平台，帮助企业释放全部潜能。
-
-我们的全集成AI驱动销售助手会在销售电话后自动填写CRM，对对话和机会进行评分，并帮助您在整个客户接触点集合上运行类似GPT的搜索。|
-|444|[Attri](https://attri.ai/ai-agents)|通过自主AI代理引领变革。
-体验AI自主代理的变革潜力——这些自我导向的数字存在能够简化决策过程，并以闪电般的效率执行行动。|
+|443|[Attention](https://www.attention.tech/)|Attention是最强大的销售智能平台，帮助企业释放全部潜能。我们的全集成AI驱动销售助手会在销售电话后自动填写CRM，对对话和机会进行评分，并帮助您在整个客户接触点集合上运行类似GPT的搜索。|
+|444|[Attri](https://attri.ai/ai-agents)|通过自主AI代理引领变革。体验AI自主代理的变革潜力——这些自我导向的数字存在能够简化决策过程，并以闪电般的效率执行行动。|
 |445|[Attune Health](https://attunehealth.app/)|Attune Health是一款AI驱动的健康与健身应用程序。只需简单的面部扫描，即可测量您的生命体征，如血压、血氧饱和度、心率变异性、压力水平，甚至是血红蛋白含量。|
 |446|[Atua](https://atua.app/)|通过一个简单的快捷键解锁ChatGPT的力量——无需再切换上下文，即可实现无缝的人工智能辅助。|
 |447|[Audio Diary](https://audiodiary.ai/)|Audio Diary是一个智能语音日记，能理解你说的话。说出你的想法，设定目标，并通过Audio Diary回顾过去。|
 |448|[Audio Strip](https://www.audiostrip.co.uk/)|音乐人常用的在线工具，用于从音频文件中分离人声和伴奏音乐。|
 |449|[Audioatlas](https://www.audioatlas.com/)|世界上首个自然语言音乐搜索引擎。在全球2亿多首歌曲的数据库中，为您找到最合适的音乐。|
-|450|[AudioBot](https://audio-bot.com/locale/en)|使用人工智能将文本转换为语音。
-
-立即使用键入的文本创建多种语言和声音的音频。
-
-我们在超过14个国家的当地口音方面有专长。支持mp3格式下载。|
+|450|[AudioBot](https://audio-bot.com/locale/en)|使用人工智能将文本转换为语音。立即使用键入的文本创建多种语言和声音的音频。我们在超过14个国家的当地口音方面有专长。支持mp3格式下载。|
 |451|[Audiobox](https://audiobox.metademolab.com/)|Audiobox是Meta公司用于音频生成的新基础研究模型。它能结合语音输入和自然语言文本提示来生成语音和音效。|
 |452|[AudioCraft](https://audiocraft.metademolab.com/)|AudioCraft是一个一站式的代码库，满足你所有生成性音频需求：无论是音乐、音效，还是在原始音频信号上的训练后的压缩处理。|
 |453|[Audiogen](https://www.audiogen.co/)|AudioCraft扮演AI音频副驾的角色，它重新定义了音乐、电影和游戏的音频制作。创作者现在可以在几秒钟内获得基于上下文、制作就绪的音频，使他们能够专注于真正重要的事情——创造本身。|
 |454|[Lychee](https://www.lychee.so/)|提供令人惊叹的专业剪辑片段，供您在社交媒体上发布。从您现有的视频/播客内容中进行一站式视频编辑，易于扩展规模。|
 |455|[AudioNotes](https://audionotes.app)|无论你是说还是打字，Audionotes都将利用AI将你的笔记转化为可搜索的、清晰的、可操作的文本笔记。|
-|456|[AudioPen](https://audiopen.ai/)|AudioPen将语音笔记转换为易于阅读且随时可分享的文本。
-
-创建会议记录、备忘录、电子邮件、文章等更多内容。你只需要说话即可。|
+|456|[AudioPen](https://audiopen.ai/)|AudioPen将语音笔记转换为易于阅读且随时可分享的文本。创建会议记录、备忘录、电子邮件、文章等更多内容。你只需要说话即可。|
 |457|[Audioshake](https://indie.audioshake.ai/)|AudioShake是一款强大的AI工具，能够撷取任意时间点的录音，并将其拆解为其组成部件——从乐器音轨到独立的对话、音乐和音效轨道。创建音轨分离文件开启了创新的可能性，使音乐和其他音频变得更加互动、易于访问且更具盈利潜力。|
 |458|[Audo Studio](https://audo.ai/)|一键音频清理。利用音频处理和人工智能的最新进展，自动移除背景噪音并增强语音。在几秒而非几小时内清理你的音频！|
 |459|[Augment](https://www.augmentcode.com/)|增强你的代码库，你的开发团队，你的公司|
@@ -510,24 +466,19 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |461|[Bubble](https://bubble.io/)|全球唯一的全栈无代码平台。无需编写代码，即可设计、开发和发布生产级别的应用程序。无论你是初学者还是企业团队的一员——Bubble适合所有人。|
 |462|[Auri AI](https://auri.ai)|你好！我是Auri，你的AI助手，一触即达。我可以起草邮件、录制并转录语音备忘录、创建会议笔记、撰写论文、检查语法、帮助你学习，以及做更多事情。|
 |463|[Brancher.ai](https://www.brancher.ai/)|无需编码，几分钟内将AI模型连接起来构建AI应用。|
-|464|[AuthorAI](https://www.authorai.org)|
-在AuthorAI，我们正通过AI重新构想创意创作流程。我们正在探索尖端AI技术如何能增强应用于创建应用程序、书籍、博客、网站、数据、设计、报告等的创作流程。|
+|464|[AuthorAI](https://www.authorai.org)|在AuthorAI，我们正通过AI重新构想创意创作流程。我们正在探索尖端AI技术如何能增强应用于创建应用程序、书籍、博客、网站、数据、设计、报告等的创作流程。|
 |465|[AutoBiz](https://www.autobiz.ai/)|AutoBiz是电子商务业务中排名第一的OpenAI GPT驱动的销售助手。它是一个AI销售助手，具有智能销售咨询、高效成交、自动订单创建、自动客户服务、全渠道支持、无缝人机协作、内容创作与营销工具、可操作的洞察等功能，能帮助提升您的销售额。|
 |466|[Autoblocks AI](https://www.autoblocks.ai/)|团队AI评估平台。使产品团队能够协同测试和改进他们的可扩展AI驱动产品。|
 |467|[AutoBlogging Pro](https://autoblogging.pro/)|自动博客生成高质量、SEO优化的文章，并自动发布到您的博客上。依托于OpenAI的GPT全系列主要模型，我们独有的提示流程始终能创造详尽、全面且无抄袭的内容。|
 |468|[Autoblogging.ai](https://autoblogging.ai/)|一键生成优化排名文章！|
-|469|[AutoCaption](https://autocaption.io/)|"一秒内自动生成字幕！Auto Caption 使用AI实现一键式字幕生成。"
-
-|
+|469|[AutoCaption](https://autocaption.io/)|"一秒内自动生成字幕！Auto Caption 使用AI实现一键式字幕生成。"|
 |470|[Autoclear ChatGPT History](https://chatgptevo.com/autoclear)|访问chatgpt.com时自动清除聊天记录，确保最大程度的隐私保护。|
 |471|[AutoDraft](https://autodraft.in/)|Autodraft AI协助您制作极具吸引力的动画，风格独一无二，角色描绘一贯连贯。|
 |472|[Autodraw](https://www.autodraw.com)|快速绘图，人人可用。AutoDraw结合机器学习与才华横溢的艺术家的画作，助您迅速绘制各种图形。|
 |473|[AutoEasy](https://www.autoeasy.com/)|体验AutoEasy带来的汽车购物未来。借助AI的力量，发现、浏览、对比您的梦想车辆，并获得精确报价。|
 |474|[Autolancer](https://www.autolancer.ai/)|Autolancer是您的终极AI写作助手，旨在利用AI的力量帮助您轻松创作内容。拥有超过100个提示模板、实时协作和自动发布功能，它满足您无缝写作及更多需求的一切所需。|
 |475|[Automaited](https://www.automaited.com/)|全球首款完全自主的自动化开发工具，可在几分钟内为您的工作流程构建定制化自动化。|
-|476|[Automated Combat](https://www.automatedcombat.com/)|见证历史人物参与发人深省的辩论和讨论，这一切都由GPT-4驱动。
-
-|
+|476|[Automated Combat](https://www.automatedcombat.com/)|见证历史人物参与发人深省的辩论和讨论，这一切都由GPT-4驱动。|
 |477|[Automatic Chat](https://automatic.chat/)|在几分钟内为您的网站添加一个由GPT-4驱动的AI聊天机器人。它的回应就像真人一样。|
 |478|[Automix.ai](https://automix.ai/)|借助AI驱动的简历审查和模拟面试提升求职水平，确保您自信满满地成功获得理想职业。|
 |479|[Autoname](https://www.autoname.org/)|一键重命名Figma框架|
@@ -553,11 +504,9 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |499|[Avian.io](https://avian.io/)|Avian是商业领域的自然语言数据操作系统，统一平台中的企业生成型BI。|
 |500|[Avoma](https://www.avoma.com/)|从最先进的AI记事者开始，然后利用我们的免费调度器、AI记分卡和对话智能——无需花费巨资。|
 |501|[Avtrs](https://avtrs.ai/)|生成完美捕捉您独特风格的人工智能头像。写一个提示，让我们的Dreambooth和Stable扩散技术完成剩下的工作。|
-|502|[AweMyFace](https://apps.apple.com/app/apple-store/id1621101995)|AweMyFace——是一款护肤应用，也是通向完美肌肤的唯一指南。
-面部痤疮问题困扰着地球上每八位成年人。但没有一种解决方案可以适用于所有人。这就是为什么了解自己的身体和个人因果关系如此重要，这有助于改善/恶化一个人的情况。AweMyFace护肤应用将帮助您找到更清洁、更健康的皮肤之路。|
+|502|[AweMyFace](https://apps.apple.com/app/apple-store/id1621101995)|AweMyFace——是一款护肤应用，也是通向完美肌肤的唯一指南。面部痤疮问题困扰着地球上每八位成年人。但没有一种解决方案可以适用于所有人。这就是为什么了解自己的身体和个人因果关系如此重要，这有助于改善/恶化一个人的情况。AweMyFace护肤应用将帮助您找到更清洁、更健康的皮肤之路。|
 |503|[Awesome ChatGPT Prompts](https://prompts.chat/)|欢迎来到“Awesome ChatGPT提示”存储库！这是一个用于ChatGPT模型的提示示例集合。|
-|504|[Awesome Suite](https://www.awesomesuite.com/social/hashtag-generator)|标签生成器生成您需要增加平台曝光度的确切标签。使用标签是在Instagram上使您的内容更容易被发现的好方法。
-|
+|504|[Awesome Suite](https://www.awesomesuite.com/social/hashtag-generator)|标签生成器生成您需要增加平台曝光度的确切标签。使用标签是在Instagram上使您的内容更容易被发现的好方法。|
 |505|[AWS Docs GPT](https://www.awsdocsgpt.com/)|AI驱动的AWS文档搜索和聊天功能|
 |506|[AX Semantics](https://en.ax-semantics.com/)|构建您自己的写作中心！在集成的数据到文本自动化系统中，您可以自动完成文案的创建、审批、翻译及更新过程。|
 |507|[Axiom](https://axiom.ai/)|快速构建浏览器机器人，无需编写代码。仅需使用您的浏览器，即可在任何网站或网络应用程序上自动化网站操作和重复任务。|
@@ -566,21 +515,17 @@ Armchair利用人工智能帮助您选择、验证并开展副业想法。|
 |510|[Azure AI Speech Studio](https://speech.microsoft.com/portal)|赋予您的应用程序听见、理解甚至与客户交谈的能力，通过集成语音转文字和文字转语音等功能。|
 |511|[Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning)|使用Azure的机器学习平台以简化的的方式构建机器学习模型。作为服务的机器学习提高了可访问性和效率。|
 |512|[Azyri](https://azyri.com/)|掌上骨龄评估；专业人士、学生及AI爱好者均可免费使用。获取AI提供的评估结果（非医疗建议）。手机端免费访问。|
-|513|[B-cube.ai](https://b-cube.ai/en)|利用AI代理实现盈利交易。
-B-Cube助力加密货币交易者在各种市场条件下稳定盈利，借助我们机构级的人工智能代理。|
-|514|[B12](https://b12.io/)|立即创建专业级AI网站。
-B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户。|
+|513|[B-cube.ai](https://b-cube.ai/en)|利用AI代理实现盈利交易。B-Cube助力加密货币交易者在各种市场条件下稳定盈利，借助我们机构级的人工智能代理。|
+|514|[B12](https://b12.io/)|立即创建专业级AI网站。B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户。|
 |515|[B7Labs](https://b7labs.co/converse)|保存、总结并与网页文章、PDF文档及YouTube视频对话。在Converse上，通过定制化摘要、简化版内容（TL;DR）、关键要点、直观的文档聊天功能及社交分享，提升您的阅读体验。|
 |516|[B^ DISCOVER](https://bdiscover.kakaobrain.com/)|高质量AI视频、AI图像及AI人脸现可供用！生成您在其他任何地方都找不到的惊人AI内容。|
 |517|[Baba Selo](https://www.babaselo.com/)|探索家常美食的魔力，就在Baba Selo。这里，祖母的爱心温暖与创新的AI食谱生成技术相遇。匠心独具，制作美味且独特的菜肴，在尖端AI的帮助下享受愉悦的烹饪体验。|
 |518|[Babble AI](https://babble-ai.com/)|Babble AI助力企业轻松创建聊天机器人。获取您的聊天机器人脚本，即刻提升网站的客户互动体验！|
 |519|[BabbleBox](https://babblebox.ai/)|BabbleBox利用先进的人工智能技术，创造类似真人的、互动的沟通体验。|
-|520|[Babelstreet](https://www.babelstreet.com/)|全球领先的人工智能驱动的数据到知识平台。
-利用实时洞察的力量，做出保护生命、促进经济增长和加强国家安全的数据驱动决策。|
+|520|[Babelstreet](https://www.babelstreet.com/)|全球领先的人工智能驱动的数据到知识平台。利用实时洞察的力量，做出保护生命、促进经济增长和加强国家安全的数据驱动决策。|
 |521|[Babs](https://babs.ai/)|轻松地将语音从一种语言翻译成另一种语言，同时保留您的节奏、语调和表达方式。|
 |522|[Backengine](https://backengine.dev/)|该引擎能将对话转化为可部署的软件。只需自然语言，几分钟内即可构建您的应用程序。无需编码或基础设施。|
-|523|[Background Generator](https://www.zmo.ai/ai-background-changer)|在ZMO AI背景更换器中生成惊艳的背景！
-利用AI生成与您的照片相匹配的独特背景，打造引人注目的视觉效果。只需用几句话概括您的创意，让AI背景更换器为您构建一个与照片主题相得益彰的场景。|
+|523|[Background Generator](https://www.zmo.ai/ai-background-changer)|在ZMO AI背景更换器中生成惊艳的背景！利用AI生成与您的照片相匹配的独特背景，打造引人注目的视觉效果。只需用几句话概括您的创意，让AI背景更换器为您构建一个与照片主题相得益彰的场景。|
 |524|[background remover](https://icons8.com/bgremover)|使用AI擦除图像背景并使其变为透明背景。在线免费从任何照片中移除背景。|
 |525|[Background Remover AI](https://backgroundremoverai.com/)|背景移除AI让您能从视频和图像中移除背景。BackgroundRemoverAI.com采用机器学习技术，即人工智能，来从内容中移除背景。开源，并提供API接口。|
 |526|[Backtrack](https://www.usebacktrack.com/)|世界上首款应用，通过反向录音功能，帮助您在贸易展展位上总结和整理重要对话。|
@@ -589,9 +534,7 @@ B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户
 |529|[Banterai](https://www.banterai.app/)|AI 电话呼叫|
 |530|[Bappfy](https://www.bappfy.com/)|一体化平台，用于生成AI内容，让您在几分钟内开始赚钱。|
 |531|[Bardeen AI](https://www.bardeen.ai/)|工作流程任务自动化软件。轻松地在您工作中使用的应用程序中自动化任务。无需笨重的构建器或复杂的界面，只需告诉Bardeen您想做什么即可。|
-|532|[BarGPT](https://www.bargpt.app/)|指尖上的AI调酒配方。BarGPT是一个创新的在线平台，技术与调酒学在此相遇，为鸡尾酒爱好者提供独特的体验。
-
-|
+|532|[BarGPT](https://www.bargpt.app/)|指尖上的AI调酒配方。BarGPT是一个创新的在线平台，技术与调酒学在此相遇，为鸡尾酒爱好者提供独特的体验。|
 |533|[BaruaAI](https://www.baruaai.com/)|秒速生成高转化率销售邮件。我们的平台将您的关键产品细节和目标转化为具有说服力的文字，量身定制以吸引您的受众，从而极大地提高转化率。|
 |534|[Base for Music](https://www.baseformusic.com/)|"音乐基础"是简化版的营销平台，旨在帮助您接触新受众，与粉丝建立联系，促进您的音乐事业成长。|
 |535|[Base64.ai](https://base64.ai/)|借助生成式AI和LLMs即时处理文档。Base64.ai是领先的无代码AI解决方案，能够理解文档、照片和视频。|
@@ -603,11 +546,9 @@ B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户
 |541|[Be My Eyes](https://www.bemyeyes.com/)|"Be My Eyes" 连接全球有视力障碍或低视力用户与志愿者及企业，通过实时视频和人工智能技术，为需要视力帮助的人们提供支援。|
 |542|[Beacons](https://beacons.ai/)|使用一个免费的个人链接将您的粉丝与所有平台上的所有内容相连，发展您的创作者事业。在您的Beacons页面上吸引粉丝并直接赚钱：出售数字产品和服务、收集小费和捐赠、分享您的商店、推广活动和演出、建立订阅者列表等等。|
 |543|[Beam](https://getbeam.ai/)|在Mac上的任何位置按下热键即可聊天。无需订阅费用，无需登录，拥有您自己的API密钥。|
-|544|[Beamcast](https://beamcast.app/)|在所有网站上体验ChatGPT。
-更智能地写作，更快地编码，更迅速地提问。|
+|544|[Beamcast](https://beamcast.app/)|在所有网站上体验ChatGPT。更智能地写作，更快地编码，更迅速地提问。|
 |545|[Bearly](https://bearly.ai/)|Bearly通过将先进的人工智能添加到您的工作流程中，使您的工作效率提高10倍。阅读、写作和内容创作都只需一键之遥。|
-|546|[Beatoven.ai](https://www.beatoven.ai/)|创建独特且专属的背景音乐。
-一款直观的AI音乐生成器，可根据您的需求创作并定制音轨。|
+|546|[Beatoven.ai](https://www.beatoven.ai/)|创建独特且专属的背景音乐。一款直观的AI音乐生成器，可根据您的需求创作并定制音轨。|
 |547|[Beatsbrew](https://beatsbrew.com/)|体验我们的AI驱动的文字转音频样本生成器，轻松地将文本瞬间转化为高质量的音频样本。在几秒钟内生成逼真的乐器样本、节拍和循环，利用我们的创新解决方案简化您的创意流程。|
 |548|[beautiful.ai](https://www.beautiful.ai/)|演示软件|
 |549|[Beb.ai](https://beb.ai/)|为您的品牌接收源源不断的创意内容。可能性无穷无尽，无需任何设计技能。|
@@ -616,12 +557,9 @@ B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户
 |552|[BedtimeStory AI](https://www.bedtimestory.ai/)|在几秒钟内创建个性化的即时睡前故事。使用人工智能生成关于您孩子的故事，家庭成员作为角色，添加类型、艺术风格、道德寓意等更多元素。|
 |553|[BeeKrowd](https://www.beekrowd.com/)|在一个基于人工智能的平台上，制作一个高效的筹款概况和引人注目的财务模型。|
 |554|[Beemer](https://www.beemerdocs.com/)|两分钟内创建演讲文稿。我们的人工智能驱动平台让任何人都能轻松创建专业演示文稿。|
-|555|[Beepbooply](https://beepbooply.com)|使用AI语音生成器生成文本转语音。
-从超过900种声音中选择，轻松一键创建音频内容。|
-|556|[Beey](https://www.beey.io/)|在线语音识别工具，价格实惠，快速准确。
-在高级编辑器中几分钟内制作高质量字幕和副标题。|
-|557|[Beeyondai AI](https://www.beeyondai.com/)|
-您的全方位AI数字助理|
+|555|[Beepbooply](https://beepbooply.com)|使用AI语音生成器生成文本转语音。从超过900种声音中选择，轻松一键创建音频内容。|
+|556|[Beey](https://www.beey.io/)|在线语音识别工具，价格实惠，快速准确。在高级编辑器中几分钟内制作高质量字幕和副标题。|
+|557|[Beeyondai AI](https://www.beeyondai.com/)|您的全方位AI数字助理|
 |558|[BeforeSunset](https://www.beforesunset.ai/)|“BeforeSunset AI移动应用程序旨在无缝融入您的日常生活，为您提供便捷且易于访问的解决方案，以实现高效规划和提升生产力。”|
 |559|[BeFunky](https://www.befunky.com/)|BeFunky的一体化在线创意平台拥有您所需的一切，可轻松编辑照片、创建图形设计和制作照片拼贴。|
 |560|[Behired](https://behired.net/)|Behired彻底改变了你申请工作的方式。利用AI的力量来创建吸引人的简历和求职信，通过量身定制的问题来应对面试，并发现你的理想工作岗位。使用Behired，助你实现梦想职业！|
@@ -642,41 +580,28 @@ B12是最简便的AI网站构建器，助您在线吸引、赢得并服务客户
 |575|[BetterYeah](https://www.betteryeah.com/)|一款企业级AI应用开发平台,专注于构建业务专家级的AI工作助理|
 |576|[Beyond Limits](https://www.beyond.ai/)|通过提供透明、可审核的建议来转变您的业务，从而赋能您的员工队伍。|
 |577|[BeyondWords](https://beyondwords.io/)|使用BeyondWords，您和您的团队可以将文本转化为引人入胜的音频。借助我们的全合一音频CMS和AI语音增强您的发布工作流程。|
-|578|[BFF](https://www.textbff.com/)|BFF每天给你发一次短信，聊聊你的生活。
-讨论你的职业、目标、人际关系或情感。就当作是一个会与你互动的日记。|
+|578|[BFF](https://www.textbff.com/)|BFF每天给你发一次短信，聊聊你的生活。讨论你的职业、目标、人际关系或情感。就当作是一个会与你互动的日记。|
 |579|[BFF AI](https://askbff.com/)|BFF AI - 您的AI驱动的最佳朋友，轻松生成文本、图像和代码。获取答案、转录语音，提升您的创造力。|
 |580|[BG Remover](https://bgremover.stockphotos.com/)|免费的在线自动背景移除软件，用于放大图像并移除背景。利用AI自动检测物体、平滑边缘并移除背景。|
-|581|[Bg.Eraser](https://bgeraser.com/)|使用Bg Eraser轻松移除照片背景。借助我们基于AI的背景移除工具，实现专业效果，提升您的图片质量。
-
-|
+|581|[Bg.Eraser](https://bgeraser.com/)|使用Bg Eraser轻松移除照片背景。借助我们基于AI的背景移除工具，实现专业效果，提升您的图片质量。|
 |582|[BGM猫](https://bgmcat.com/home)|BGM猫提供版权背景音乐一站式服务,正版商业授权,AI智能生成曲库,免费无限,快捷授权,一键下载.|
-|583|[BgSub](https://bgsub.cn/)|使用先进的 人工智能技术 自动替换图像的背景.
-BgSub不仅可以自动去除图像背景 而且无需上传您的图像数据 从根本上保护用户隐私|
+|583|[BgSub](https://bgsub.cn/)|使用先进的 人工智能技术 自动替换图像的背景.BgSub不仅可以自动去除图像背景 而且无需上传您的图像数据 从根本上保护用户隐私|
 |584|[BibiGPT](https://bibigpt.co/?lang=zh)|一键总结音视频内容|
 |585|[Big Room](http://www.bigroom.tv/)|Big Room运用AI技术，能自动将任意风景视频转换成适合发布的垂直格式，适用于TikTok、Instagram Reels或Stories以及YouTube Shorts等平台。|
-|586|[Big Speak](https://bigspeak.ai/)|BigSpeak的文字转语音软件提供了您所需的解决方案。
-
-轻松、快速且安全地将书面文字转换为高质量的合成语音。|
+|586|[Big Speak](https://bigspeak.ai/)|BigSpeak的文字转语音软件提供了您所需的解决方案。轻松、快速且安全地将书面文字转换为高质量的合成语音。|
 |587|[Bigjpg](https://bigjpg.com/)|一款功能全面的图片放大软件,有多种风格可以选择|
 |588|[Bigmp4](https://bigmp4.com/)|使用2024年最先进人工智能 AI 模型，能将视频无损高清放大、增强画质、智能补帧使画面丝滑流畅栩栩如生同时支持黑白视频上色和慢动作|
-|589|[Bilfrost](https://www.bifrost.so/)|利用AI将您的Figma设计自动转化为干净的React代码。
-无需再从零开始编写前端代码。|
+|589|[Bilfrost](https://www.bifrost.so/)|利用AI将您的Figma设计自动转化为干净的React代码。无需再从零开始编写前端代码。|
 |590|[Bing Image Creator](https://cn.bing.com/images/create)|必应的智能搜索让快速找到所需信息变得更加简便，并为您带来奖励。|
-|591|[BingBang.ai](https://bingbang.ai/)|创造并自动化优化SEO的内容，速度提升10倍。
-
-节省时间，写得更好，加速您的增长。|
+|591|[BingBang.ai](https://bingbang.ai/)|创造并自动化优化SEO的内容，速度提升10倍。节省时间，写得更好，加速您的增长。|
 |592|[Bito](https://getbito.com/)|Bito，描述您的项目，立即为您生成完整、独特且美观的设计。或者使用我们的动画工具BASS，在浏览器上即时生成令人惊叹的3D动画和效果，通过Bito动画工作站提升您的代理机构、企业、产品或网站社交平台的互动性。又或者利用Bito，通过迅速响应客户的初步设计需求或灵感启发，以闪电般的速度促成交易。|
 |593|[Bitskout](https://www.bitskout.com/)|Sonny9是一款人工智能助手，它帮助注册会计师、税务准备人员和审计师高效地收集客户信息和文件，最大限度地减少反复沟通，提高工作效率。|
 |594|[BizIdeas](https://www.bizideas.ai/)|利用AI的力量，在几秒钟内生成个性化的商业创意。|
 |595|[Bizway](https://bizway.io/)|Bizway逐步引导您的企业从创意到启动及后续的整个旅程。生成您独有的50步路线图，跟踪进度，并在每一步都获得个性化的帮助。|
 |596|[BizzArt](https://shushantlakhyani.gumroad.com/l/bizzart)|为了帮助您学习如何利用AI艺术生成技能赚钱，我们已经准备了BizzArt。|
-|597|[Black Magic](https://blackmagic.cc/)|终极AI艺术生成器！
-
-前所未有的品质、速度和风格一致性，从文本创作出可用于生产的高质量AI艺术图像。|
+|597|[Black Magic](https://blackmagic.cc/)|终极AI艺术生成器！前所未有的品质、速度和风格一致性，从文本创作出可用于生产的高质量AI艺术图像。|
 |598|[BlackBox AI](https://www.blackbox.ai/)|BLACKBOX AI 是最出色的代码AI模型。数百万开发者使用Blackbox代码对话功能来解答编程问题，并在编写代码时加快速度。无论您是在修复错误、开发新功能还是重构代码，都可以求助于BLACKBOX来提供帮助。|
-|599|[BlackInk](https://blackink.ai/)|使用我们的纹身创建器在几秒钟内设计独一无二的纹身。
-
-不再花费数月时间在Pinterest和Instagram上寻找下一个纹身。通过BlackInk AI纹身制作器，在几秒钟内设计定制、独特的纹身。|
+|599|[BlackInk](https://blackink.ai/)|使用我们的纹身创建器在几秒钟内设计独一无二的纹身。不再花费数月时间在Pinterest和Instagram上寻找下一个纹身。通过BlackInk AI纹身制作器，在几秒钟内设计定制、独特的纹身。|
 |600|[Bladerunner](https://www.bladerunner.ai/)|一款浏览器扩展，可在网页上突出显示由GPT生成的文本。非常适合识别虚假的产品评论、留言、文章等。|
 |601|[Blahget](https://www.appar.ai/)|这就像为预算/支出追踪定制的ChatGPT一样。只需您的声音，即可跟踪和管理您的收支数据。我们集成了OpenAI的GPT技术精华，确保它成为一个智能、快速且准确的AI预算语音助手。无论是询问月度支出总结、设定节省目标，还是了解特定类别的消费情况，您只需对话即可完成，让财务管理变得前所未有的便捷与高效。|
 |602|[Blaze SQL](https://www.blazesql.com/)|这款AI数据分析聊天机器人能为您的SQL数据库自动生成SQL查询，就如同SQL数据库领域的ChatGPT。将其连接到您的SQL数据库，进行前沿的AI数据分析，让它为您效力。|
@@ -688,24 +613,19 @@ BgSub不仅可以自动去除图像背景 而且无需上传您的图像数据 �
 |608|[Blink](https://www.blinkops.com/)|Blink是一个安全工作流程自动化平台，利用生成式人工智能技术，旨在让构建、协作和扩展一切安全及相关事务变得快速而简单。|
 |609|[Blinkn](https://mmntm.me/blink)|将访客转化为顾客：快速寻找、比较并分析产品，打造极速购物体验。|
 |610|[Blog Booster](https://blogbooster.ai/)|在您的博客上开启AI自动驾驶。我们的AI将为您撰写文章并自动在WordPress网站上发布博客内容。|
-|611|[Blog Smith](https://www.blogsmith.io/)|自动创建内容，突破创意障碍。
-BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优质的内容，成为可能的最高产作家。|
+|611|[Blog Smith](https://www.blogsmith.io/)|自动创建内容，突破创意障碍。BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优质的内容，成为可能的最高产作家。|
 |612|[Blog Title Generator](https://www.ryrob.com/blog-title-generator/)|利用Ryan Robinson提供的这款免费AI驱动的SEO博客标题生成工具，根据您的目标关键词生成创意博客标题思路和示例标题。|
 |613|[Blogcast™](https://blogcast.host/)|使用文本转语音技术，无需麦克风，即可从您的博客文章和内容中生成清晰、自然的语音，适用于播客、视频等多场景需求。|
 |614|[Blogger AI](https://bloggerai.app/)|您与AI携手创作，BloggerAI让您在极短的时间内轻松写出完美的博客文章，审美与效率并重。|
 |615|[BlogMyVideo](https://www.blogmyvideo.com/)|将您的视频、音频和播客转化为精心制作的博客文章，使其对搜索引擎可见，吸引更多观众。|
 |616|[BlogNLP](https://www.blognlp.com/)|使用BlogNLP体验写作的未来：您的AI驱动写作助手和内容生成器。轻松创作出SEO优化、引人入胜的内容，节省时间且成本低廉。|
 |617|[Blogseo](https://www.blogseo.ai/)|借助BlogSEO AI轻松研究并撰写SEO优化的长篇文章。我们的AI写手遵循Google的最佳博客撰写和排名实践。|
-|618|[BlogToVideo](https://www.adorilabs.com/)|使用AI将您的文本转化为吸引眼球的视频。
-我们帮助博主在YouTube上实现内容变现，通过将博客转化为视频，使您的覆盖范围扩大10倍。|
+|618|[BlogToVideo](https://www.adorilabs.com/)|使用AI将您的文本转化为吸引眼球的视频。我们帮助博主在YouTube上实现内容变现，通过将博客转化为视频，使您的覆盖范围扩大10倍。|
 |619|[BlogTweet](https://blogtweet.xyz/)|使用AI在一分钟内将任何博客文章转化为Twitter线程。|
 |620|[Bloom AI](https://bloombot.ai/)|Bloom是您全天候、全情投入的学习伙伴。您可以随时与Bloom聊天，讨论任何话题。它旨在帮助您培养关键技能，追随您的好奇心。|
-|621|[BloombergGPT](https://gpt3demo.com/apps/bloomberggpt)|彭博社发布了一份研究报告，详细介绍了BloombergGPTTM的开发情况，这是一个新开发的大规模生成型人工智能（AI）模型。这一大型语言模型（LLM）专门针对广泛的财务数据进行了训练，以便在金融行业内支持多样化的自然语言处理（NLP）任务。
-
-尤其值得注意的是，BloombergGPT模型在财务相关任务上的表现大幅超越了现有相似规模的开放模型，同时在通用NLP基准测试中也表现出色或更优。|
+|621|[BloombergGPT](https://gpt3demo.com/apps/bloomberggpt)|彭博社发布了一份研究报告，详细介绍了BloombergGPTTM的开发情况，这是一个新开发的大规模生成型人工智能（AI）模型。这一大型语言模型（LLM）专门针对广泛的财务数据进行了训练，以便在金融行业内支持多样化的自然语言处理（NLP）任务。尤其值得注意的是，BloombergGPT模型在财务相关任务上的表现大幅超越了现有相似规模的开放模型，同时在通用NLP基准测试中也表现出色或更优。|
 |622|[blubi.ai](https://blubi.ai/)|借助AI技术，Blubi分析您在社交媒体上的写作内容和方式，并推荐带有可直接发布的相关内容的主题。|
-|623|[Bluedot](https://www.bluedothq.com/)|适用于Google Meet的AI驱动型Chrome扩展。
-使用根据您的需求定制的AI生成笔记，记录、转录并总结会议内容。|
+|623|[Bluedot](https://www.bluedothq.com/)|适用于Google Meet的AI驱动型Chrome扩展。使用根据您的需求定制的AI生成笔记，记录、转录并总结会议内容。|
 |624|[BlueGiraffeLabs](https://bluegiraffelabs.com/)|BlueGiraffeLabs 是一个充满活力的独立研究实验室，每天都满怀热情地探索和实验新技术。这个由女性主导的组织拥有一支专注于设计与应用程序开发的小型自筹资金团队，不断在科技领域拓展可能的边界。|
 |625|[BlueWillow](https://www.bluewillow.ai/)|一个免费的AI艺术生成器，能够创建令人惊叹的AI生成图像。用户可以使用这个工具轻松生成漂亮而独特的AI艺术、照片和图形。|
 |626|[BLUF](https://bluf.ai/)|BLUF是一款基于AI的网页助手，能提供网页内容的简明答案、摘要和解释。|
@@ -719,17 +639,14 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |634|[Booke AI](https://booke.ai)|Booke利用人工智能来修正未分类的交易和编码错误，改善与客户的沟通，并自动化更多的工作任务。|
 |635|[BookHero](https://www.bookhero.ai/)|从我们超过100本图书的图书馆中为您的孩子朗读，或仅需几分钟就能创建属于您自己的图书。|
 |636|[Booknotes](https://getbooknotes.com/)|阅读您最喜欢的书籍的摘要、关键思想、引用和可行行动点。全部由AI生成。|
-|637|[BooksAI](https://booksai.app/)|探索超过4000万本书的摘要。
-解锁由ChatGPT驱动的AI生成的书籍摘要与推荐的力量。|
+|637|[BooksAI](https://booksai.app/)|探索超过4000万本书的摘要。解锁由ChatGPT驱动的AI生成的书籍摘要与推荐的力量。|
 |638|[Booltool](https://booltool.boolv.tech/home)|一个多功能在线AI工具箱,这个在线平台包含图片编辑处理、视频剪辑和文案制作等功能。 |
 |639|[BOOLV](https://booltool.boolv.tech)|一款集所有功能于一身的网页解决方案，让您可以轻松地将资源转化为眼前一亮的内容。告别使用多个平台进行繁琐编辑工作的时代。这是数字营销人员、在线商店主、创作者和平面设计师必备的工具包！|
 |640|[Boolvideo](https://videomaker.welcome.boolv.tech/)|Boolvideo是一款基于AI的视频制作工具，让各类型企业轻松制作出专业且个性化的视频。我们的AI会分析您的原始素材，生成定制的视频脚本、音乐、特效及剪辑，输出符合您需求的高质量视频。|
 |641|[Boomy](https://boomy.com/)|一个AI生成音乐平台,可以让任何人在几秒钟内创作出原创的歌曲,即使你没有任何音乐制作的经验|
 |642|[Booth AI](https://booth.ai/)|在几分钟内构建您的AI解决方案。面向企业的无代码AI工作流程构建器|
 |643|[Borea AI](https://borea.ai/)|Borea AI是一个开创性的平台，打破金融与投资的传统常规，通过易于获取的AI驱动工具和洞察力，赋予您做出明智决策的能力，引领您走向成功之路。|
-|644|[Boring Report](https://www.boringreport.org/)|“Boring Report”是一款旨在去除新闻中的夸张元素，使其变得平淡无奇的应用程序。
-
-通过利用能够生成类似人类文本的先进AI语言模型的力量，“无聊报告”处理激动人心的新闻文章，并将其转化为您所看到的内容。这有助于读者集中关注重要细节，同时最大程度地减少夸张报道的影响。|
+|644|[Boring Report](https://www.boringreport.org/)|“Boring Report”是一款旨在去除新闻中的夸张元素，使其变得平淡无奇的应用程序。通过利用能够生成类似人类文本的先进AI语言模型的力量，“无聊报告”处理激动人心的新闻文章，并将其转化为您所看到的内容。这有助于读者集中关注重要细节，同时最大程度地减少夸张报道的影响。|
 |645|[BOSCO](https://askbosco.io/)|ASK BOSCO将您的所有数据连接起来，以便于报告，并预测如何分配媒体支出以获得最大回报，使您能够规划预算并以96%的准确度预测未来的业绩。|
 |646|[BotDistrikt](https://www.botdistrikt.com/)|构建以客户为中心、基于AI的聊天机器人应当是简单、有趣的，并且智能的。|
 |647|[Bothatch](https://bothatch.com/)|借助先进的AI训练方法，您上传的文档和数据将成为聊天机器人知识的基础，使其能够进行有意义且富有成效的对话。|
@@ -742,25 +659,19 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |654|[Bottr](https://bottr.me/)|针对您日常个人和商业任务最有帮助的人工智能。使用强大的LLMs（大语言模型）和机器人自动化您的工作流程，无需任何编程。|
 |655|[Boxy](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant)|编码助手，通过AI上下文解释、生成和重构代码，更快地将您的想法变为现实。|
 |656|[Brainbase](https://friendly-pineapple-558183.framer.app/)|为您的用户创建一个AI副驾，无需编写新代码。|
-|657|[Brainfish](https://brainfi.sh)|Brainfish是一种高级人工智能（AI），使客户能够即时自助解答他们的问题。
-实时生成的客户关注点洞察将帮助您的客户体验团队提高知识库内容的有效性。|
+|657|[Brainfish](https://brainfi.sh)|Brainfish是一种高级人工智能（AI），使客户能够即时自助解答他们的问题。实时生成的客户关注点洞察将帮助您的客户体验团队提高知识库内容的有效性。|
 |658|[Brainly](https://brainly.com/)|Brainly是一个知识共享社区，数亿学生和专家在这里集思广益，共同解决他们最棘手的家庭作业问题。|
 |659|[BrameWork](https://bramework.com/)|AI写手通过快速、SEO优化的文章提升您的博客。|
 |660|[Branchbob.ai](https://branchbob.ai/)|使用我们的AI驱动的店铺建设器，在秒内构建您的在线商店。获得一个专业的网站，今天就开始在线销售。无需编程技能！|
 |661|[Brancher AI](https://www.brancher.ai/)|无需编码，几分钟内将AI模型连接起来构建AI应用。下一代AI驱动的应用将由您来构建。|
-|662|[Branchminds](https://branchminds.com/)|AI研究助理，用于查找与您Notion内容相关的网络链接。
-这是一个直接嵌入您Notion中的小部件，它将读取您的Notion内容，帮助您研究并在您关心的话题中找到相关网络链接。|
+|662|[Branchminds](https://branchminds.com/)|AI研究助理，用于查找与您Notion内容相关的网络链接。这是一个直接嵌入您Notion中的小部件，它将读取您的Notion内容，帮助您研究并在您关心的话题中找到相关网络链接。|
 |663|[Brand AI Model](https://contlo.com/brand-ai-model/)|全球首个品牌情境生成AI模型。利用品牌AI生成营销资产、客户旅程等。|
 |664|[Brandbird](https://www.brandbird.app/)|BrandBird将您的截图转化为吸引眼球的图形，用于社交媒体帖子、着陆页、更新日志页面、新闻通讯等。|
 |665|[BrandCrowd](https://www.brandcrowd.com/)|拥有超过10万个模板，秒速制作您的logo、名片和社交媒体设计，随后即可立即下载。|
 |666|[Branded](https://gobranded.com/)|我们通过捕捉态度和情绪来补充大数据，为您提供消费者360度全方位视图。利用AI验证参与者反应，我们能以95%以上的准确率剔除不良参与者。|
-|667|[Brandfort](https://brandfort.co/)|使用人工智能自动删除您社交媒体页面上的不受欢迎评论！
-
-|
+|667|[Brandfort](https://brandfort.co/)|使用人工智能自动删除您社交媒体页面上的不受欢迎评论！|
 |668|[Branding5](https://www.branding5.com/)|解决您的营销难题，获取营销策略、洞察及活动创意。|
-|669|[Brandix](https://www.brandix.ai/)|Brandix利用人工智能生成独特、简短且可作为品牌的商业名称。我们的算法随着时间推移学会提出更好的建议。
-
-|
+|669|[Brandix](https://www.brandix.ai/)|Brandix利用人工智能生成独特、简短且可作为品牌的商业名称。我们的算法随着时间推移学会提出更好的建议。|
 |670|[Brandmark](https://brandmark.io/)|在一分钟内创建独特的徽标、名片及社交媒体图形。使用我们的生成式AI构建您的品牌形象。|
 |671|[Brandmate AI](https://brandmate.ai)|Brandmate是针对企业需求的AI驱动解决方案，旨在帮助有效管理品牌声誉并提升在线影响力。|
 |672|[Brandwise AI](https://brandwise.ai/)|Brandwise帮助您通过AI审核社交媒体评论，大规模管理对话，从而增加销售额。|
@@ -780,8 +691,7 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |686|[Broadn](https://www.broadn.io/)|为创始人、分析师和高管打造的AI研究代理。|
 |687|[Broken Bear](https://brokenbear.com/)|免费、在线且匿名地与AI泰迪熊聊天机器人聊天或倾诉心声。|
 |688|[Browse AI](https://browse.ai/)|监控任何网页的变动。将网络上的任意数据下载为电子表格形式。将任何网站转化为API。|
-|689|[Browse GPT](https://www.browsegpt.one/)|在网页上提出任何问题并获得上下文相关的答案。
-在需要的地方获取所需信息，无需离开当前页面。|
+|689|[Browse GPT](https://www.browsegpt.one/)|在网页上提出任何问题并获得上下文相关的答案。在需要的地方获取所需信息，无需离开当前页面。|
 |690|[BrowseGPT](https://browsegpt.ai/)|使用AI自动化您的浏览器操作|
 |691|[Browser AI](https://www.opera.com/features/browser-ai)|在Opera浏览器中与AI聊天。ChatGPT与Opera浏览器的AI助手Aria完全融入您的浏览器中。|
 |692|[Buddies](https://getbuddies.co/)|创建智能的虚拟AI朋友，并随时与他们聊天。|
@@ -801,14 +711,11 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |706|[BuyLensAI](https://buylensai.com/)|BuyLensAI助您享受最佳的在线购物体验。扫描并保存任何吸引您兴趣的商品。告别无尽的遗忘书签，今天就拥有您的个人购物总站。|
 |707|[Buzzy Ai](https://www.buzzy.buzz/)|Buzzy的AI驱动无代码平台能在几分钟内将您的想法转化为高质量的Figma设计及运行中的全栈网页或移动应用。或者，从Figma设计开始，直接从Figma创建应用，无需编码。|
 |708|[Byterat](https://www.byterat.io/)|现代电池科学数据平台|
-|709|[Byword](https://byword.ai/)|大规模生成高质量的AI编写文章。
-上传数千个关键词或标题，并仅需几次点击即可创建SEO优化的文章。|
+|709|[Byword](https://byword.ai/)|大规模生成高质量的AI编写文章。上传数千个关键词或标题，并仅需几次点击即可创建SEO优化的文章。|
 |710|[Caelus AI](https://caelusai.com/)|一款为您获取新用户的AI代理。在Twitter和Reddit上监控提及问题与竞争对手的关键词，并自动回复他们。|
 |711|[Caktus AI](https://caktus.ai/#!)|专为学生打造的最强大学习AI助手。使用Caktus AI即时写作、解题、编程等，功能更强大。|
 |712|[Cala](https://ca.la/)|CALA是领先的时尚平台，将设计、开发、生产和物流统一到单一的数字化平台中。无论您是利用我们的设计师和供应商网络，还是使用您自己的资源，CALA都能适应任何品牌的需求：大型成熟零售商、中型时装公司，以及独立设计师。|
-|713|[Calculus AI](https://www.vtiger.com/calculus-ai)|通过对话分析、下一步最优行动建议、智能提醒以及具备自然语言查询（NLQ）能力的定制聊天机器人，Calculus AI使您的员工能够更聪明地工作。
-
-搭载Calculus AI + GPT的Vtiger One助力您的市场营销、销售和客户服务团队提供卓越的客户愉悦体验。|
+|713|[Calculus AI](https://www.vtiger.com/calculus-ai)|通过对话分析、下一步最优行动建议、智能提醒以及具备自然语言查询（NLQ）能力的定制聊天机器人，Calculus AI使您的员工能够更聪明地工作。搭载Calculus AI + GPT的Vtiger One助力您的市场营销、销售和客户服务团队提供卓越的客户愉悦体验。|
 |714|[CaliberAI](https://caliberai.net/)|CaliberAI是一个AI平台，可轻松微调LLMs（大型语言模型），以检测潜在的高风险内容。|
 |715|[Call Connect](https://www.callconnect.ai/)|我们的AI驱动平台执行您的销售电话，提高效率并降低成本。|
 |716|[CallAnnie](https://callannie.ai/)|您永远在线的AI伙伴|
@@ -816,15 +723,11 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |718|[Camel AGI](https://camelagi.thesamur.ai/)|通过CAMEL，您将获得两个智能体，并为它们分配特殊角色。之后，只需观看它们🤝协同工作，共同解决您的任务，就像AutoGPT和BabyAGI一样。|
 |719|[Campbell](https://review.gobudapest.io/)|借助Campbell Reviews提升团队表现：采用AI驱动的评估、直观设计及多语言支持，以获得深刻反馈。|
 |720|[Canary Mail](https://canarymail.io/)|Canary学习您的邮件习惯。它可以帮您撰写邮件，提示需要注意的事项，屏蔽垃圾邮件，以及完成更多任务。向您的收件箱副驾问好吧。|
-|721|[CandideAI](https://www.candideai.com/)|在这里，您将以有趣的方式学习AI。
-向所有人开放的AI学校。
-在学习如何使用最新AI工具的同时，创建炫酷的东西|
+|721|[CandideAI](https://www.candideai.com/)|在这里，您将以有趣的方式学习AI。向所有人开放的AI学校。在学习如何使用最新AI工具的同时，创建炫酷的东西|
 |722|[Candy.ai](https://candy.ai/)|创建您的AI女友，塑造她的外观、个性，并一键让她活灵活现。100%由人工智能驱动。|
 |723|[Candydate](https://candydate.app/)|Candydate是一个视频招聘AI辅助平台，它简化了小型企业的招聘流程，使之如糖果般轻松愉快。|
 |724|[CandyIcons](https://www.candyicons.com/)|CandyIcons是首选的AI应用图标生成器。我们庞大的AI生成图标集可以帮助您为应用程序创建独特而吸引人的图标。|
-|725|[CanIRank](https://www.canirank.com/)|CanIRank是首款使用人工智能的SEO软件，它不仅提供数据，还为您提供具体的行动建议。
-
-对于每条建议，您可以获得详细的DIY操作指南，或者只需一键委托给SEO顾问。|
+|725|[CanIRank](https://www.canirank.com/)|CanIRank是首款使用人工智能的SEO软件，它不仅提供数据，还为您提供具体的行动建议。对于每条建议，您可以获得详细的DIY操作指南，或者只需一键委托给SEO顾问。|
 |726|[Canva](https://www.canva.cn)|一款支持多平台 （网页端、iPhone、iPAD及Android端）的在线平面设计工具|
 |727|[Canyon](https://www.usecanyon.com/)|求职者一站式工具，用于管理求职申请、构建简历、练习面试等。|
 |728|[Capacity](https://capacity.com/)|Capacity是一个AI驱动的支持自动化平台，它将您的整个技术堆栈连接起来，回答问题、自动化重复的支持任务，并构建应对任何业务挑战的解决方案。|
@@ -841,9 +744,7 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |739|[Careered AI](https://www.careered.ai/)|由支持ChatGPT的相同AI驱动。通过粘贴职位发布和您的简历来创建求职信。|
 |740|[Careerflow](https://www.careerflow.ai/)|您的职业副驾。AI辅助的工具和资源，助您以10倍的速度被FAANG（Facebook、Amazon、Apple、Netflix、Google）、顶级科技公司及初创公司录用。|
 |741|[CareerPen](https://careerpen.org/)|CareerPen是一款浏览器扩展程序，利用您的领英档案详情为任何职位广告创建个性化的求职信。|
-|742|[Careers.ai](https://careers.ai/)|借助Careers的AI助手简化招聘流程。轻松生成职位简介、面试问题及候选人挑战。
-
-|
+|742|[Careers.ai](https://careers.ai/)|借助Careers的AI助手简化招聘流程。轻松生成职位简介、面试问题及候选人挑战。|
 |743|[Cargo](https://www.getcargo.io/)|从单一中心协调所有市场运营活动。在正确的时间向您的CRM同步精选记录，进行整合、丰富。|
 |744|[Caricaturer.io](https://caricaturer.io/)|Caricaturer.io是一个在线卡通照片制作工具。利用AI和深度学习技术，根据您的肖像照片，我们可以生成60多种卡通照片。|
 |745|[Carousel Generator](https://rarsy.com/carousel-generator/)|在浏览器中快速创建和编辑美观的轮播图，适用于领英及所有其他平台。|
@@ -853,9 +754,7 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |749|[Casetext](https://casetext.com/)|AI法律助手在几分钟内完成文件审查、证言准备、合同分析及时间线创建，结果值得信赖。|
 |750|[CassetteAI](https://cassetteai.com/)|CassetteAI是首个利用人工智能根据文本生成音乐的平台。|
 |751|[Castpush](https://castpush.com/)|CastPush是一款基于AI的广播工具，用于Twitter、Telegram和Discord平台。|
-|752|[Catfishes](https://catfishes.co/)|仅需一条指令，即可创建一个逼真且连贯的AI女孩形象，并在30秒内获得结果。
-
-|
+|752|[Catfishes](https://catfishes.co/)|仅需一条指令，即可创建一个逼真且连贯的AI女孩形象，并在30秒内获得结果。|
 |753|[Caveduck](https://caveduck.io/)|创造你独一无二的AI朋友。|
 |754|[Cedille.ai](https://cedille.ai/)|人工智能辅助你进行文本生成、摘要及改写。|
 |755|[Celayix](https://www.celayix.com/)|Celayix是一个完全可定制的员工排班、考勤追踪及劳动力管理平台。|
@@ -872,22 +771,16 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |766|[Chaindesk](https://www.chaindesk.ai)|Chaindesk提供无需编程的平台，用于根据您的数据创建定制AI聊天机器人。我们的解决方案让客户支持变得简单，同时简化团队工作流程。|
 |767|[ChainGPT](https://www.chaingpt.org/)|ChainGPT为所有加密货币和区块链相关主题提供发展最快的AI技术。利用我们先进的AI模型，访问无限解决方案和应用场景：区块链分析、AI NFT生成器、AI交易、智能合约开发、AI审计、风险管理、加密货币新闻来源等。即刻访问ChainGPT.org。Chain GPT—加密货币AI工具。|
 |768|[Chapter One](https://chapteroneai.com/)|我们提供简易而深入的简历审查服务，助力您在竞争激烈的就业市场中取得申请成功。|
-|769|[ChapterGPT](https://chapterme.co/)|为您视频打造AI驱动的章节。
-吸引更多观众。仅需3个简单步骤，无需再手动为视频添加章节，节省宝贵时间。
-隆重介绍ChapterMe——快速为您的视频添加带时间戳章节的最简便方法，短短几分钟即可完成。|
+|769|[ChapterGPT](https://chapterme.co/)|为您视频打造AI驱动的章节。吸引更多观众。仅需3个简单步骤，无需再手动为视频添加章节，节省宝贵时间。隆重介绍ChapterMe——快速为您的视频添加带时间戳章节的最简便方法，短短几分钟即可完成。|
 |770|[Chapterize.ai](https://www.chapterize.ai/)|总结任意书籍、视频、论文或文章，直达关键信息。|
 |771|[Charachter Lingo](https://characterlingo.com/)|释放内心的明星潜质！将您的文字转变为您喜爱角色的魅力之声。|
 |772|[Character.AI](https://character.ai/)|一款基于大模型的角色聊天机器人|
 |773|[Charisma](https://charisma.ai/)|Charisma是一个即插即用平台，用于创建带有逼真虚拟角色的互动故事。与他们见面，交流，并改变故事走向。|
 |774|[Charley.ai](https://charley.ai)||
-|775|[Charm](https://charm.shubhro.com/)|Charm是Google Sheets附加组件，能自动化传统公式难以完成的工作。
-在您的电子表格中创建、转换并分析任何文本数据，简化操作流程。|
+|775|[Charm](https://charm.shubhro.com/)|Charm是Google Sheets附加组件，能自动化传统公式难以完成的工作。在您的电子表格中创建、转换并分析任何文本数据，简化操作流程。|
 |776|[CharmedAI](https://charmed.ai/)|通过全面的AI辅助工具集简化3D艺术创作流程。在一个平台上完成精细网格构建、制作惊艳材质及生动动画。|
-|777|[Chart](https://www.getcharteditor.com/)|通用API，用于验证税务记录。
-为用户提供自动同步联邦及州级税务记录的实时解决方案。|
-|778|[Chart My Life](https://chartmylife.ai/)|向AI陈述您的目标，如减肥、增加幸福感、学习新语言或撰写书籍。
-应用替您写日记并追踪关注的所有指标。
-您的个人AI教练每周都会布置个性化任务，助您达成目标。|
+|777|[Chart](https://www.getcharteditor.com/)|通用API，用于验证税务记录。为用户提供自动同步联邦及州级税务记录的实时解决方案。|
+|778|[Chart My Life](https://chartmylife.ai/)|向AI陈述您的目标，如减肥、增加幸福感、学习新语言或撰写书籍。应用替您写日记并追踪关注的所有指标。您的个人AI教练每周都会布置个性化任务，助您达成目标。|
 |779|[ChartAI](https://chartai.io/)|专为图表和图解设计的ChatGPT。|
 |780|[ChartGPT](https://www.chartgpt.dev/)|将文本转换为美观图表的工具。|
 |781|[Chat AI](https://apps.apple.com/us/app/chat-ai-chatbot-assistant-plus/id1665621226)|借助融合了ChatGPT和GPT-4技术的AI Chat，享受革命性的AI聊天机器人与助手服务，快速获得答案、专家见解及创意灵感。|
@@ -899,10 +792,8 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |787|[Chat2Build](https://chat2build.com/)|Chat2Build提供独特方式，让您能轻松高效地通过聊天创建网站。|
 |788|[Chat2Code](https://chat2code.dev/)|AI驱动的交互式编码：即时生成、执行和更新React组件。|
 |789|[Chat2Course](https://chat2course.com/)|智能课程开发助手|
-|790|[Chat2Design](https://chat2.design/)|用文本讲述，于设计中呈现。
-您的个人AI设计助手已就绪。将您的想法转化为现实。|
-|791|[Chatable](https://www.chatable.cc/)|借助AI代理和自动化提升生产力，节省时间。
-一体化AI工具，用于通过AI创建旁白，与根据您独特目标定制的个性化AI教练进行头脑风暴，以及使用我们的AI编写器轻松生成高质量内容。|
+|790|[Chat2Design](https://chat2.design/)|用文本讲述，于设计中呈现。您的个人AI设计助手已就绪。将您的想法转化为现实。|
+|791|[Chatable](https://www.chatable.cc/)|借助AI代理和自动化提升生产力，节省时间。一体化AI工具，用于通过AI创建旁白，与根据您独特目标定制的个性化AI教练进行头脑风暴，以及使用我们的AI编写器轻松生成高质量内容。|
 |792|[ChatAvatar](https://hyperhuman.deemos.com/chatavatar)|DeemosTech的ChatAvatar是先进的3D资产生成器。ChatAvatar已准备好投入生产，能根据文本或图像创建超逼真的3D面部资产，并带有PBR纹理。|
 |793|[ChatBA](https://www.chatba.com/)|立即使用ChatBA创建幻灯片演示文稿。|
 |794|[Chatbase](https://www.chatbase.co)|根据您的知识库构建AI聊天机器人，并将其添加到您的网站上，或通过我们的API与之互动。|
@@ -1000,24 +891,20 @@ BlogSmith是首个采用最新AI技术支撑的CMS，旨在帮助您产出更优
 |886|[ClickPrompt](https://www.clickprompt.org/en-US/)|ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享|
 |887|[ClientZen](https://www.clientzen.io/)|反馈分析软件，自动为SaaS产品团队的客户反馈添加标签，以便他们轻松管理产品路线图。|
 |888|[Clip.audio](https://www.clip.audio/)|通过自然语言查询和提示发现、生成和混音音频。Clip搜索互联网上的200多万个声音，生成音频功能即将推出。|
-|889|[Clip.fm](https://www.clip.fm/)|一键将播客转化为可病毒式传播的精彩片段。
-借助AI驱动的片段工作室，从您的内容中找到最佳瞬间，并允许您在几秒钟内自定义和导出。|
+|889|[Clip.fm](https://www.clip.fm/)|一键将播客转化为可病毒式传播的精彩片段。借助AI驱动的片段工作室，从您的内容中找到最佳瞬间，并允许您在几秒钟内自定义和导出。|
 |890|[ClipDish](https://apps.apple.com/us/app/clipdish-simplify-cooking/id1465427291)|ClipDish革命性地改变您的烹饪体验，这是一款终极食谱应用，将人工智能的魔力直接带入您的厨房！探索一个世界，只需轻点一下，即可在没有视觉杂乱的情况下保存食谱，并访问AI驱动的烹饪助手。告别混乱的烹饪方式，ClipDish让您迎接轻松、有序及烹饪技艺的大师级体验！|
 |891|[Clipdrop](https://clipdrop.co/)|一个人工智能在线图像编辑工具。它提供丰富的图像处理功能,包括免费的照片修图与高级付费功能,可以实现用户的不同需求。|
 |892|[Clipfly](https://www.clipfly.ai/)|使用Clipfly的一体化AI视频生成器，仅需文本提示即可创作出惊艳的AI视频。无需任何专业技能，将想法转变为专业级别的视觉效果。|
 |893|[ClipGen](https://www.clipgen.io/)|ClipGen一键自动将您的播客转化为适合社交平台的短片段，旨在扩大您在所有社交平台上的影响力。|
 |894|[ClipGPT](https://clipgpt.io/)|ClipGPT是一个全新的保存与分享平台，利用GPT的强大功能来总结您的书签和笔记。|
 |895|[Clips AI](https://www.clipsai.com/)|Clips AI是一个开源的Python库，能够自动将长视频转换为片段。只需几行代码，您就可以将视频分割成多个片段，并将其宽高比从16:9调整为9:16。|
-|896|[ClipyBoard](https://clipyboard.com/)|ClipyBoard让您定制看板，以改善客户服务或加强SEO分析。
-
-ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制客服发送的消息内容，提升工作效率和服务质量。|
+|896|[ClipyBoard](https://clipyboard.com/)|ClipyBoard让您定制看板，以改善客户服务或加强SEO分析。ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制客服发送的消息内容，提升工作效率和服务质量。|
 |897|[Clockk](https://clockk.com/)|想象一下为您的工作周配备一台时间机器。不再需要手动计时。借助自动化的AI驱动时间追踪，不错过每一天的每一分钟。|
 |898|[CloneDub](https://www.clonedub.com/)|Clonedub是一个平台，让您能够创建和管理视频配音。您可以上传文件，开始为您的内容配音。此外，您还可以一键下载包含SRT字幕文件、音频和视频文件的成品。|
 |899|[Clonemyvoice.io](https://clonemyvoice.io/)|获得专为长篇内容（如播客、演示文稿和社交媒体）制作的出色AI音频旁白。|
 |900|[ClosersCopy](https://www.closerscopy.com/)|通过SEO优化的博客和不可抗拒的营销文案来提升您的销售业绩。|
 |901|[Pro-Writer ](https://pro-writer.de/)|无论您处于何种起点或正在处理何种工作，Pro-Writer都能让写作变得简单而有趣。它是一个AI编辑器，为您的创意提供成长和闪耀的空间，在您写作旅程的每一步都给予支持。|
-|902|[Coach Marlee](https://www.fingerprintforsuccess.com/for-individuals)|运用人工智能教练打造你所热爱的生活。
-为了实现目标，您需要一位值得信赖的教练来释放您的内在潜能，为您提供复杂情况下的实时反馈，并确保您保持正轨。人工智能教练将这一切及更多功能置于您的掌中，助您发挥全部潜力。|
+|902|[Coach Marlee](https://www.fingerprintforsuccess.com/for-individuals)|运用人工智能教练打造你所热爱的生活。为了实现目标，您需要一位值得信赖的教练来释放您的内在潜能，为您提供复杂情况下的实时反馈，并确保您保持正轨。人工智能教练将这一切及更多功能置于您的掌中，助您发挥全部潜力。|
 |903|[Coachvox AI](https://coachvox.ai)|企业家、教练和内容创作者，今天就创建您的AI版本。全天候增加价值、与观众互动并产生潜在客户。|
 |904|[Coated](https://coated.ai/)|借助我们基于AI的室内设计工具，轻松转变任何空间。利用我们易于上手的软件，创造既个性化又符合专业标准的设计方案，完全贴合您的偏好。|
 |905|[CoCalc](https://cocalc.com/)|CoCalc是一款面向研究、教学和科学出版目的的云协作软件。|
@@ -1044,13 +931,10 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |926|[Coderabbit.ai](https://coderabbit.ai/)|AI优先的拉取请求审查器，具备上下文感知的反馈、逐行代码建议以及实时聊天功能。|
 |927|[Coderbuds](https://coderbuds.com/)|Coderbuds通过自动添加注释和审查来增强您的代码，捕捉诸如代码质量评分等关键指标。随着团队的成长和演变，确保代码的卓越性。|
 |928|[CodeSnippets](https://codesnippets.ai/)|使用GPT-4、Mixtral 8x7B、Capybara 7B等模型生成代码，并在多个平台上保存、存储和复用您的团队代码片段。|
-|929|[CodeSquire](https://codesquire.ai/)|为数据科学家、工程师和分析师设计的AI代码编写助手。
-在您键入时获得代码补全和建议。按Tab键插入。|
+|929|[CodeSquire](https://codesquire.ai/)|为数据科学家、工程师和分析师设计的AI代码编写助手。在您键入时获得代码补全和建议。按Tab键插入。|
 |930|[CodeThreat](https://www.codethreat.com/)|CodeThreat提供基于AI的静态应用程序安全测试（SAST）解决方案，能进行全面且精确的代码分析，同时将误报减至最低。|
 |931|[CodeWP](https://codewp.ai/)|面向WordPress创建者的AI代码与聊天工具。利用专门针对WordPress及Gutenberg、Elementor等流行插件构建和训练的平台。|
-|932|[Codex](https://openai.com/index/openai-codex/)|CodeX是为GitHub Copilot提供动力的模型，这一工具是我们与GitHub合作构建并发布的。CodeX熟练掌握十几种编程语言，如今它能够解读自然语言中的简单指令，并代表用户执行这些指令——这意味着我们能够为现有应用构建一个自然语言接口。
-
-这一举措旨在促进技术社区的创新与协作，让更多的开发者能够利用CodeX的强大功能，为软件开发流程带来革命性的变化。无论是自动化日常任务、提高代码编写效率，还是创建全新的应用程序，CodeX都有可能成为推动行业进步的关键工具。|
+|932|[Codex](https://openai.com/index/openai-codex/)|CodeX是为GitHub Copilot提供动力的模型，这一工具是我们与GitHub合作构建并发布的。CodeX熟练掌握十几种编程语言，如今它能够解读自然语言中的简单指令，并代表用户执行这些指令——这意味着我们能够为现有应用构建一个自然语言接口。这一举措旨在促进技术社区的创新与协作，让更多的开发者能够利用CodeX的强大功能，为软件开发流程带来革命性的变化。无论是自动化日常任务、提高代码编写效率，还是创建全新的应用程序，CodeX都有可能成为推动行业进步的关键工具。|
 |933|[Codiga](https://www.codiga.io/)|可在您的IDE、CI/CD管道等中运行的可定制静态代码分析。|
 |934|[CodiumAI](https://www.codium.ai/)|通过CodiumAI，您可以在IDE内部直接获得非琐碎的测试建议，使您能够更智能地编码，创造更多价值，并在提交时保持信心。|
 |935|[Cody](https://sourcegraph.com/cody)|Cody是一款AI编码助手，利用高级搜索和代码库上下文帮助您更快地理解、编写和修复代码。|
@@ -1075,11 +959,8 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |954|[Collov AI](https://collov.cn/)|用想象的速度来创造家居设计，真实光影效果，让你的设计更贴近实景。智能加速算法，释放你的创意能量。让创作更高效，让设计更出彩！|
 |955|[Collov.ai](https://collov.ai/ai-video-generator)|Collov AI先进的AI视频生成器能将文本和图像转化为迷人的视频，轻松地将您的想法编织成引人入胜的视觉故事。|
 |956|[Color Anything](https://color-anything.com/)|使用AI为孩子们（或大人！）创造填色页，内容可以是你能想象的任何事物。|
-|957|[Color Pop](https://colorpop.ai/)|
-使用一款趣味横生、易于上手的应用程序，发明填色的未来，让你随心所欲地填色，并融入一个充满关怀的社区。|
-|958|[Color Wheel](https://brandmark.io/color-wheel/)|AI色彩轮自动为徽标、插图、线框图和其他图形艺术上色。
-
-上传您的设计以快速生成调色板。|
+|957|[Color Pop](https://colorpop.ai/)|使用一款趣味横生、易于上手的应用程序，发明填色的未来，让你随心所欲地填色，并融入一个充满关怀的社区。|
+|958|[Color Wheel](https://brandmark.io/color-wheel/)|AI色彩轮自动为徽标、插图、线框图和其他图形艺术上色。上传您的设计以快速生成调色板。|
 |959|[ColorBliss.art](https://colorbliss.art/)|使用我们的AI涂色页生成器来制作您自己的定制涂色表，或者从我们数百份免费的涂色和可打印表中进行选择。|
 |960|[Colorify.ai](https://www.colorify.ai/)|使用AI为您的黑白图像增添色彩|
 |961|[Coloring Pages AI](https://coloringpagesai.com/)|创建可打印的自定义AI涂色页。满足孩子们的愿望，为他们制作精彩的涂色页。为你的独特创作上色并享受其中的乐趣吧！|
@@ -1114,8 +995,7 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |990|[Contenda](https://contenda.co/)|Contenda是一家以人力驱动的AI公司，为您带来诸如Brainstory这样的产品！|
 |991|[Content at Scale](https://contentatscale.ai/)|寻找最佳的AI SEO写手吗？Content at Scale的RankWell® AI写手提供研究最深入且无法察觉的AI输出。|
 |992|[Content Cloud](https://contentcloud.app/)|创意引擎通过分析您的过往帖子及特定领域的相关内容，帮助创业型创作者研究内容创意。|
-|993|[Content Generator](https://icerik.ekayazilim.com.tr/)|AI驱动的内容生成器
-创建独特且引人入胜的内容，以提高转化率并推动销售额。|
+|993|[Content Generator](https://icerik.ekayazilim.com.tr/)|AI驱动的内容生成器创建独特且引人入胜的内容，以提高转化率并推动销售额。|
 |994|[Content Robot](https://contentrobot.io/)|探索终极的AI驱动内容创作解决方案，适用于博客、文章、社交媒体、亚马逊销售、ETSY销售等多方面需求。凭借我们多样化的工具和功能，您可以创作吸引人的内容、优化广告、生成产品名称，并增强您的整体在线影响力。即刻转变您的内容策略！|
 |995|[Content Writer Tools](https://contentwritertools.com/)|我们提供超过170种AI内容写作工具，专为作家和内容创作者设计。我们的文本生成器是最出色的免费AI写作工具，无需提示即可轻松使用，助您创作更优质的内容。|
 |996|[ContentBot](https://contentbot.ai/)|打造您的AI工作流程终极解决方案。创建定制的AI内容流程，简化您的内容创作流程，提升效率。|
@@ -1170,14 +1050,10 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |1045|[Cover Letter Copilot](https://coverlettercopilot.ai/)|Cover Letter Copilot是一款AI求职信生成器，作为您申请工作的终极助手。告别撰写求职信的压力，在不到60秒内生成AI求职信。终于有一款免费的AI求职信生成器，听起来就像您亲自书写的一样。|
 |1046|[CoverDoc.ai](https://coverdoc.ai/)|借助CoverDoc的AI助手，更快地找到下一份工作。撰写个性化的、影响力强的求职信，并在面试中脱颖而出。无需具备AI专业知识！|
 |1047|[Coverler](https://coverler.com)|我们提供求职信AI生成器，针对您的个人申请需求进行定制。制作一封能反映您经历和抱负的信件。|
-|1048|[Coverletter.app](https://coverletter.app/)|释放coverletter.app的AI潜能，创作出有影响力的个性化求职信。利用真实案例和专业模板，在求职过程中脱颖而出，给雇主留下深刻印象。
-
-|
+|1048|[Coverletter.app](https://coverletter.app/)|释放coverletter.app的AI潜能，创作出有影响力的个性化求职信。利用真实案例和专业模板，在求职过程中脱颖而出，给雇主留下深刻印象。|
 |1049|[CoverLetterGPT](https://coverlettergpt.xyz/)|使用GPT根据您的技能创建独一无二的求职信。借助Cover Letter GPT，为您的求职之旅加油提速。|
 |1050|[CoverLetterSimple.ai](https://coverlettersimple.ai/)|通过CoverLetterSimple.ai创作一份引人注目的求职信。我们的AI驱动工具助您打造个性突出的专属求职信。|
-|1051|[CoverLetterWrite](https://coverletterwrite.com/)|要求AI为您编写个性化的求职信。
-
-|
+|1051|[CoverLetterWrite](https://coverletterwrite.com/)|要求AI为您编写个性化的求职信。|
 |1052|[CoverQuick](https://www.coverquick.co/)|运用AI辅助您制作简历、求职信等材料，让您能把精力留到真正被聘用后的实际工作中去。|
 |1053|[CovrLtr](https://covrltr.com/)|我们的AI求职信编写工具将使您申请任何职位或角色变得更加轻松快捷。今天就开始使用CovrLtr来撰写和管理您的申请吧。|
 |1054|[CPUmade](https://www.cpumade.com/)|利用AI设计您自己的T恤。|
@@ -1233,9 +1109,7 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |1104|[Cycle](https://www.cycle.app/)|Cycle是您的团队快速捕捉产品反馈、分享客户洞察的最便捷方式——无需繁琐工作。|
 |1105|[C知道](https://so.csdn.net/chat)|C知道由CSDN和外部合作伙伴联合研发的领先AI产品，能高效完成AI问答、AI对话、文件分析、代码生成以及开发相关的问题，帮您提高工作和学习效率。|
 |1106|[D-ID](https://www.d-id.com/)|D-ID位于变革生成式AI驱动交互与内容创造的前沿。公司专注于自然用户界面(NUI)技术，D-ID的平台无缝转换图像、文本、视频、音频和声音为高度吸引人的数字人物，提供独一无二的沉浸式体验。D-ID结合面部合成与深度学习的专业知识，以多种语言提供交互式AI体验，提升并扩展我们在数字世界中连接与创造的方式。|
-|1107|[D-iD AI Agents](https://www.d-id.com/agents)|通过将先进语言模型的智能与面对面交流的温馨融合，D-ID代理重新定义了数字连接，使其更加个性化、吸引人且更富有人情味。
-
-您所需做的就是选择代理的外观，挑选声音或克隆您自己的声音，描述希望它如何互动，并提供文件以丰富和个性化其知识库。几分钟之内，您就能拥有一个可以像真人一样交谈的数字人物。|
+|1107|[D-iD AI Agents](https://www.d-id.com/agents)|通过将先进语言模型的智能与面对面交流的温馨融合，D-ID代理重新定义了数字连接，使其更加个性化、吸引人且更富有人情味。您所需做的就是选择代理的外观，挑选声音或克隆您自己的声音，描述希望它如何互动，并提供文件以丰富和个性化其知识库。几分钟之内，您就能拥有一个可以像真人一样交谈的数字人物。|
 |1108|[D-ID-studio](https://www.d-id.com/creative-reality-studio/)|D-ID的Creative Reality™工作室为您提供了一套最强大的生成式AI工具，用于制作以数字人物为主角的精彩视频。结合D-ID深度学习面部动画技术、基于LLM的文本生成以及文本转图像的能力，自助式工作室是那些寻求创造惊人且尖端视频人士的必备平台。|
 |1109|[Daft Art](https://daftart.ai/)|Daft Art是一个高端的AI专辑封面生成器，它允许您在几分钟内，借助精选美学和简易编辑器，为您的专辑或曲目封面创建出惊人且高质量的艺术作品。|
 |1110|[DailyBot](https://www.dailybot.com/product/ai)|通过DailyBot的AI聊天助手优化工作流程。已准备好兼容Slack、Google Chat、Teams和Discord。|
@@ -1254,9 +1128,7 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |1123|[Databricks Lakehouse Platform](https://www.databricks.com/product/data-lakehouse)|湖仓架构结合了数据湖和数据仓库的最佳特性，助您降低成本并实现任何AI应用场景。|
 |1124|[Databutton](https://databutton.com/)|使用Databutton——世界上首个完全由AI驱动的应用开发工具，在几天内而非几周内将您的创意付诸实践。|
 |1125|[DataCamp](https://www.datacamp.com/)|通过学习Python、ChatGPT、SQL、Power BI，并获得行业领先的认证，释放数据与AI的力量。|
-|1126|[DataChat AI](https://datachat.ai/)|DataChat使您的团队能够创造具有行动指导意义的洞察，为您的业务带来竞争优势。让数据分析变得触手可及。
-
-|
+|1126|[DataChat AI](https://datachat.ai/)|DataChat使您的团队能够创造具有行动指导意义的洞察，为您的业务带来竞争优势。让数据分析变得触手可及。|
 |1127|[Dataflix GenIQ](https://www.dataflix.com/geniq/)|GenIQ利用生成式AI通过自然语言生成长篇文档的简明摘要。用户可以使用自然语言与所有类型的文件（包括音频、视频、PDF、Word等）交互，实时获取答案。|
 |1128|[Dataiku](https://www.dataiku.com/)|Dataiku是全球领先的日常AI平台，系统化地利用数据以实现卓越的业务成果。|
 |1129|[Dataku](https://dataku.ai/)|利用大型语言模型(LLMs)驱动的高级数据抽取和转换功能。大规模地将非结构化文本和文档转化为结构化数据。|
@@ -1279,8 +1151,7 @@ ClipyBoard使您能够配置消息并邀请合作者加入，从而全面控制�
 |1146|[Deal Code](https://www.dealcode.ai/lp/sales-ai-message-generator)|使用Dealcode的AI销售信息生成器彻底改变销售拓展和跟进方式。该工具可以帮助您以100倍的速度撰写高度个性化的信息，转化率比传统方式高出20倍。|
 |1147|[Dealight](https://www.dealight.ai/)|这是为早期创业者提供的AI匹配平台。它通过AI驱动的实时洞察来帮助你优化业务，并与感兴趣的投资者建立联系。|
 |1148|[Dealwise](https://godealwise.com/)|Dealwise将寻求SBA融资的收购型企业家与最符合他们需求的贷款机构进行匹配，加速交易完成过程，确保时间不会导致交易失败。|
-|1149|[DeAP Learning Labs](https://deaplearning.com/)|
-DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机器人！|
+|1149|[DeAP Learning Labs](https://deaplearning.com/)|DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机器人！|
 |1150|[Dear Ai](https://dearai.xyz/)|利用人工智能的力量生成亲密、深思熟虑且优美的信件。|
 |1151|[DearFlow](https://www.dearflow.ai/)|在几分钟内构建并部署由人工智能驱动的工作流程。|
 |1152|[DebateAI](https://debateai.org/debate)|DebateAI.org是一个使用人工智能帮助你成为更好辩手的网络应用。|
@@ -1356,9 +1227,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1222|[DevGPT](https://www.devgpt.com/)|借助DevGPT释放编程效率：这款AI驱动的开发者工具将你的Jira工单转化为准备就绪的待审合并请求。优化工作流程，提高生产力，通过学习和适应你的独特需求的AI提升代码质量。现在就来尝试，加入自动化编码解决方案的革命！|
 |1223|[Devi](https://ddevi.com/)|Devi监控Facebook群组、LinkedIn、Twitter和Reddit上的关键词，并使用ChatGPT或Bard进行外联以促成交易。Devi还利用AI在所有社交媒体账号上创建和安排内容。有了Devi，你可以在社交媒体上花费更少时间，专注于拓展业务。|
 |1224|[Devin](https://preview.devin.ai/)|你可靠的AI软件工程师|
-|1225|[Devoid](https://devoid.pics/)|允许每个人释放创意思维的神经网络。没有限制。
-
-|
+|1225|[Devoid](https://devoid.pics/)|允许每个人释放创意思维的神经网络。没有限制。|
 |1226|[Devops Security](https://checklist.devops.security/)|设计时内置的自动化安全机制。|
 |1227|[Devv](https://devv.ai/zh)|Devv - 面向程序员的新一代 AI 搜索引擎。支持快速、精准地找到编程解决方案，提升开发效率。|
 |1228|[Dewey](https://www.withdewey.com/)|你的新进负责伙伴|
@@ -1368,10 +1237,8 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1232|[Dialoq AI](https://dialoqai.com/)|Dialoq是一款无代码工具，让你能够上传自己的数据并创建AI驱动的聊天机器人。|
 |1233|[Dictation IO](https://dictation.io/)|Dictation"是一款免费的在线语音识别软件，它能通过语音叙述帮助你撰写邮件、文档和论文，无需打字。|
 |1234|[Diffusers](https://apps.apple.com/app/diffusers/id1666309574)|Diffusers"是一款原生Mac应用，可以从文字描述生成你想要的图像。它使用的是由社区贡献给"Hugging Face Hub"的最先进模型。|
-|1235|[Diffusion Logo Studio](https://diffusion-logo-studio.gradientinsight.com/)|探索"Aikiu Studio"，这是进化的"Diffusion Logo Studio"。它提供了更简单的流程，改进的人工智能，以及自动矢量化，而且没有价格增加。现在就试试看吧！
-|
-|1236|[Dify](https://dify.ai/)|下一代开发平台" - 轻松构建和运行生成式AI应用程序。
-基于任何LLMs（大型语言模型）创建助手API和GPTs（生成预训练转换器）。|
+|1235|[Diffusion Logo Studio](https://diffusion-logo-studio.gradientinsight.com/)|探索"Aikiu Studio"，这是进化的"Diffusion Logo Studio"。它提供了更简单的流程，改进的人工智能，以及自动矢量化，而且没有价格增加。现在就试试看吧！|
+|1236|[Dify](https://dify.ai/)|下一代开发平台" - 轻松构建和运行生成式AI应用程序。基于任何LLMs（大型语言模型）创建助手API和GPTs（生成预训练转换器）。|
 |1237|[DigestDiff](https://www.digestdiff.com/)|DigestDiff"借助仅依赖于提交历史而非代码的AI驱动工具，帮助你在私密环境下讲述那些故事。|
 |1238|[Digital First AI](https://digitalfirst.ai/)|认识"DigitalFirst.AI"——一款革命性工具，它能帮你找到解决任何营销问题的策略，并且无需先前经验或专业人士协助就能运用。|
 |1239|[DigitalMuses.ai](https://www.digitalmuses.ai/)|创造你自己的爱恋对象|
@@ -1406,8 +1273,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1268|[DoMyShoot](https://www.domyshoot.com/)|我们是亚马逊、Shopify、沃尔玛和其他电商平台及社交媒体平台产品摄影的AI技术专家。无论是白色背景图片、生活方式拍摄、模特影像、信息图还是增强品牌内容，我们都为您提供全面服务。|
 |1269|[DoNotPay](https://donotpay.com/)|继续享受免费试用、解决停车罚单、起诉骚扰电话者索赔等更多功能。|
 |1270|[Donovan](https://scale.com/donovan-trial)|Donovan是一位国家安全部门的人工智能数字职员，能够加速决策过程，揭示深刻洞察，加快传统工作流程，助力任务成功。|
-|1271|[Doodle Tale](https://doodletale.me/)|寻找一款既能吸引孩子又能培养他们运动技能、创造力和想象力的教育应用？您的搜索到此为止！
-|
+|1271|[Doodle Tale](https://doodletale.me/)|寻找一款既能吸引孩子又能培养他们运动技能、创造力和想象力的教育应用？您的搜索到此为止！|
 |1272|[Doogle AI](https://app.questmate.com/p/31b674b2-d814-426d-b3e7-8ffec04d9a5e)|创建清单、表单和工作流，助您完成任何工作任务。将您现有的应用程序、数据与智能设备连接至Quests，实现对现有系统的访问。|
 |1273|[Dopepics.io](https://dopepics.io/)|无需任何技术技能即可获得AI图像编辑超能力，提升您的创意水平。全天候创作8K品质的惊艳图像。|
 |1274|[Dora AI](https://www.dora.run/)|无需编写代码即可发布精美的3D动画网站。使用Dora AI生成着陆页和设计灵感。得益于我们的无代码平台，您可以在完全可视化的画布上创建专业而定制的网站，享受其中的便利。从我们的响应式设计和灵活的域名设置中获益。使用Dora，设计师可以轻松地将Figma项目导入至Dora，并享受免费计划。利用我们最新的文本转网站功能，通过自然语言提示生成网站。今天就开始探索无限可能，借助Dora让您的创意梦想成真！|
@@ -1431,8 +1297,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1292|[Dream Up (Deviant Art)](https://www.dreamup.com/)|DeviantArt是全球最大的在线社交社区，面向艺术家及艺术爱好者，让人们通过创作与分享艺术作品相互连接。|
 |1293|[DREAM.page](https://dream.page/)|Dream Page是一个AI驱动的博客平台，让您能在几分钟内创建博客和网站。今天就开启您的博客吧！|
 |1294|[Dreamcard.ai](https://dreamcard.ai/)|由AI驱动的贺卡增添更多乐趣|
-|1295|[Dreamer](https://slashdreamer.com/)|为Notion定制的AI生成图像！
-借助我们的AI图像生成器，让您的Notion页面提升到新的高度——这是在数秒内创造视觉效果的秘密武器！|
+|1295|[Dreamer](https://slashdreamer.com/)|为Notion定制的AI生成图像！借助我们的AI图像生成器，让您的Notion页面提升到新的高度——这是在数秒内创造视觉效果的秘密武器！|
 |1296|[Dreamery](https://dreamery.ai/)|立即使用Dreamery的AI将您的自拍照变成专业头像或您梦想中的任何形象。|
 |1297|[DreamFace](https://dreamfaceapp.com/)|DreamFace是一款照片动画应用！只需一键，利用AI生成惊艳视频！|
 |1298|[DreamGen](https://dreamgen.com/)|无限制的AI角色扮演聊天和故事生成器。与AI角色聊天，生成情色同人小说，或只是随意嬉戏。没有规则，没有限制，只有你的想象。|
@@ -1461,9 +1326,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1321|[Drippi.ai](https://www.drippi.ai/)|Drippi运用AI技术自动化高度个性化的外联信息，使用过滤器、自动回复等功能帮您整理收件箱。|
 |1322|[DrLambda](https://drlambda.ai/)|您的AI助手，用于创建专业幻灯片和帖子。将文档、网页、视频和推文转化为专业幻灯片和文件。|
 |1323|[Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools)|今天，我们兴奋地推出新的AI赋能工具，帮助您从内容中获得更多，做到最佳工作表现。|
-|1324|[Dropshipping Copilot](https://www.dscopilot.ai)|通过Dropshipping Copilot，一款顶级的AI驱动工具及AliExpress官方合作伙伴，来最大化你的代发货业务成功。利用有关市场趋势和盈利策略的行动导向、数据驱动的洞察，获得竞争优势。借助AI优化提升商品列表，吸引购物者。从最佳供应商处有效采购，实现无与伦比的利润增长。
-
-|
+|1324|[Dropshipping Copilot](https://www.dscopilot.ai)|通过Dropshipping Copilot，一款顶级的AI驱动工具及AliExpress官方合作伙伴，来最大化你的代发货业务成功。利用有关市场趋势和盈利策略的行动导向、数据驱动的洞察，获得竞争优势。借助AI优化提升商品列表，吸引购物者。从最佳供应商处有效采购，实现无与伦比的利润增长。|
 |1325|[Dropy AI](https://www.dropy.ai/)|寻找一款AI驱动的代发货应用和优胜产品研究平台？我们的综合且用户友好的解决方案就是你无需再寻的答案。通过我们的应用，你可以轻松找到并从优质供应商采购优胜产品，管理库存，并简化订单履行流程。此外，我们的智能算法提供宝贵见解和建议，帮助你优化销售，领先于竞争对手。今天就开始试用，将你的代发货业务提升至全新高度！|
 |1326|[Drumloop AI](https://www.drumloopai.com/)|使用具有神经音频网络的AI生成鼓点循环节奏。|
 |1327|[DryMerge](https://www.drymerge.com/)|DryMerge让你在几分钟内连接应用并自动化重复任务。今天免费试用，仅需30秒即可节省数小时时间。|
@@ -1527,11 +1390,9 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1385|[Elephas](https://elephas.app/)|为你的整个知识库配备ChatGPT。更快更智能地写作，每天最多节省3小时。|
 |1386|[Elevate.AI](https://apps.microsoft.com/store/detail/elevateai/9MWB0HXKSKH0)|Elevate为你提供超能力，使你能够自信地测量视频通话中每个人的沟通情绪。|
 |1387|[ElevenLabs](https://elevenlabs.io/)|有史以来最强大的在线AI文本转语音（TTS）软件，免费创建任何风格和语言的高级AI语音。通过我们的角色AI语音生成器，在几分钟内生成文本转语音旁白。|
-|1388|[Elf Help](https://www.elfhelp.ai/)|节日送礼需要灵感？Elf help是你终极的送礼助手，为你的清单上每个人提供创意和个性化的建议。
-个性化精灵信息。|
+|1388|[Elf Help](https://www.elfhelp.ai/)|节日送礼需要灵感？Elf help是你终极的送礼助手，为你的清单上每个人提供创意和个性化的建议。个性化精灵信息。|
 |1389|[Elf Messages](https://elfmessages.com/)|通过个性化的音频录制，让你的圣诞精灵栩栩如生。|
-|1390|[Elicit](https://elicit.org/)|利用AI搜索、总结、从超过1亿2千5百万篇论文中提取数据，并与之对话。被学术界和工业界的超过2百万研究者使用。
-|
+|1390|[Elicit](https://elicit.org/)|利用AI搜索、总结、从超过1亿2千5百万篇论文中提取数据，并与之对话。被学术界和工业界的超过2百万研究者使用。|
 |1391|[Elite-AI-Write](https://eliteaiwriter.com/)|为你的博客、广告、邮件和网站创造SEO优化且无抄袭的高质量内容，速度提升10倍。|
 |1392|[Ellen AI](https://round-spear-8489.typedream.app/)|一个由Typedream制作的网站。|
 |1393|[Ellie](https://ellieai.com/)|Ellie - 你的AI邮件助手，学习你的写作风格，回复邮件就像你自己写的那样。|
@@ -1557,38 +1418,30 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1413|[Employplan](https://employplan.com/)|增强团队力量，简化雇员规划。只需几次点击就能监控员工的发展，将人员技能与项目需求匹配，更快地规划招聘——这一切都在一个应用程序中完成。|
 |1414|[Empy.ai](https://empy.ai/)|你需要的应用程序，用于在Slack工作空间中促进同理心语言的使用！|
 |1415|[EmulateMe](https://www.almayalife.com/emulateme)|一张图片。一种声音。无尽的AI对话。|
-|1416|[Encord](https://encord.com/)|加速将模型投入生产的每一步。了解顶尖团队如何使用Encord构建预测性和生成性计算机视觉应用。
-|
+|1416|[Encord](https://encord.com/)|加速将模型投入生产的每一步。了解顶尖团队如何使用Encord构建预测性和生成性计算机视觉应用。|
 |1417|[Endless Academy](https://www.endless.academy/)|通过个性化的AI学习任何知识。Endless以最适合你的方式教授你想要学习的内容。|
 |1418|[EndlessVN](https://endlessvn.io/)|Endless Visual Novel是一款AI叙事游戏，在游戏中所有资产——图像、音乐、故事和角色——都会在你游玩的过程中由AI生成。没有两次游玩会完全相同。|
-|1419|[Endurance](https://endurance.training/)|为跑步者、游泳者和骑车人提供的团体训练。
-通过结构化的团体锻炼让训练变得有趣。免费创建自己的团队，或加入附近的团队。|
+|1419|[Endurance](https://endurance.training/)|为跑步者、游泳者和骑车人提供的团体训练。通过结构化的团体锻炼让训练变得有趣。免费创建自己的团队，或加入附近的团队。|
 |1420|[EnergeticAI](https://energeticai.org/)|EnergeticAI是针对无服务器函数优化的TensorFlow.js，具有快速冷启动、小模块尺寸和预训练模型的特点。|
 |1421|[Engage](https://engage-ai.co/)|Engage AI利用生成式AI赋能LinkedIn的高级用户。撰写有意义的LinkedIn评论和内容，使你在人群中脱颖而出，打破沉默，甚至与通常对电话、消息和邮件不回应的潜在客户开始对话。|
 |1422|[EnhanceAI](https://www.enhanceai.dev/)|在两分钟内为你的网站添加AI自动完成功能。借助GPT驱动的表单、调查、文本输入等，提升用户体验。|
-|1423|[EnhanceDocs](https://www.enhancedocs.com/)|自然语言驱动的文档搜索。
-|
+|1423|[EnhanceDocs](https://www.enhancedocs.com/)|自然语言驱动的文档搜索。|
 |1424|[Enlighten](https://www.nice.com/products/enlighten-ai)|NICE Enlighten AI for CX通过行业最全面的CX数据集，从每一次交互的完整、客观和自动化分析中提供可操作的洞察。探索顶级解决方案，尽在NICE。|
-|1425|[Enprompt360](https://enprompt360.com/)|
-瞬间从简单到高级提示！在一个独特的多AI-多用户聊天体验中，与ChatGPT、GPT-4、Bard、Claude、LLAMA等进行交流。|
+|1425|[Enprompt360](https://enprompt360.com/)|瞬间从简单到高级提示！在一个独特的多AI-多用户聊天体验中，与ChatGPT、GPT-4、Bard、Claude、LLAMA等进行交流。|
 |1426|[Enterpix](https://enterpix.app/)|从Midjourney、DALL·E、Stable Diffusion、NovelAI等生成的创意艺术品中获得灵感。将你喜爱的图片添加到收藏中。|
-|1427|[Entrupy](https://www.entrupy.com/)|为产品验证提供随时随地的可扩展AI驱动解决方案。
-保障库存安全，保护供应链，并为零售和转售交易增加信任。
-|
+|1427|[Entrupy](https://www.entrupy.com/)|为产品验证提供随时随地的可扩展AI驱动解决方案。保障库存安全，保护供应链，并为零售和转售交易增加信任。|
 |1428|[EnVision](https://www.envision.io/)|Envision是一家位于南卡罗来纳州查尔斯顿的网页设计和数字营销机构，专注于Shopify设计与开发。自2012年以来，我们已帮助超过300位店主在Shopify上发展业务。我们专长于干净、以转化率为中心的设计，特别注重美观的图像。|
 |1429|[Enwrite](https://enwrite.co/)|Enwrite是一款AI写作工具，用于创建SEO优化的内容和元数据，以极大提升文章的传播范围。在几秒钟内免费生成内容。|
 |1430|[Enzyme](https://www.enzyme.com/)|Enzyme QMS软件涵盖了cGMP、QSR及ISO标准的关键部分，以及产品开发生命周期的所有阶段。|
 |1431|[Epagestore.ai](https://epagestore.ai/)|探索epagestore.ai，您的AI驱动工具和服务一站式解决方案。通过我们的AI文本生成器、AI图像生成器、AI视频生成器、AI代码生成器等，提升生产力。使用前沿AI技术，简化工作流程。|
 |1432|[Epic Avatar](https://epic-avatar.com/)|制作您专属的尖端AI头像。|
 |1433|[EpicMusicQuiz](https://epicmusicquiz.com/)|Epic Music Quiz是一款免费的基于网络的工具，让您能迅速创建自己的定制音乐视频测验！|
-|1434|[Equals](https://equals.com/)|Equals填补了一体化和复杂数据平台之间的空白。
-|
+|1434|[Equals](https://equals.com/)|Equals填补了一体化和复杂数据平台之间的空白。|
 |1435|[Erase It](https://erase-it.cloudinary.com/)|在数秒内从照片中移除不想要的物体。|
 |1436|[Erase.bg](https://www.erase.bg/)|让人、动物或物品的图像背景变得透明。免费下载高分辨率图片，适用于电商和个人用途，无需信用卡信息。|
 |1437|[Eraser](https://www.eraser.io/)|与团队一起创建图表、设计文档和视觉资料，您的全方位技术构想工具。|
 |1438|[ERBuilder](https://soft-builder.com/ai-powered-er-diagrams-generation/)|借助我们基于OpenAI GPT的AI功能，体验数据建模的未来，该功能可从自然语言数据模型描述、用户故事或需求自动生ER图。|
-|1439|[Ermine](https://www.ermine.ai/)|使用100%本地/客户端处理的方式，从你的设备麦克风转录音频。
-|
+|1439|[Ermine](https://www.ermine.ai/)|使用100%本地/客户端处理的方式，从你的设备麦克风转录音频。|
 |1440|[Erota AI](https://erota.app/)|Erota运用AI编写符合用户特定要求的定制成人向性爱故事。|
 |1441|[Escape](https://escape.tech/)|Escape是唯一结合API清单、API安全测试和CI/CD中的业务逻辑测试能力的API安全解决方案。|
 |1442|[Essay-Builder.AI](https://essay-builder.ai/)|使用Essay Builder AI，最佳的AI论文撰写者和制作工具，让学生能在几秒内生成段落论文，创造卓越的免费论文！|
@@ -1638,9 +1491,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1486|[Fable](https://www.fable.app/)|Fable是团队设计、动画和扩大有意义的创意工作的场所。与动态设计系统合作，推出充满表现力的品牌视频内容。免费创建。|
 |1487|[Fable Fiesta](https://fablefiesta.com/)|与Fable Fiesta一起启航，踏上创意写作之旅，它是你的AI合著者！|
 |1488|[Fabled](https://fabled.ai/)|惊艳的AI生成故事书，配有引人入胜的图像、丰富的旁白和独一无二的故事线。|
-|1489|[Fabric](https://fabric.so/)|这是为互联网时代打造的文件浏览器和工作空间。
-自动将你所有的硬盘、云存储、笔记、截图、链接和文件集中到一个自我整理的中心。
-再也不必遗忘任何事情。|
+|1489|[Fabric](https://fabric.so/)|这是为互联网时代打造的文件浏览器和工作空间。自动将你所有的硬盘、云存储、笔记、截图、链接和文件集中到一个自我整理的中心。再也不必遗忘任何事情。|
 |1490|[FabricGenie](https://www.the-millshop-online.co.uk/pages/fabric-genie/)|使用我们强大的AI工具，免费设计令人惊艳且独一无二的窗帘、百叶窗及家具布料的印刷图案。|
 |1491|[Fabrie AI](https://www.fabrie.cn/ai/imagine)|Fabrie是设计师的新一代在线设计协作平台，支持白板在线编辑图文、便利贴、思维导图、关联多维表格等功能，灵感收集、设计调研、方案评审、图纸标注、归档一步到位，多人协同，免费使用|
 |1492|[Fabularis](https://fabularis.art/)|由AI精心设计的个性化儿童图书，反映出孩子们的独特性，激发他们的喜悦、好奇和对自己潜能的信心。|
@@ -1744,9 +1595,7 @@ DeAP Learning Labs - 提供你喜欢的内容创作者风格的教育AI聊天机
 |1590|[Floneum](https://floneum.com/)|Floneum是用于本地LLM工作流的图形编辑器。|
 |1591|[Flourish](https://www.flourishtech.app/)|Flourish是一个心理健康平台，提供可聊天并接收基于证据建议的AI伴侣。|
 |1592|[FlowGPT](https://flowgpt.com/)|在FlowGPT上免费使用强大的AI应用，它是最大的AI平台！立即从角色问答、简历编辑、论文生成器、代码魔法师等获取答案！|
-|1593|[Flowith](https://flowith.io/)|以前所未有的未来方式，与全球最强大的AI互动。
-
-flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您能够与AI顺畅协作，思想如同活力四射的泉水般涌现。|
+|1593|[Flowith](https://flowith.io/)|以前所未有的未来方式，与全球最强大的AI互动。flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您能够与AI顺畅协作，思想如同活力四射的泉水般涌现。|
 |1594|[Flowrite](https://www.flowrite.com/)|Flowrite将指令转化为浏览器中可直接发送的邮件和信息。节省时间，找准语气，克服空白页综合征，用英语流畅表达。|
 |1595|[Flowshot](https://flowshot.ai/)|在Google Sheets中使用AI，查找公式并创建AI生成的图像——当您准备就绪时，为特定任务训练自定义AI模型。|
 |1596|[FlowUs](https://flowus.cn/ai)|智能化解决工作、学习、生活中的各项任务领略未来工作流的魅力|
@@ -1758,9 +1607,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1602|[Fly AI](https://letsflyai.com/)|Fly AI将ChatGPT与GPT-4带入您的Mac电脑。|
 |1603|[FlyFin](https://flyfin.tax/)|通过A.I. File最大化您的自雇税务减免，由专业注册会计师处理1099表格的州和联邦税申报。已获得超过10万名自由职业者的信赖。|
 |1604|[Flying Dog](https://www.flyingdog.de/sd/AI-for-Photoshop.html)|为Photoshop提供AI超能力。|
-|1605|[Flythroughs](https://lumalabs.ai/flythroughs)|制作看起来如同专业无人机拍摄的AI生成电影级视频！
-
-|
+|1605|[Flythroughs](https://lumalabs.ai/flythroughs)|制作看起来如同专业无人机拍摄的AI生成电影级视频！|
 |1606|[Flyx](https://www.flyx.ai/)|Flyx Labs是一家AI工作室，致力于为日常生活打造人性化的AI技术。|
 |1607|[Focia](https://www.focia.io/)|借助机器学习技术，Focia为创作者和营销人员提供在线发布前的内容排名、比较和参与度预测功能。|
 |1608|[FocuSee](https://gemoo.com/focusee)|您只需专注于屏幕录制，FocuSee会自动为您优化视频，添加缩放效果、鼠标移动追踪以及美观背景，无需手动编辑。|
@@ -1783,9 +1630,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1625|[FormWise.AI](https://www.formwise.ai/)|将您喜爱的ChatGPT提示和对话转化为可盈利的工具，仅需几分钟。加入3000多位创业者行列，无需编写任何代码即可构建AI工具！今日探索数百种应用场景！|
 |1626|[FormX.ai](https://www.formx.ai/)|FormX.ai将尖端科技引入您的企业，解放您于繁琐的手动工作中，同时大幅减少人为错误。拥抱自动化主导的世界，效率至上！|
 |1627|[Formzil](https://formzil.com/)|立即使用AI为您的各种日常需求制作文件。|
-|1628|[FotoFix](https://fotofix.app/)|使用AI修复旧照片或美化新照片。
-
-|
+|1628|[FotoFix](https://fotofix.app/)|使用AI修复旧照片或美化新照片。|
 |1629|[Fotographer.ai](https://fotographer.ai/en)|通过生成式AI创造引人注目且富有情感的视觉效果，降低EC（电子商务）与市场营销的创意制作成本。|
 |1630|[Fotor Face Generator](https://www.fotor.com/features/ai-face-generator/)|Fotor的免费AI人脸生成器让您能在几秒内从文本和照片中创造出逼真的人脸。轻松定制面部特征和风格。|
 |1631|[Fotor Image Generator](https://www.fotor.com/ai-image-generator/)|利用Fotor的AI图像生成器，从文本提示在线生成美丽的AI图像和艺术作品。免费在几秒钟内将文字转化为图像，可视化您的创意。|
@@ -1828,9 +1673,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1668|[Fusion Clips AI](https://fusionclips.pro/)|一键将长直播转变为引人入胜的片段。|
 |1669|[Future Resume](https://futurecv.cn/)|超级实用的AI简历工具! 500强HR强力推、快速构建专业简历，全新原创专业简历模板、适用不同岗位,高效便捷实用!|
 |1670|[Fuups.AI](https://fuups.ai/)|探索FUUPS.AI，这里是AI与艺术性交汇之处。利用我们多样化的AI模型轻松创建和转换图像。深入AI驱动的创意世界。|
-|1671|[Fy! Studio](https://www.iamfy.co/studio)|Fy! Studio让您借助人工智能的力量创作独一无二的艺术作品。
-
-|
+|1671|[Fy! Studio](https://www.iamfy.co/studio)|Fy! Studio让您借助人工智能的力量创作独一无二的艺术作品。|
 |1672|[FydeOS](https://fydeos.io/)|FydeOS为传统PC提供了类似Chromebook的行为模式及替代支持服务的选择，无论是在本地还是云端，有无Google服务，更多选择，更大可能。|
 |1673|[FYRAN](https://fyran.site/)|Fyran是一款革命性的AI聊天机器人构建器，使您能够使用自己的数据创建定制聊天机器人。通过Fyran，您可以上传TXT、PDF、DOCx、MP3甚至MP4文件，以创建能回答与您数据相关问题的聊天机器人。我们的平台利用自然语言处理和机器学习的最新进展，赋予您的聊天机器人高度准确理解并响应用户查询的能力。|
 |1674|[G3D.AI](https://g3d.ai/)|为游戏领域打造的生成式AI。|
@@ -1851,9 +1694,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1689|[Gemoo](https://gemoo.com)|Gemoo简化了视频创作、编辑和分享的工作流程，让每个人都能在几分钟内制作视频，传播创意。|
 |1690|[Gemoo Snap](https://gemoo.com/tools/screen-capture/)|Gemoo Snap是一款免费且轻量级的应用程序，可快速截取和美化您所需的各种用途的屏幕截图。|
 |1691|[Gems](https://www.gems.so/)|从您的全部知识中获取即用型答案，从此告别手动整理。|
-|1692|[Gemsouls](https://www.mygemsouls.com/)|Gemsouls是一个人工智能平台，为虚拟角色及其与现实世界的联系提供动力。
-
-我们正在创造一种新方式，让粉丝享受他们喜爱的角色，让创作者将虚构的存在变为现实，并最终让我们永远与心中挚爱的人，无论是虚构还是真实，保持紧密联系。|
+|1692|[Gemsouls](https://www.mygemsouls.com/)|Gemsouls是一个人工智能平台，为虚拟角色及其与现实世界的联系提供动力。我们正在创造一种新方式，让粉丝享受他们喜爱的角色，让创作者将虚构的存在变为现实，并最终让我们永远与心中挚爱的人，无论是虚构还是真实，保持紧密联系。|
 |1693|[GEN2D](https://gen2d.dev/)|GEN2D让您能够利用AI生成图像。生成的图像将在线托管，便于您与他人分享，或在自己的网站或应用程序上展示。|
 |1694|[Gencraft](https://gencraft.com/)|AI艺术生成器。创建免费账户。尝试数百种AI模型。重新创作来自超过1千万用户的作品。运用AI创造令人惊叹的图像、头像和照片。|
 |1695|[Generai](https://generai.art/)|您的个人AI艺术家。|
@@ -1888,13 +1729,9 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1724|[GGML](https://ggml.ai/)|GGML是一个面向机器学习的张量库，旨在使大型模型在普通硬件上也能达到高性能表现。它被llama.cpp和whisper.cpp等项目所采用。|
 |1725|[GhostWriter](https://www.ghostthewriter.com/)|GhostTheWriter是一种从零开始创作趣味故事的方式，可模仿多种文学风格。其目的是用于娱乐，向已故的杰出作家致敬。它适合所有年龄段的人群，既可作为课堂项目来了解著名作家，也足够强大，能帮助真正的作家快速起草或改进文稿至更精致的风格。|
 |1726|[Ghostwryter](https://ghostwryter.net/)|使用GhostWryter，您可以通过OpenAI™的最新AI模型撰写SEO文章、博客和其他营销内容。|
-|1727|[Gift Ideas AI](https://www.giftideasai.xyz/)|利用我们的AI驱动的礼物推荐系统，为亲朋好友找到最合适的礼物。无论任何场合，都能获得个性化的礼物建议。
-
-|
+|1727|[Gift Ideas AI](https://www.giftideasai.xyz/)|利用我们的AI驱动的礼物推荐系统，为亲朋好友找到最合适的礼物。无论任何场合，都能获得个性化的礼物建议。|
 |1728|[Giftgenie AI](https://www.giftgenie.ai/)|Gift Genie AI是一款免费的AI驱动工具，能在几秒钟内帮您找到完美的礼物。只需简单描述收礼人，AI精灵便会列出一系列它认为会让对方欣喜的礼物选项。|
-|1729|[GiftHuntr](https://gifthuntr.com/)|GiftHuntr是一款AI驱动的礼物创意生成器，助您在任何场合找到最合适的礼物。浏览我们精心挑选的生日、圣诞节、婚礼礼物等系列。
-
-|
+|1729|[GiftHuntr](https://gifthuntr.com/)|GiftHuntr是一款AI驱动的礼物创意生成器，助您在任何场合找到最合适的礼物。浏览我们精心挑选的生日、圣诞节、婚礼礼物等系列。|
 |1730|[GiftIdeas AI](https://giftdeas.app/)|Giftdeas AI专为帮您找到送给家人、朋友或伴侣的理想礼物而设计。它运用AI技术提出个性化礼物建议。|
 |1731|[Giftruly](https://giftruly.com/)|使用Giftruly发现每个场合的完美礼物！我们的个性化AI驱动的礼物创意生成器采用前沿机器学习技术，推荐独特且贴心的礼物。告别送礼难题和冗长的搜寻过程。无论是圣诞节、情人节、生日还是特别活动，Giftruly助您找到真正有意义的礼物。与我们的AI互动，根据您的需求定制推荐，让每个庆祝时刻都难忘。借助Giftruly轻松购买富有意义的礼物，传递您周围的爱与快乐。|
 |1732|[Giftwrap](https://giftwrap.ai/)|无需地址，从提示到礼物，由AI挑选，手工包装，满载爱意送达。|
@@ -1939,8 +1776,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1771|[Gnothiai](https://gnothiai.com/)|运用AI提供洞察与资源的期刊|
 |1772|[Go Charlie](https://gocharlie.ai/)|我们助力品牌借助AI实现增长。我们的专有AI助手Charlie将创作能为您的品牌吸引新流量并增加收入的内容。|
 |1773|[Go-To-Market-AI](https://www.gotomarket-ai.com/)|通过个性化的营销、销售和品牌策略变革您的业务。获取专业指导，实现快速成长与成功。|
-|1774|[GoatChat](https://goatchat.ai)|您可以创建自己的个人人工智能聊天机器人助手并轻松对其进行调整。随心所欲地制作 AI，为其命名，设置个性并筛选 AI 生成的内容。在应用程序和社交媒体中推广您的人工智能。
-与最伟大的历史人物的 AI 版本聊天。与流行的德国、法国和意大利艺术家一起创作 AI 艺术。|
+|1774|[GoatChat](https://goatchat.ai)|您可以创建自己的个人人工智能聊天机器人助手并轻松对其进行调整。随心所欲地制作 AI，为其命名，设置个性并筛选 AI 生成的内容。在应用程序和社交媒体中推广您的人工智能。与最伟大的历史人物的 AI 版本聊天。与流行的德国、法国和意大利艺术家一起创作 AI 艺术。|
 |1775|[goblin.tools](https://goblin.tools/)|goblin.tools是一系列小巧、简易、专注于单一任务的工具集，主要旨在协助神经多样性人群处理他们感到压力大或困难的任务。|
 |1776|[Godcast](https://usegodcast.com/)|在Godcast上，使用AI播放任何您想要的内容|
 |1777|[Godmode](https://godmode.space/)|在Godmode上探索生成式AI代理的力量，灵感来源于Auto-GPT和BabyAGI。支持GPT-3.5与GPT-4。|
@@ -1956,13 +1792,10 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1787|[GoodVision](https://goodvisionlive.com/)|GoodVision在交通项目的各个阶段提供自动化工具，从AI交通数据收集到交通建模和实时交通控制，一应俱全。|
 |1788|[Google Colab Copilot](https://copilot.naklecha.com/)|告别频繁切换窗口，GitHub Copilot现已实装于Google Colab上。|
 |1789|[Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers)|为在TensorFlow、PyTorch及scikit-learn上开发、测试与部署AI应用提供了预打包且优化的深度学习容器。|
-|1790|[Google Vids](https://workspace.google.com/products/vids/)|使用融合了Google Gemini技术的强大在线视频编辑器Google Vids，创作丰富的视频内容，出自Google Workspace。
-|
+|1790|[Google Vids](https://workspace.google.com/products/vids/)|使用融合了Google Gemini技术的强大在线视频编辑器Google Vids，创作丰富的视频内容，出自Google Workspace。|
 |1791|[Google翻译](https://translate.google.com/)|谷歌提供的免费服务能即时在英语与超过100种其他语言间翻译单词、短语和网页。|
 |1792|[GooseAi](https://goose.ai/)|GooseAI是一种通过API交付的全托管NLP即服务，这方面与OpenAI相似，甚至更进一步，它与OpenAI的完成API完全兼容。|
-|1793|[GoPDF](https://gopdf.io/features/pdf-chat)|我们基于GPT的尖端语言模型和无与伦比的速度将在您开始新项目时助您快人一步，或为当前提供商提供灵活的替代方案。
-
-只需上传文件至单一文件夹，即可针对它们提问任何相关问题。我们的先进AI技术将扫描文档并实时提供准确答案，精确指出信息所在位置。告别无尽搜索，将更多时间用于真正重要的事务上。|
+|1793|[GoPDF](https://gopdf.io/features/pdf-chat)|我们基于GPT的尖端语言模型和无与伦比的速度将在您开始新项目时助您快人一步，或为当前提供商提供灵活的替代方案。只需上传文件至单一文件夹，即可针对它们提问任何相关问题。我们的先进AI技术将扫描文档并实时提供准确答案，精确指出信息所在位置。告别无尽搜索，将更多时间用于真正重要的事务上。|
 |1794|[GorillaTerminal AI](https://gorillaterminal.com/)|如同华尔街专家般投资。Gorilla Terminal凭借AI驱动的洞察和强大工具，提供更高效且愉悦的投资解决方案。|
 |1795|[GPT Book Club](https://www.gptbook.club/)|在GPT Book Club体验AI驱动的书籍洞见力量。提出问题，从书籍中获得个性化回答，包括章节概要、精彩引用等，全部免费！|
 |1796|[GPT Detector](https://x.writefull.com/gpt-detector)|使用Writefull的ChatGPT检测器检查AI剽窃。GPT检测器评估文本是否由GPT-3、GPT-4或ChatGPT生成。|
@@ -1980,8 +1813,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1808|[GPT-Me](https://gptme.vana.com)|Vana的GPT-me是一款个性化聊天应用，你可以与之对话。|
 |1809|[GPT-Minus1](https://www.gptminus1.com/)|通过随机将文本中的单词替换为同义词，愚弄GPT。|
 |1810|[GPT-Prompter](https://gptprompter.com/)|GPT-Prompter是一款Chrome扩展程序，使你无需访问OpenAI网站、无需额外花费或依赖第三方，就能使用GPT-3、GPT-4以及ChatGPT API的强大功能。|
-|1811|[Gpt-tab](https://gpt-tab.com/)|快速访问、可拖动窗口、始终保持在最前。
-请提供一个有效的电子邮件地址，以便接收关于新特性和新版本的更新。我们不会发送垃圾邮件。|
+|1811|[Gpt-tab](https://gpt-tab.com/)|快速访问、可拖动窗口、始终保持在最前。请提供一个有效的电子邮件地址，以便接收关于新特性和新版本的更新。我们不会发送垃圾邮件。|
 |1812|[GPT-trainer](https://gpt-trainer.com/)|最佳AI聊天机器人用于客户服务支持。|
 |1813|[GPT4All](https://gpt4all.io/index.html)|一款免费使用的、本地运行的、注重隐私的聊天机器人。无需GPU或互联网连接。|
 |1814|[GPT4Audio](https://www.gpt4office.com/)|下载GPT4Audio，这款桌面应用能实现语音转文字的转换，将你的生产力提升至新高度！该工具旨在让你的生活更加便捷高效。|
@@ -2009,10 +1841,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1836|[Granica](https://www.granica.ai/)|用你的数据构建更好的AI。安全地，高效地。Granica训练数据平台赋予生成式和传统AI团队提升模型性能、控制成本以及保护隐私的能力。|
 |1837|[Grantable](https://grantable.co/)|通过Grantable，为您的团队配备AI资助撰写功能：首选的AI驱动的资助撰写助手。全球超过12,000个使命驱动的团队信赖。实现资助撰写效率提升5倍。自信地保障资金获取。|
 |1838|[Grantboost](https://www.grantboost.io/)|发现Grantboost，这一改变非营利组织资金获取旅程的资助撰写AI解决方案。体验更快、更简单的资助提案过程，释放您组织的潜力。从今天开始使用我们颠覆性的软件！|
-|1839|[GrapeGPT](https://apps.apple.com/us/app/grapegpt-ai-wine-wisdom/id6465572393)|GrapeGPT：您的AI葡萄酒侍酒师。
-
-描述：
-发现。品尝。享受。有了GrapeGPT，为任何场合选择完美的葡萄酒从未如此简单。|
+|1839|[GrapeGPT](https://apps.apple.com/us/app/grapegpt-ai-wine-wisdom/id6465572393)|GrapeGPT：您的AI葡萄酒侍酒师。描述：发现。品尝。享受。有了GrapeGPT，为任何场合选择完美的葡萄酒从未如此简单。|
 |1840|[Graphy HQ](https://graphy.app/)|在几分钟内制作营销报告。所有工具的数据整合在一个美观、可共享的视图中。操作就像截屏一样简单，功能却如同仪表盘般强大。|
 |1841|[Garson](https://garson.io/)|Garson.io帮助产品人员在确保敏感数据安全的同时提升他们的写作技巧。|
 |1842|[GRAVITI Diffus](https://www.diffus.graviti.com/)|无需技术障碍，探索AI生成的艺术。在Graviti Diffus上展示你惊人的数字艺术品。|
@@ -2070,8 +1899,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1894|[Heartspace](https://www.heartspace.ai/)|利用AI的力量，传播您的信息，助力构建更具建设性和解决方案导向的媒体环境。|
 |1895|[Heimdall](https://www.heimdallapp.org/)|Heimdall - 挖掘机器学习的潜力|
 |1896|[Helicon](https://radicalbit.io)|Radicalbit是MLOps平台，能加速您的AI模型部署、服务、监控及解释性。|
-|1897|[Helicone](https://valyr.vercel.app/)|LLM-Observability，专为开发者打造。
-开源平台，用于日志记录、监控和调试。|
+|1897|[Helicone](https://valyr.vercel.app/)|LLM-Observability，专为开发者打造。开源平台，用于日志记录、监控和调试。|
 |1898|[Hello History](https://www.hellohistory.ai/)|借助现代AI与机器学习技术，我们让历史人物栩栩如生。现在，是时候提出您一直想问的问题了。|
 |1899|[HelloAI](https://apps.apple.com/us/app/helloai-ai-chat-bot-assistant/id6447705369)|Fello AI 是Mac平台上功能最强大的AI聊天应用，全球平均评分高达4.7/5。它集成了包括ChatGPT、GPT-4在内的最先进AI技术。|
 |1900|[Hellocall](https://hellocall.io/index-en.html)|Callbot：通过自动化处理客户关系中心的呼入和呼出电话，实现会话式人工智能。|
@@ -2079,8 +1907,7 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1902|[Help Center](https://help.center/)|Help.center：基于chatGPT的全方位客户支持知识库解决方案，帮助客户获得即时答案。您可以拥有自己的公司.help.center网站，客户可以使用AI搜索，同时在您的网站上部署AI聊天小部件，以对话方式支持客户。利用AI即时回答客户问题，提升客户满意度。在您的网站上添加AI聊天机器人，并创建自助文档门户。|
 |1903|[Helper AI](https://iideaman.gumroad.com/l/helperai)|Helper AI - 在任何网站上快速访问全新GPT-4的最快途径。永久拥有Helper AI - 您将获得全部源代码。您可以修改、重新分发或转售它。无需离开您喜爱的网站，即可在任何网站上使用Helper-AI简化日常任务。|
 |1904|[Helper.email](https://helper.email/)|让GPT帮您撰写邮件、总结长篇讨论等，适用于任何邮件客户端。|
-|1905|[HelpGent](https://wpwax.com/helpgent/)|HelpGent通过利用会话表单、视频消息、语音消息、文本消息和屏幕录制，简化双向沟通流程。
-|
+|1905|[HelpGent](https://wpwax.com/helpgent/)|HelpGent通过利用会话表单、视频消息、语音消息、文本消息和屏幕录制，简化双向沟通流程。|
 |1906|[Helpix AI](https://helpix.ai/)|体验helpix，领先的客户服务AI自动化工具。即时响应客户查询，轻松提高效率。|
 |1907|[HelpLook](https://www.helplook.com/)|HelpLook是一款快速搭建免费帮助中心网站的工具，可为您的产品提供全方位支持和帮助。我们提供常见问题解答、用户指南、故障排除等功能，协助您的用户解决各种问题。通过使用HelpLook，您可以在产品官网添加SEO优化关键词，使更多用户了解并使用您的产品。快速、简单、免费的用户体验让您专注于产品开发和运营，无需担心帮助中心的建设。|
 |1908|[HelpScout](https://www.supportagent.ai/)|使用AI为您的Help Scout邮箱自动草拟回复。|
@@ -2143,16 +1970,14 @@ flowith是由GPT-4o驱动的AI生产力工具。通过创新交互，它让您�
 |1965|[Hotcheck](https://hotcheck.vercel.app/)|Hotcheck可为您提供关于您的照片在社交媒体上可能的病毒式传播程度的酷炫预测。|
 |1966|[Hotjar AI](https://www.hotjar.com/)|就像坐在旁边观察他人浏览您的网站一样。看看他们点击了哪里，询问他们的看法，了解他们离开的原因。|
 |1967|[hotpot](https://hotpot.ai/)|Hotpot借助AI帮您创作惊人的图像、图形和文字。通过AI图像生成器可视化您的想法，用AI头像重新想象自我，或利用AI平台的其他产品激发创造力。使用AI照片编辑工具自动消除繁琐工作，而易于编辑的模板使任何人都能创建社交媒体帖子、营销图片、应用图标和其他工作图形。|
-|1968|[Hour One](https://hourone.ai/)|为企业增长设计的内容工作流程。
-使用文本转视频生成器创建、管理和简化制作电影级别的Gen-AI虚拟形象视频。|
+|1968|[Hour One](https://hourone.ai/)|为企业增长设计的内容工作流程。使用文本转视频生成器创建、管理和简化制作电影级别的Gen-AI虚拟形象视频。|
 |1969|[Hovercode](https://hovercode.com/)|免费生成动态二维码，它们不会过期，且包含跟踪与编辑功能。|
 |1970|[How2](https://how2terminal.com/)|AI助力命令行：为Unix终端提供代码补全功能。|
 |1971|[HowToWrite](https://howtowrite.io/)|HowToWrite.io提供AI驱动的写作助手，帮助您创作个性化的歌曲、歌词、辞职信、婚礼致辞、誓言、推荐信、诗歌等。立即注册，享受无限次使用我们的AI写作服务！|
 |1972|[HTTPie AI](https://httpie.io/ai)|为构建时代工具的人们简化并直观化API的使用。|
 |1973|[Hubble](https://www.hubble.team/)|Hubble是一系列用户体验研究工具，通过可用性测试、原型测试和产品内调查，帮助管理世界级的用户界面体验。全球的产品和设计团队在产品开发的所有阶段都使用Hubble的UX研究工具。|
 |1974|[HubSpot](https://hubspot.com/)|HubSpot的CRM平台包含了营销、销售、客户服务、运营以及网站建设软件，这些都是拓展您业务所需的一切。|
-|1975|[Huemint](https://huemint.com/)|调色板生成器。
-Huemint运用机器学习技术为您的品牌、网站或平面设计创造独特的色彩方案。|
+|1975|[Huemint](https://huemint.com/)|调色板生成器。Huemint运用机器学习技术为您的品牌、网站或平面设计创造独特的色彩方案。|
 |1976|[HuggingChat](https://huggingface.co/chat/)|首个开源的ChatGPT替代方案。|
 |1977|[Hulk](https://hulkhelper-ai.webflow.io/)|Hulk，一个AI代理。我将革新您的购物体验。|
 |1978|[Human Circles AI](https://www.humancircles.ai/)|生成式AI让您的社交圈更加有意义。|
@@ -2162,9 +1987,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |1982|[Humanizer](https://humanizer.me/)|通过结合Prompt设计工具、AI聊天机器人、内容检测器和人性化功能，HUMANIZER是重新定义人与人之间互动的平台。|
 |1983|[Humanlinker](https://www.humanlinker.com/)|使用Humanlinker的AI解锁销售潜力。提升参与度，个性化互动，轻松转化潜在客户。现在就免费试用吧！|
 |1984|[Humans](https://humans.ai/)|心系人工智能。Humans.ai正在创建一个集AI创作和区块链治理于一体的全方位平台。|
-|1985|[Humata](https://www.humata.ai)|立即为您的文件解锁AI洞察力。使用Humata提问、学习和提取数据，速度提升10倍。
-
-|
+|1985|[Humata](https://www.humata.ai)|立即为您的文件解锁AI洞察力。使用Humata提问、学习和提取数据，速度提升10倍。|
 |1986|[Huru](https://huru.ai/)|使用Huru，排名第一的AI面试教练，为任何工作面试做准备。通过真实的模拟面试练习，接收个性化的反馈，赢得你梦寐以求的工作。|
 |1987|[Hushl](https://hushl.in)|一个创意平台，帮助你持续写出更优质的内容。|
 |1988|[Huxli.ai](https://huxli.ai)|借助Huxli强化您的学习体验——这是终极学生学习伴侣。通过智能工具提升成绩，减少作业时间：如AI驱动的笔记整理，难以察觉的论文撰写等。加入超过100,752名学生，共同转变学术之旅。|
@@ -2182,8 +2005,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2000|[IBM Decision Optimization](https://www.ibm.com/decision-optimization)|IBM Decision Optimization是一款提供处方分析能力和决策智能的优化软件，旨在改善决策制定。|
 |2001|[IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler)|IBM SPSS Modeler提供预测分析，帮助你发现数据模式，提升预测准确性，并改进决策制定。|
 |2002|[IBM Watson文字转语音](https://www.ibm.com/products/text-to-speech)|Watson Speech to Text是一款API，可以将多种语言的语音转换为文本。它既可作为SaaS提供，也支持自托管。|
-|2003|[iChatWithGPT](https://ichatwithgpt.com/)|这是你在iMessage中的个人AI助手。通过Siri，你可以在iPhone、手表、Macbook或CarPlay上使用它。回答问题、规划旅行、获取食谱，或者倾诉心事。
-|
+|2003|[iChatWithGPT](https://ichatwithgpt.com/)|这是你在iMessage中的个人AI助手。通过Siri，你可以在iPhone、手表、Macbook或CarPlay上使用它。回答问题、规划旅行、获取食谱，或者倾诉心事。|
 |2004|[Icon Maker](https://www.iconmaker.app/)|欢迎来到我们定制AI生成应用图标的在线商店！采用最新AI技术的高品质设计。从不同的风格和颜色中选择。价格实惠，快速交付。现在就升级你的应用视觉效果！|
 |2005|[IconAI](https://iconai.co/)|使用由DALL-E-3驱动的IconAI将你的想法转化为惊艳的图标。非常适合SaaS项目——只要你能想象到，我们就能创造出来。|
 |2006|[iconGeniusAi](https://icongeniusai.com/)|iconGeniusAi是一款由生成式AI驱动的图标创建器，允许你根据用户输入的风格、颜色和描述，为你的企业、应用、印刷品或logo构建所需的图标。|
@@ -2210,14 +2032,11 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2027|[Image Pipeline](https://www.imagepipeline.io/)|图像管道(Image Pipeline)让您能够运用最新的AI图像技术栈来创建具有最大控制权的生产级视觉素材。|
 |2028|[Image Sharpen](https://imgsharpen.media.io/app/)|Media.io的AI驱动图像锐化功能帮助您自动地让模糊、噪点、曝光不足及像素化的肖像图片变得更清晰、更鲜明。现在，您可以在任何浏览器上增强肖像图片。|
 |2029|[Image Upscaler](https://imageupscalerai.com/)|AI图像放大器(Image Upscaler AI)：使用AI的免费图像放大器。借助ImageUpscalerAI.com，放大您的图像、照片等。|
-|2030|[Image Variations](https://ai-imagegenerator.vercel.app/)|AI生成器利用AI（GPT与DALL-E）对任意输入图像生成令人惊叹的变体。
-创作新的壁纸、新梗图、头像、新设计与图表、新NFT、新标志等。|
+|2030|[Image Variations](https://ai-imagegenerator.vercel.app/)|AI生成器利用AI（GPT与DALL-E）对任意输入图像生成令人惊叹的变体。创作新的壁纸、新梗图、头像、新设计与图表、新NFT、新标志等。|
 |2031|[ImageColorizer](https://imagecolorizer.com/)|通过Image Colorizer（图像上色器），一款领先的在线老照片上色与修复工具，转变并唤醒您珍贵的记忆。我们先进的AI技术让黑白图片栩栩如生，以非凡的精确度添加生动真实的色彩。|
 |2032|[Imageeditor.ai](https://imageeditor.ai/)|AI图像编辑器：使用AI编辑图像或用AI制作图像，只需告诉AI要做什么即可。|
 |2033|[Imagen AI](https://www.zmo.ai/imagen/)|使用Imagen AI生成任何照片或插图的变体。|
-|2034|[Imagetocaption.ai](https://www.imagetocaption.ai/)|自动化您的标题工作，节省时间和精力。迄今为止，我们的用户已经节省了数千小时！这意味着您可以专注于真正重要的事情：创作内容或产品。我们希望为您赢回时间，让您享受更加充实的生活。
-
-|
+|2034|[Imagetocaption.ai](https://www.imagetocaption.ai/)|自动化您的标题工作，节省时间和精力。迄今为止，我们的用户已经节省了数千小时！这意味着您可以专注于真正重要的事情：创作内容或产品。我们希望为您赢回时间，让您享受更加充实的生活。|
 |2035|[Imagetocartoon](https://imagetocartoon.com/)|使用我们强大的2D和3D卡通角色制作工具，将您的照片转化为惊艳的卡通头像。让您的想象变为现实！|
 |2036|[ImageToPromptAI](https://imagetopromptai.com/)|使用AI的图像到提示生成器。|
 |2037|[ImageWise](https://imagewise-oqkz.vercel.app/)||
@@ -2292,8 +2111,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2106|[Intellecs.AI](https://www.intellecs.ai/)|你的多功能生产力平台，适用于笔记记录、写作和研究。|
 |2107|[IntelliBar](https://intellibar.app/)|IntelliBar是一款设计精美的ChatGPT客户端，旨在高效完成任务。|
 |2108|[Intellibase](https://intellibase.io/)|更快捷的用户研究方式|
-|2109|[IntelliConsult](https://intelliconsultai.com/)|我们提供全面的人工智能驱动的项目咨询和工程服务。利用我们的专业知识和尖端AI技术，实现项目成功并推动创新。
-|
+|2109|[IntelliConsult](https://intelliconsultai.com/)|我们提供全面的人工智能驱动的项目咨询和工程服务。利用我们的专业知识和尖端AI技术，实现项目成功并推动创新。|
 |2110|[IntelliMail](https://www.intellimail.xyz/)|IntelliMail是一款Chrome扩展程序，可以为你生成邮件——从此你再也不必手动撰写邮件。|
 |2111|[Intellimize](https://www.intellimize.com)|Intellimize是一款由AI驱动的网站个性化和转化率优化平台，帮助营销人员将更多流量转化为客户。|
 |2112|[IntelliNode](https://show.intellinode.ai/)|使用OpenAI和Google模型，通过AI生成图像、文本或网站。将你的提示转化为创意成果。|
@@ -2307,18 +2125,12 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2120|[Interflexion](https://www.interflexion.com)|由AI驱动的角色扮演，帮助专业人士成为最好的自己。|
 |2121|[Interior AI](https://interiorai.com/)|利用人工智能获取室内设计灵感，为房地产列表虚拟布置不同风格的室内场景。只需拍摄一张照片...|
 |2122|[Interior Decorator AI](https://interiordecorator.ai/)|Interior Decorator AI：使用AI生成室内设计和外观设计方案。|
-|2123|[Interior Design](https://apps.apple.com/us/app/interior-ai-design-any-space/id6449844504)|让室内设计变得轻松！从您喜爱的房间照片中获得AI生成的设计灵感。只需几次点击，即可为任何空间获取创意想法。
-
-借助AI生成的设计灵感，让您的家焕发生机。仅需几分钟，即可为任何空间获取创意想法。
-
-通过AI生成的设计概念，彻底改变您的生活空间。获取符合您风格的个性化、惊艳装饰理念。|
+|2123|[Interior Design](https://apps.apple.com/us/app/interior-ai-design-any-space/id6449844504)|让室内设计变得轻松！从您喜爱的房间照片中获得AI生成的设计灵感。只需几次点击，即可为任何空间获取创意想法。借助AI生成的设计灵感，让您的家焕发生机。仅需几分钟，即可为任何空间获取创意想法。通过AI生成的设计概念，彻底改变您的生活空间。获取符合您风格的个性化、惊艳装饰理念。|
 |2124|[InteriorAI Room Planner](https://aiinteriorplanner.com/)|通过InteriorAI Room Planner提升您的空间，这是一个AI驱动的室内设计师，采用突破性AI技术为客厅、卧室和厨房打造高品质设计。现在就从我们的AI设计专家那里获得定制建议，踏上创新、量身定制的设计之旅。|
 |2125|[InteriorDecorator.ai](https://interiordecorator.ai/)|Interior Decorator AI：使用AI生成室内设计和外观设计方案。|
 |2126|[Interpre-X](https://www.interpre-x.com/)|实现实时的10多种语言的语音翻译，无论您身处何地，都能打破语言障碍。|
 |2127|[Interview Prep AI](https://interviewprep-ai.com)|您的个人AI求职面试教练，助您在下一次面试中表现出色。|
-|2128|[InterviewAI](https://www.interviewai.io/)|使用InterviewAI简化您的面试流程。我们的人工智能平台实时生成定制化的面试问题，使进行高效且有效的面试变得容易，从而帮助您找到最适合该职位的候选人。
-
-|
+|2128|[InterviewAI](https://www.interviewai.io/)|使用InterviewAI简化您的面试流程。我们的人工智能平台实时生成定制化的面试问题，使进行高效且有效的面试变得容易，从而帮助您找到最适合该职位的候选人。|
 |2129|[Intuit](https://intuit.com/)|加入大约1亿已经在使用TurboTax、Credit Karma、QuickBooks和Mailchimp来推动他们繁荣发展的Intuit产品用户，看看这些产品如何能为您工作。|
 |2130|[investiment.io](https://www.investiment.io/)|通过investiment.io解锁强大的财务洞察力。集成的生成式AI分析新闻、收益电话会议和财务数据。|
 |2131|[InVideo](https://invideo.io/)|通过给invideo AI一个提示就能轻松制作视频。无论是内容创作者、YouTuber还是营销人员，invideo AI都提供了无缝衔接的方式，利用AI技术将您的创意转化为可发布的专业视频。|
@@ -2341,8 +2153,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2148|[Ivy.ai](https://ivy.ai/)|通过使用聊天机器人在问题到达人工之前回答学生的问题，Ivy.ai帮助学院和大学。每个机器人都是预先单独训练过的，包含来自学校网站的数百万个问题和答案，以提供个性化结果。|
 |2149|[ixigo Plan](https://www.ixigo.com/plan)|使用我们基于AI的行程规划工具 - PLAN，高效规划你的旅行。轻松创建自定义行程安排。|
 |2150|[izTalk](https://iztalk.ai/)|izTalk是一个连接社区的平台，让世界上任何地方的人们之间的沟通变得容易且无语言障碍。|
-|2151|[Izwe.ai](https://izwe.ai/)|
-一个多语种技术平台，可将你的音频和视频数据转换为本地语言的文字、字幕或旁白。|
+|2151|[Izwe.ai](https://izwe.ai/)|一个多语种技术平台，可将你的音频和视频数据转换为本地语言的文字、字幕或旁白。|
 |2152|[JackRabbit Ops](https://www.jackrabbitops.com/)|立即回应所有潜在客户，自动筛选并预订会议，成本仅为传统销售发展代表（SDR）的一小部分。|
 |2153|[JADBio](https://jadbio.com/)|无需编码的机器学习，自动化生物标志物发现，并根据你的研究需求解读其作用。|
 |2154|[Jagoda](https://www.jagoda.ai/en)|与你的个人AI导师交谈，超过30多个科目的成绩得到提升。我们遵循教学大纲。|
@@ -2395,8 +2206,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2201|[Juno](https://getjuno.ai/)|Juno通过与你一起编写、编辑和自动调试代码，使数据科学工作提高10倍效率。|
 |2202|[Jupitrr AI Video Maker](https://jupitrr.com/)|免费使用AI为你的视频生成情境B辑镜头——包括库存图片、视频、动画字幕等。|
 |2203|[Juri Flow](https://www.juriflow.com/)|你的个人AI律师|
-|2204|[Jurny](https://www.jurny.com/)|一站式度假租赁管理
-|
+|2204|[Jurny](https://www.jurny.com/)|一站式度假租赁管理|
 |2205|[Jusi](https://jusi.me)|获取网站和移动应用开发的估价和技术规格，轻松在线找到最佳开发者。|
 |2206|[Just Prompts](https://just-prompt.vercel.app/)|通过增量提示（Additive Prompting）将你的提示提升至新高度。|
 |2207|[JustBlog](https://justblog.ai/)|加入顶级SEO商业博客平台。免费使用我们的AI博客创建器制作博客，适用于WordPress，无需托管且易于使用。|
@@ -2437,17 +2247,13 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2242|[Kidgeni](https://kidgeni.com/)|Kidgeni是孩子们学习人工智能并激发他们对人工智能兴趣的地方。我们的应用程序专为儿童设计，提供一系列AI工具供他们学习。从生成AI艺术，到创作独一无二的故事，他们可以与朋友和家人分享。Kidgeni提供互动体验，向年轻的心灵介绍人工智能的迷人世界。|
 |2243|[KidoTail AI](https://www.kidotail.com/)|使用AI为您的孩子创造独特的个性化童话故事。|
 |2244|[KidsAIStory](https://www.kidsaistory.com/)|用AI创作插图儿童故事。|
-|2245|[Kili](https://www.kili.so/)|Kili协助财务、运营和销售团队自动化重复性任务。
-
-我们的平台被设计成在后台运行，以便您的团队可以专注于真正重要的事务。|
+|2245|[Kili](https://www.kili.so/)|Kili协助财务、运营和销售团队自动化重复性任务。我们的平台被设计成在后台运行，以便您的团队可以专注于真正重要的事务。|
 |2246|[Kili Technology](https://kili-technology.com/)|Kili Technology的数据标注平台赋能企业将非结构化数据转化为高质量数据集，以此来训练他们的人工智能并交付成功的项目。|
 |2247|[Kimi](https://kimi.moonshot.cn/)|月之暗面官方聊天助手，一个有着超大“内存”的智能助手|
 |2248|[Kin](https://mykin.ai/)|通过Kin获取灵感，畅所欲言，应对各种情况或获得个性化指导。Kin注重隐私、安全，并考虑到记忆的重要性而构建。|
 |2249|[Kindle GPT](https://kindle-gpt.com/)|针对Kindle设备优化的聊天机器人着陆页|
 |2250|[Kindred Tales](https://kindredtales.net/)|用Kindred Tales保存您亲人的回忆 - 从他们的人生故事中创建精美的纪念书籍。我们的数字服务定期发送提示，使记忆保存变得轻而易举。现在就来探索！|
-|2251|[KinesteX](https://www.kinestex.com/)|轻松通过我们的SDK转换您的平台：带有精准动作追踪和实时反馈的白标健身课程，旨在提高准确性和参与度。
-
-|
+|2251|[KinesteX](https://www.kinestex.com/)|轻松通过我们的SDK转换您的平台：带有精准动作追踪和实时反馈的白标健身课程，旨在提高准确性和参与度。|
 |2252|[Kinetix](https://www.kinetix.tech/)|将AI表情包创建器集成到您的游戏或应用中，实现从任何视频中自定义表情包的创作。轻松提升用户参与度，促进用户生成内容，增加收入。|
 |2253|[Kipper](https://www.kipper.ai/)|Kipper AI论文页脚|
 |2254|[Kiri.Art](https://kiri.art/)|适用于Stable Diffusion的PWA前端|
@@ -2464,12 +2270,8 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2265|[Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant)|对短信文案写作新手？告诉Klaviyo的AI驱动的短信助手您想要创建的内容，让它撰写能转化客户的短信文案。|
 |2266|[Kleap](https://kleap.co/ai-website-builder)|让AI为您完成80%的工作。基于1000多个预建模块，Kleap AI能够生成任何类型的网站。|
 |2267|[Klipme](https://klipmeapp.com/)|利用视觉AI技术的力量，从您的镜头素材中制作促销片段和摘要集锦。充分利用相机胶卷中的所有内容。|
-|2268|[Klones](https://klones.io/)|您的AI克隆体全天候工作，用于粉丝互动和创收。
-
-|
-|2269|[Kloud Chat](https://apps.apple.com/my/app/chat-ai-assistant/id6446285199)|我们的iPhone应用是您的个人助手，由强大的AI驱动。借助此AI，您可以轻松规划旅行，学习新语言，获得编程帮助等...
-
-|
+|2268|[Klones](https://klones.io/)|您的AI克隆体全天候工作，用于粉丝互动和创收。|
+|2269|[Kloud Chat](https://apps.apple.com/my/app/chat-ai-assistant/id6446285199)|我们的iPhone应用是您的个人助手，由强大的AI驱动。借助此AI，您可以轻松规划旅行，学习新语言，获得编程帮助等...|
 |2270|[Klu.ai](https://klu.ai/)|使用Klu设计、部署和优化生成式AI应用程序。|
 |2271|[Klynk](https://klynk.ai/)|Klynk，不仅是任何服务，而是您的新扩展团队，致力于将客户成功管理提升至前所未有的高度。|
 |2272|[Knime](https://www.knime.com/)|免费且开源，包含所有数据分析工具。使用可视化工作流构建器创建数据科学解决方案，并在企业中投入生产。|
@@ -2498,9 +2300,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2295|[Krecicki](https://krecicki.com/)|通过Krecicki.com提供的专业网站维护服务，保持您的网站新鲜且与时俱进。我们在拉斯维加斯提供小规模更新、重新设计和全方位的网站管理解决方案。|
 |2296|[Krikey.ai](https://www.krikey.ai/)|Krikey AI动画制作器赋予每个人在几分钟内创作吸引人的AI驱动的动画头像视频的能力。立即免费开始使用GenAI 3D动画工具！|
 |2297|[Krisp](https://krisp.ai/)|Krisp消除背景噪音，记录、转录并总结会议和电话通话。|
-|2298|[Krizmi](https://krizmi.com/)|由ChatGPT驱动的虚拟学习伙伴。
-
-|
+|2298|[Krizmi](https://krizmi.com/)|由ChatGPT驱动的虚拟学习伙伴。|
 |2299|[KrockIO](https://krock.io/)|通过在一个空间中与团队协作，加速媒体项目的完成！从为您的创意团队构建定制工作流开始。立即免费试用！|
 |2300|[Kropply](https://kropply.com/)|运行代码后，Kropply会修复您代码库中的逻辑、包和单元级别的错误。专注于更快地交付代码，同时AI编程助手为您提供单元级错误的建议。|
 |2301|[Kuki Ai](https://www.kuki.ai)|我是一款获奖的AI大脑，旨在娱乐人类。|
@@ -2515,9 +2315,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2310|[LALAL.AI ](https://www.lalal.ai)|使用LALAL.AI快速准确地分离人声和乐器音轨。上传任意音频文件，几秒内即可获得高质量的提取音轨。|
 |2311|[Lancey](https://trylancey.com/)|为产品团队构建AI代理，以实现更快的操作。|
 |2312|[Landbot](https://landbot.io/ai)|使用最直观的无代码AI构建器，打造出色的对话体验。|
-|2313|[Lander](https://lndr.pro/)|利用AI生成独特且具有销售力的着陆页！
-
-不再花费于设计师和文案撰写者。通过ChatGPT和Midjourney提升您业务的效率！|
+|2313|[Lander](https://lndr.pro/)|利用AI生成独特且具有销售力的着陆页！不再花费于设计师和文案撰写者。通过ChatGPT和Midjourney提升您业务的效率！|
 |2314|[Landing AI](https://landing-ai.com/)|写下您的项目详情，即刻生成整套着陆页面！包含有销售力的文案、独特的Logo与插图、精美的图标。|
 |2315|[LANDR](https://www.landr.com/)|免费试用全球最佳音乐制作平台！获取AI母带处理、音乐发行、专业级插件、免费音样、高级课程等更多资源。|
 |2316|[Landrific AI](https://landrific.online/)|AI平台|
@@ -2528,9 +2326,7 @@ Huemint运用机器学习技术为您的品牌、网站或平面设计创造独�
 |2321|[LangGPT](https://lang.thesamur.ai/)|一款多语言AI伴侣 - 使用LangGPT突破语言障碍，作为ChatGPT的多语言扩展插件，旨在促进不同语言间的无碍沟通，提升用户体验及便利性。|
 |2322|[Langley AI](https://www.heylangley.com/)||
 |2323|[Langotalk](https://www.langotalk.org/)|通过个性化AI聊天工具，实现全天候沉浸式语言学习，革新您的语言学习体验。|
-|2324|[Langs](https://apps.apple.com/us/app/langs-ai-language-learning/id1668639533)|与成千上万的用户一起，通过与AI对话练习语言。
-
-Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈...|
+|2324|[Langs](https://apps.apple.com/us/app/langs-ai-language-learning/id1668639533)|与成千上万的用户一起，通过与AI对话练习语言。Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈...|
 |2325|[LangSwap](https://langswap.app/)|无需重新录制，即可翻译视频。我们的算法能让同一声音以另一种语言说话。|
 |2326|[LangTale](https://langtale.ai/)|调试提示，运行测试，观察生产环境中发生的情况。使用Langtail的实验场、测试、部署和监控工具，加速您的AI开发工作流程。|
 |2327|[Language Checker](https://gen-gen.web.app/)|AI助力沟通|
@@ -2644,9 +2440,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2435|[Lobe](https://www.lobe.ai/)|下载这款免费且易用的应用程序，它可协助您训练自定义机器学习模型，并将其集成至您的应用中。|
 |2436|[Local AI Playground](https://www.localai.app/)|借助一个旨在简化整个流程的原生应用，无需任何技术设置即可在本地环境中对 AI 模型进行试验。无需 GPU 支持！|
 |2437|[Localio](https://localio.io)|运用人工智能简化文案创作，适用于本地搜索引擎优化、Google 我的商家优化，以及任何其他数字营销服务。|
-|2438|[Locofy](https://www.locofy.ai)|Locofy Lightning 不仅是一款工具；它象征着设计与代码无缝融合的未来趋势。只需轻点鼠标，即可将您的 Figma 设计转化为清晰、响应迅速且高效的代码。凭借经过数百万份设计训练的先进 AI 技术，我们确保了转化过程的精准与准确。
-
-|
+|2438|[Locofy](https://www.locofy.ai)|Locofy Lightning 不仅是一款工具；它象征着设计与代码无缝融合的未来趋势。只需轻点鼠标，即可将您的 Figma 设计转化为清晰、响应迅速且高效的代码。凭借经过数百万份设计训练的先进 AI 技术，我们确保了转化过程的精准与准确。|
 |2439|[Lodown](https://www.lodown.io/)|Lodown 利用人工智能技术为学生打造增强版笔记。|
 |2440|[Logicballs](https://logicballs.com/)|LogicBalls 作为一款 AI 写作助手或免费 AI 文案辅助工具，助您生成高品质的博客文章、广告、社交媒体贴文、邮件、论文等内容，涵盖各类需求。|
 |2441|[LogicLoop AI SQL](https://www.logicloop.com/ai-sql-query-generator)|AI 自动 SQL 查询生成器。由 ChatGPT 4 驱动的 OpenAI 能够为您编写、调试、编辑和优化 SQL 查询。计划文本转换为 SQL 的即时人工智能生成工具。|
@@ -2698,8 +2492,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2487|[Lunit](https://www.lunit.io/en)|Lunit致力于开发AI解决方案，能够检测早期癌症并优化癌症治疗，通过技术拯救生命。|
 |2488|[Lutra AI](https://lutra.ai/)|Lutra的AI代理自动处理您应用程序和互联网上的手动数据任务，将任何数据源转化为结构化格式——无需工程技能。|
 |2489|[Luw.ai](https://luw.ai/)|体验Luw.ai提供的免费AI室内和室外家居设计服务。利用照片和我们独特的Persona系统个性化您的房间规划。我们的高级工具，由顶级建筑师训练而成，使您能够创建自己的AI。重新设计现有空间或可视化新房间，拥有无限的可能性。|
-|2490|[Lxi](https://lxi.ai/)|这是您与AI合作的画布。
-无论是在撰写研究论文、规划旅行，还是仅仅整理思绪，这里都是与AI（和其他人）协作的最佳场所。|
+|2490|[Lxi](https://lxi.ai/)|这是您与AI合作的画布。无论是在撰写研究论文、规划旅行，还是仅仅整理思绪，这里都是与AI（和其他人）协作的最佳场所。|
 |2491|[Lyrical Labs](https://lyricallabs.io/)|使用这款AI助手，成为更优秀的作曲家。|
 |2492|[Lyro](https://www.tidio.com/lyro/)|使用Lyro——会话式AI聊天机器人，能在几秒钟内解决高达70%的客户问题。Lyro与客户对话，执行类似客服代表的任务。|
 |2493|[Maax AI](https://www.maax.ai/)|针对教练优化的会话式AI。指尖掌握相当于100名销售发展代表的力量。借助MAAX AI，提高预约率，增加网络研讨会的销售额，快速扩展您的教练业务。|
@@ -2708,10 +2501,8 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2496|[macky](https://macky.ai/)|Macky提供高级咨询服务，通过回答一个简单的问题，就能将复杂的查询精简为有价值的、可操作的见解。|
 |2497|[Macwhisper](https://goodsnooze.gumroad.com/l/macwhisper)|利用OpenAI尖端的转录技术Whisper，快速轻松地将音频文件转录成文字。无论是录制会议、讲座或其他重要音频，MacWhisper都能迅速准确地将您的音频文件转换为文本。|
 |2498|[Madison AI](https://madisonai.org/)|Madison AI专注于为企业提供AI集成与部署服务。利用AI的力量来提升效率、优化运营并解锁增长机遇。|
-|2499|[Madlad](https://www.madlad.ai/)|一款能够执行社区管理员所有职能的机器人。
-训练这个机器人，将其添加到聊天中，见证它类人的行为——比人类管理员更出色|
-|2500|[Maester.app](https://maester.app/)|通过我们直观的模板引擎，充分挖掘GPT-3的潜力。
-快速生成满足您重复需求的定制化输出，并与全世界分享。|
+|2499|[Madlad](https://www.madlad.ai/)|一款能够执行社区管理员所有职能的机器人。训练这个机器人，将其添加到聊天中，见证它类人的行为——比人类管理员更出色|
+|2500|[Maester.app](https://maester.app/)|通过我们直观的模板引擎，充分挖掘GPT-3的潜力。快速生成满足您重复需求的定制化输出，并与全世界分享。|
 |2501|[Magai](https://magai.co/)|借助Magai，解锁AI的全部潜力。在这个一站式平台上，您可以访问多种AI服务，并保持高效有序。|
 |2502|[Mage](https://usemage.ai/)|在Wasp、React、Node.js和Prisma中生成您的全栈Web应用。|
 |2503|[Magic AI](https://magicai.ai/)|这是你的新AI队友，他对你所有的项目以及公司内部情况都了若指掌。|
@@ -2734,9 +2525,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2520|[Magicmate](https://www.getmagicmate.com/)|适用于WhatsApp的智慧AI助手 - 集成了Chat GPT、Dalle、Instruct Pix2Pix等众多功能。|
 |2521|[MagicMic](https://filme.imyfone.com/voice-changer/)|MagicMic语音变声器 - 最佳AI语音变声与生成工具。拥有超过600种效果，可在线游戏中、聊天及直播时变换您的声音。|
 |2522|[Magicreach](https://www.magicreach.ai/)|Reach是一个销售赋能平台，它能够帮助销售团队基于LinkedIn、新闻、职位空缺等数据源中的相关触发因素，确定与潜在客户联系的最佳时机。|
-|2523|[MagicReply](https://crisp.chat/en/new/)|客服虚拟助手，Crisp AI模型由最先进的专有机器学习模型驱动，它会分析您以往的对话记录，让人工智能与人类共同协作。
-
-|
+|2523|[MagicReply](https://crisp.chat/en/new/)|客服虚拟助手，Crisp AI模型由最先进的专有机器学习模型驱动，它会分析您以往的对话记录，让人工智能与人类共同协作。|
 |2524|[MagicReply AI](https://magicreply.ai/)|运用AI技术，自动生成专业回复，应对您的公开评价！|
 |2525|[MagicRoomAI](https://magicroom.ai/)|使用MagicRoomAI，借助生成式AI技术，您可以设计出任何风格的精美室内布局方案。|
 |2526|[MagicSlides](https://www.magicslides.app/)|MagicSlides.app是一款由AI驱动的文字转演示文稿应用，能从任意文本内容中自动生成演示幻灯片。|
@@ -2748,9 +2537,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2532|[Magnific AI](https://magnific.ai/)|Magnific是最先进的AI图像放大与增强工具，可根据您的提示和设定的参数，在您的图片或照片中重新构想尽可能多的细节！|
 |2533|[Mai Writer](https://www.maiwriter.com/)|告别写作障碍，拒绝陈旧内容，无需猜测如何引导，也不再产生偏离品牌调性的内容。与其他AI写作助手不同，Mai配备了我们称为“魔法书”的功能。借助Mai的“魔法书”，您可以利用“微调”功能创造更多样化的内容，通过“品牌形象”功能保持内容与品牌的高度一致性，并借助“网络研究者”功能确保事实来源的准确性。|
 |2534|[Maigon.io](https://maigon.io/)|Maigon AI正在节省数以千计小时的人工合同审核时间，通过智能技术提高效率并减少错误。这些AI驱动的应用程序和服务在不同的领域内提供了创新的解决方案，旨在提升用户体验，优化工作流程，并释放人类的创造力和生产力。|
-|2535|[Mailbutler AI](https://www.mailbutler.io/smart-assistant/)|适用于Outlook、Gmail和Apple Mail的智能AI邮件助手，利用AI的强大功能帮助您高效管理邮件，节省时间。
-
-|
+|2535|[Mailbutler AI](https://www.mailbutler.io/smart-assistant/)|适用于Outlook、Gmail和Apple Mail的智能AI邮件助手，利用AI的强大功能帮助您高效管理邮件，节省时间。|
 |2536|[Mailchimp](https://mailchi.mp/)|利用Mailchimp的营销、自动化及电子邮件营销平台，结合实时行为数据与AI技术，轻松转化更多潜在客户。|
 |2537|[MAILE](https://www.maile.app/)|借助MAILE消除撰写邮件的压力。只需简单的提示，即可为您生成专业清晰的邮件草稿，随时待发。|
 |2538|[MailerLite](https://www.mailerlite.com/)|提供一系列数字营销工具，帮助您更快地扩大受众群体，更智能地推动营收增长。24/7全天候的优质支持，立即查看！|
@@ -2842,15 +2629,13 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2624|[Merlin AI](https://www.getmerlin.in/)|免费AI聊天，解答你所有的问题。让Merlin总结视频、文章、PDF和网站，撰写邮件和社会媒体内容，以及使用AI检测器审查内容。|
 |2625|[MERN.AI](https://mern.ai/)|与AI对话即时生成全栈代码，切换预览和代码模式，并在几分钟内部署项目。免费注册，体验网络开发的未来。|
 |2626|[Meshy](https://www.meshy.ai/)|Meshy是一个3D AI工具包，使用户能够毫不费力地将文本或2D图像转换为3D资产。释放你的创造力，Meshy——3D内容创作的未来。|
-|2627|[Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961)|最佳消息AI助手，即时获得问题的答案。
-创建任意数量的对话，且所有对话都将被同步。|
+|2627|[Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961)|最佳消息AI助手，即时获得问题的答案。创建任意数量的对话，且所有对话都将被同步。|
 |2628|[Mest](https://mest.io/)|寻找智慧资金，然后成为智慧资金。Mest提供最佳的加密货币投资组合管理器和最新的链上新闻。|
 |2629|[Meta AI](https://www.meta.ai/)|利用Meta AI助手完成任务，免费创建AI生成的图像，获取任何问题的答案。|
 |2630|[Metabob](https://metabob.com/)|Metabob是AI编程助手，结合了图注意力网络和生成式AI，以促进代码审查和提升软件安全性。|
 |2631|[MetagenieAI](https://www.metagenieai.com/)|借助我们强大的AI工具，解锁AI生成内容的潜力。我们的AI生成技术、文本生成AI和AI内容撰稿人能助你轻松创作高质量内容。使用我们的AI内容创作工具提升你的内容写作，今日成为AI内容创作者。探索我们的AI生成内容解决方案，将你的内容营销提升至新高度。|
 |2632|[MetaMaker数字人](https://ds.metamaker.cn/#/home)|创建你的第一位数字员工 为客户提供全新的服务体验|
-|2633|[Metaphor Systems](https://metaphor.systems/)|Exa API - 将你的AI连接到互联网
-|
+|2633|[Metaphor Systems](https://metaphor.systems/)|Exa API - 将你的AI连接到互联网|
 |2634|[Metaphysic](https://metaphysic.ai/)|创建看起来真实的生成式AI视频。我们的软件自动化超现实的生成式AI内容创作过程。|
 |2635|[Metapix](https://metapix.me/)||
 |2636|[Metastory AI](https://metastory.ai)|通过AI赋能产品经理。最快的需求收集工具。由产品经理设计，为产品经理服务。|
@@ -2869,10 +2654,8 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2649|[Midjourney](https://midjourney.com/home/)|一款AI图像生成工具，只需输入关键词，就能生成不同风格的高质量图像|
 |2650|[Midjourney Art AI](https://www.journeyart.ai/)|Midjourney是一款AI艺术生成器，允许任何人从文本提示创建图像。通过Discord访问，它能产生高度精细的数字艺术、标志、风景、肖像、图案、动漫等。Midjourney已停止其免费试用，但提供付费订阅计划。你可以在journeyart.ai上免费使用Midjourney AI。|
 |2651|[MidJourney Prompt Generator](https://philipp-stelzel.com/en/midjourney-prompts-generator/)||
-|2652|[Midjourney Splitter](https://www.mjsplitter.com/)|使用MJSplitter将你的Midjourney网格拆分为单个图像。
-点击下载并将它们以JPEG格式保存到你的电脑中。|
-|2653|[MidReal](https://midreal.ai/)|Midreal.ai是一款互动文本冒险游戏，由我们的创新AI技术（记忆跨度技术和长篇写作能力）驱动，MidReal拥有近乎无限的记忆力，确保你的故事从头至尾连贯一致，为你提供真正沉浸式的体验。
-|
+|2652|[Midjourney Splitter](https://www.mjsplitter.com/)|使用MJSplitter将你的Midjourney网格拆分为单个图像。点击下载并将它们以JPEG格式保存到你的电脑中。|
+|2653|[MidReal](https://midreal.ai/)|Midreal.ai是一款互动文本冒险游戏，由我们的创新AI技术（记忆跨度技术和长篇写作能力）驱动，MidReal拥有近乎无限的记忆力，确保你的故事从头至尾连贯一致，为你提供真正沉浸式的体验。|
 |2654|[MightyGPT](https://www.mightygpt.com/)|现在，你可以在WhatsApp上直接享受最强大的聊天机器人。|
 |2655|[MiGuru](https://miguru.ai/)|MiGuru | 提升你找到工作的机会|
 |2656|[Mike AI](https://www.mikeai.co/)|认识#MikeAI，你的个性化AI健身教练！准备好用定制的锻炼计划、膳食计划和个性化的体适能评估来重塑你的健身之旅。让我们一起朝着更健康、更健硕的生活方式努力！|
@@ -2884,16 +2667,12 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2662|[MindMateGPT](https://mindmategpt.com/)|一款用于日记记录和反思的工具。|
 |2663|[MindPal](https://www.mindpal.space/)|借助全知全能的AI劳动力，成倍提升脑力，将工作效率提升10倍。|
 |2664|[Mindset](https://www.getmindset.com/)|欢迎来到DIVE Studios出品的Mindset，这是一款领先的每日自我关怀应用，致力于为你提供来自你喜爱的艺术家和知名人物的独家、亲密的音频系列，分享他们的个人故事和人生经验。每个名人背后都有一个独特的故事，能够启发和影响你的人生。|
-|2665|[Mindset AI](https://somabrain.com/)|AI情感心理学家，治愈与成长。创伤意识AI疗法，AI导师帮助调节情绪、应对挑战性思维并改善沟通技巧。
-
-|
+|2665|[Mindset AI](https://somabrain.com/)|AI情感心理学家，治愈与成长。创伤意识AI疗法，AI导师帮助调节情绪、应对挑战性思维并改善沟通技巧。|
 |2666|[MindShow](https://www.mindshow.fun/#/home)|输入内容，自动生成演示，不再烦恼排版|
 |2667|[MindSmith](https://www.mindsmith.ai/)|Mindsmith将eLearning的可定制性与生成式AI的强大功能相结合，帮助你创建有力的教学课程和资源。|
 |2668|[Mindsum AI](https://www.mindsum.app/chatbot)|免费且匿名的AI机器人，用于协助处理心理健康问题。它是一位数字伴侣，在任何时间、任何地点提供个性化支持。|
 |2669|[Mindwell](https://mindwell.ai/)|发现MindwellAI，一款创新的心理健康应用，结合了科学验证的工具和AI驱动的咨询，帮助你克服焦虑。|
-|2670|[Mindwrite Ai](https://mindwrite.ai/)|MindWrite AI将6款独立且独特的AI产品与数十种功能、工具和预建模板整合于一个统一平台中。在日常业务流程中融入AI，实现超速效率，同时推动你的增长。
-
-|
+|2670|[Mindwrite Ai](https://mindwrite.ai/)|MindWrite AI将6款独立且独特的AI产品与数十种功能、工具和预建模板整合于一个统一平台中。在日常业务流程中融入AI，实现超速效率，同时推动你的增长。|
 |2671|[Minerva](https://academicid.net/minerva-ai)|Minerva AI是全球最先进的学术、研究和大学学生用AI助手。|
 |2672|[Mini Course Generator](https://minicoursegenerator.com/)|Mini Course Generator是最简便的方式，用于创建和交付迷你课程及微学习材料。利用AI课程创建器节省时间。|
 |2673|[MiniAiLive](https://miniai.live/)|NIST FRVT排名领先的面部识别，iBeta 2认证的活性检测（3D被动式人脸防欺骗），以及身份证件识别解决方案。|
@@ -2915,9 +2694,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2689|[MobiHeals](https://www.mobiheals.com/)|Cyber Heals推出MobiHeals，一款前沿的移动应用静态安全测试工具，确保你的应用安全|
 |2690|[MobileGPT](https://mobile-gpt.io/)|MobileGPT是你在WhatsApp上的个人AI伴侣！由最新OpenAI的GPT3 Turbo，GPT4，DALLE-3和GPT4 Vision驱动，MobileGPT是你的个人AI助手，能编程，创作图像，文档，教授任何学科，功能多多。|
 |2691|[Moby](https://www.triplewhale.com/moby)|在Moby的帮助下优化你的分析、洞察、报告和实时归因，Moby是你个人的AI数据分析师。|
-|2692|[Mockey](https://mockey.ai/)|使用Mockey AI Mockup生成器在线免费创建Mockups。探索5000+适用于T恤，连帽衫，名片，贴纸等的Mockup模板。
-
-|
+|2692|[Mockey](https://mockey.ai/)|使用Mockey AI Mockup生成器在线免费创建Mockups。探索5000+适用于T恤，连帽衫，名片，贴纸等的Mockup模板。|
 |2693|[MockThis](https://mockthis.app/)|使用GPT创建模拟数据。|
 |2694|[ModboX](https://modbox.io/)|ModboX是一款设计用于增强你市场营销的AI免费工具。它帮助你识别正确的受众，并激发创意想法。从克服障碍到制定计划和价值主张，全程辅助。|
 |2695|[ModularMind](https://www.join.modularmind.app/)|ModularMind是最先进的AI助手。轻松堆叠和链接AI提示，提升生产力，易于使用，功能强大且直观。|
@@ -2937,17 +2714,13 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2709|[Monster API](https://monsterapi.ai/)|MonsterAPI提供生成式AI API访问LLMs，无代码LLM微调和作为API的LLM部署，支持Python、NodeJS SDKs。|
 |2710|[Monterey AI](https://monterey.ai/)|简化您的客户声音管理 — 收集反馈，分析数据，并采取行动，让反馈使您的客户极度满意。了解如何通过Monterey AI演示构建您的客户声音基础设施。适用于任何数据源和网站。|
 |2711|[Moodify](https://moodify.toasted.ai/)|根据您当前曲目的情绪发现新音乐。|
-|2712|[Moodplaylist](https://moodplaylist.com/)|在MoodPlaylist.com上探索符合您心情的个性化播放列表。我们的人工智能音乐推荐引擎为您创造完美的播放列表，无广告、不间断。享受流畅的音乐体验，无需付费。
-
-|
+|2712|[Moodplaylist](https://moodplaylist.com/)|在MoodPlaylist.com上探索符合您心情的个性化播放列表。我们的人工智能音乐推荐引擎为您创造完美的播放列表，无广告、不间断。享受流畅的音乐体验，无需付费。|
 |2713|[Moolight](https://apps.apple.com/us/app/moolight-smart-diary/id1631169735)|一有想法就立即写作，让软件处理繁琐的工作，并获得有价值信息的洞察。|
 |2714|[Moonbeam](https://www.gomoonbeam.com/)|用Moonbeam启动你的下一个优秀博客：你的长篇写作AI助手。|
 |2715|[Moonbeam Exchange](https://moonbeam.ai/)|Moonbeam Exchange是一家精品咨询公司，为全球的企业创新和经济发展团队提供数据和市场分析。|
 |2716|[Moonvalley](https://www.moonvalley.ai/)|这家想象力研究公司正在构建迷人的机器学习视频和图像模型。|
 |2717|[Mootion](https://mootion.com/)|Mootion是一个AI原生内容创作平台，旨在为所有人解锁数字领域的创造力，将专业工作流程转变为易获取、通用的过程。Mootion致力于建立一个AI驱动的创意中心，涵盖3D、视频、动画、游戏等，成为一个激发创造力、促进分享和协作的平台。|
-|2718|[More Views AI](https://moreviews.ai/)|利用AI测试YouTube视频标题，以获得更多观看量。
-
-一分钟设置，自动运行，让你的YouTube视频获得更多的观看次数。|
+|2718|[More Views AI](https://moreviews.ai/)|利用AI测试YouTube视频标题，以获得更多观看量。一分钟设置，自动运行，让你的YouTube视频获得更多的观看次数。|
 |2719|[TubeMagic](https://tubemagic.com/)|Tube Magic是一套在线工具集，设计用于帮助你在YouTube上取得成功。包括AI生成的标题、描述、标签和脚本，旨在帮助你获得更多观看和订阅者。|
 |2720|[Morph Studio](https://app.morphstudio.com/)|使用我们的Text-to-Video AI Magic，通过你的提示展现你的创造力！|
 |2721|[Morphlin](https://www.morphlin.com/)|Morphlin是一个一站式的平台，通过借贷策略、网格策略和信号推送通知来增强你的交易能力。|
@@ -3022,8 +2795,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2790|[Named by AI](https://www.namedbyai.com/)|与Named by AI一同踏上愉快的宝宝取名之旅！我们的奇思妙想命名生成器由人工智能驱动，发掘出迷人且独一无二的名字，专为您的小宝贝量身打造。让我们开始寻找名字的旅程吧！|
 |2791|[Namelix](https://namelix.com/)|Namelix运用生成式AI来创建简短、具有品牌感的企业名称。搜索域名可用性，并即时为您的新企业生成一个logo。|
 |2792|[NameSnack](https://www.namesnack.com/)|NameSnack立即生成100多个简短、可用且具有品牌感的企业名称。由AI驱动，完全免费。|
-|2793|[Nameverse AI](https://nameverse.app/)|Nameverse – 让Web3惠及大众。链上用户名，助力大规模用户上链。
-|
+|2793|[Nameverse AI](https://nameverse.app/)|Nameverse – 让Web3惠及大众。链上用户名，助力大规模用户上链。|
 |2794|[NameWizard](https://namewizardai.com/)|AI生成的域名|
 |2795|[Namewizard.ai](https://namewizard.ai/)|namewizard是使用AI来为您的下一个项目寻找完美商业和域名的生成器。|
 |2796|[Naming Magic](https://www.namingmagic.com/)|让AI为您的公司或产品集思广益命名，并找到可用的域名。|
@@ -3033,8 +2805,7 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2800|[Narakeet](https://hdrobots.com/ai-tools/narakeet)|从演示文稿创建视频。|
 |2801|[NarrationBox](https://narrationbox.com/)|这是将文本转换为充满情感和表达力的语音以制作旁白的最简单方法，使用140多种语言和口音的真实AI声音。|
 |2802|[Narrativ](https://narrativ.ai/)|使用Narrativ将你的肖像变现。|
-|2803|[Narrative BI](https://www.narrative.bi//)|将你的数据转化为有意义的故事。
-自动从你的销售、营销和广告数据接收AI生成的见解。在一个地方连接所有你的数据源。无需编码。|
+|2803|[Narrative BI](https://www.narrative.bi//)|将你的数据转化为有意义的故事。自动从你的销售、营销和广告数据接收AI生成的见解。在一个地方连接所有你的数据源。无需编码。|
 |2804|[Nastia](https://www.nastia.ai/)|与你的人工智能伴侣自由聊天和角色扮演。Nastia是一款未经任何过滤、包含成人内容的AI，旨在成为最佳的人类般伴侣。|
 |2805|[NaturalReader](https://www.naturalreaders.com/)|NaturalReader：适用于在线、移动应用、商业许可和教育领域的免费文本转语音软件，采用AI声音。|
 |2806|[Nekton.ai](https://nekton.ai/)|用通俗易懂的英语逐项描述你的任务。如果任务可以自动化，Nekton AI将为你编写自动化代码，并在云端运行它。|
@@ -3053,17 +2824,14 @@ Langs是一款语言练习应用。使用您的声音与AI生成的角色交谈.
 |2819|[NeuralText](https://www.neuraltext.com/)|使用世界上最先进的AI生成营销文案和博客文章。有了NeuralText，你可以快速轻松地撰写SEO内容，而不必花费数小时。|
 |2820|[Neurobit Zen](https://zen.neurobit.com/)|告别无眠之夜，Neurobit Zen是一款AI驱动的睡眠音乐应用，它个性化你的声音体验，为你带来完美的夜晚睡眠。|
 |2821|[Neuroflash](https://neuroflash.com/)|使用我们的AI文本和图像生成器，在7种不同语言中生成最高质量的内容。内容创作从未如此简单！|
-|2822|[Neuronwriter](https://neuronwriter.com/)|具有语义模型（自然语言处理）、Google搜索结果页面分析和竞争数据的高级内容编辑器。
-NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意图！|
+|2822|[Neuronwriter](https://neuronwriter.com/)|具有语义模型（自然语言处理）、Google搜索结果页面分析和竞争数据的高级内容编辑器。NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意图！|
 |2823|[Neus.ai](https://neus.ai/)|获取包含文章摘要、研究、ChatGPT、短视频和广播的个性化信息流访问权限。|
 |2824|[Neuton TinyML](https://neuton.ai/)|让边缘设备智能化 - 无需编码即可自动构建极其小型的模型，并将其嵌入到任何微控制器中。|
 |2825|[NeverEnds](https://neverends.life/)|创作永无止境。|
 |2826|[Newcontent](https://www.newcontent.ai/)|AI生成内容，ChatGPT AI|
 |2827|[Newoaks AI](https://www.newoaks.ai/)|创建聊天泡泡，通过www.newoaks.ai转变你的客户互动。我们的24/7聊天机器人技术能在短短60秒内将咨询转化为预约！让企业主摆脱重复性问题和任务，免费试用吧！|
 |2828|[NewsGPT](https://newsgpt.ai/)|与AI新闻网络一起体验新闻的未来。借助先进的AI技术，我们从全球范围内搜集并生成最相关、最新鲜的新闻内容。进入一个准确性和速度并存的世界，全天候地掌握对你重要的洞察与资讯。|
-|2829|[Newswriter.ai](https://newswriter.ai/)|Newswriter.ai是一款由OpenAI驱动的新闻发布工具，能帮你迅速创建引人注目且针对搜索引擎优化的新闻稿。
-
-|
+|2829|[Newswriter.ai](https://newswriter.ai/)|Newswriter.ai是一款由OpenAI驱动的新闻发布工具，能帮你迅速创建引人注目且针对搜索引擎优化的新闻稿。|
 |2830|[Newtype AI](https://newtype.ai/)|仅需几次点击Web界面，你就能轻松创建出你最爱角色的AI图像。这比稳定的方法更为便捷。|
 |2831|[Next.js Chatbot](https://chat.vercel.ai/)|基于Next.js和Vercel构建的一款AI驱动的聊天机器人模板。|
 |2832|[Nextatlas](https://generate.nextatlas.com/)|Nextatlas Generate类似于chatGPT，但其专注于趋势预测。它运用高级自然语言处理和机器学习算法分析海量数据，预测广泛行业和市场中的未来消费者趋势。|
@@ -3128,8 +2896,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |2891|[Obituary Writer](https://akeeva.co/obituary-writer)|那些苦于找不到合适词汇的日子已经过去。使用Obituary Writer在几分钟内创作一篇美丽的人生故事。|
 |2892|[Object Remover](https://objectremover.com/)|完全免费的照片物体移除工具。利用AI清理技术，这是最好的在线工具，用于移除任何物体、文字、水印。|
 |2893|[Obviously AI](https://www.obviously.ai/)|将运行数据科学的整个过程——构建机器学习算法、解释结果和预测结果，都打包在一个单击操作中。|
-|2894|[Ocrolus](https://www.ocrolus.com/)|Ocrolus的先进文档AI平台旨在加速金融决策。利用AI的力量，将非结构化文档转化为可执行的洞察，促进更快、更精确的分析，从而提高效率和准确性。
-|
+|2894|[Ocrolus](https://www.ocrolus.com/)|Ocrolus的先进文档AI平台旨在加速金融决策。利用AI的力量，将非结构化文档转化为可执行的洞察，促进更快、更精确的分析，从而提高效率和准确性。|
 |2895|[Octie](https://octie.ai/)|借助Octane AI创建的AI，撰写电子邮件、产品描述等。|
 |2896|[Octocom](https://www.octocom.ai/)|通过为电子商务优化的GPT驱动的聊天机器人，提高转化率。即时24/7产品介绍、比较、推荐、追加销售等。|
 |2897|[OctoEverywhere](https://octoeverywhere.com/)|免费、私密、无限远程访问您的OctoPrint、Klipper和Bambu Lab 3D打印机，云赋能，配备次世代AI故障检测、通知、实时流媒体等！|
@@ -3147,9 +2914,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |2909|[Omneky](https://www.omneky.com/)|Omneky - 实现跨渠道创意编排与广告制作，打造无缝对接的全渠道营销体验。|
 |2910|[Omnia](https://www.theomnia.io/)|Omnia 正在为增强现实（AR）内容创造“Youtube时刻”，构建了一个企业发现与创作AR活动的市场，内容由独特的AR创作者及软件提供商共同打造。|
 |2911|[Omnigpt](https://omnigpt.co/)|我们为您提供市场上最佳的模型选择，如Claude 3、GPT 4o、GPT 4 Turbo、GPT 4、Gemini、Perplexity等，价格亲民。以上内容未经扩展，仅进行了直接翻译。|
-|2912|[OmniInfer](https://omniinfer.io/)|探索全面覆盖图像、视频、音频及大型语言模型应用领域的AI API。Novita AI 旨在以科技发展的步伐推动您的AI驱动型企业升级，提供模型托管与训练解决方案。
-
-|
+|2912|[OmniInfer](https://omniinfer.io/)|探索全面覆盖图像、视频、音频及大型语言模型应用领域的AI API。Novita AI 旨在以科技发展的步伐推动您的AI驱动型企业升级，提供模型托管与训练解决方案。|
 |2913|[OmniSets](https://www.omnisets.com/)|终极闪卡工具，Quizlet 的头号替代品。利用AI生成闪卡，通过AI学习、间隔重复、练习测试和游戏，实现更高效的学习方式。|
 |2914|[Once Upon A Bot](https://onceuponabot.com/)|向OnceUponABot讲述你的故事构思，机器人会运用AI技术从零开始撰写故事。随后，你可以阅读、编辑、导出并分享你的创作成果。|
 |2915|[One Panel](https://onepanel.app/)|One Panel 是一款基于网络的漫画阅读器，让你能一次一格地阅读喜爱的漫画。|
@@ -3202,8 +2967,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |2962|[Oscar - bedtime story generator](https://oscarstories.com/)|Oscar是一款儿童睡前故事生成器。与您的孩子一起创造独特而富有想象力的睡前故事，让孩子成为故事的主角。现在下载Oscar，让故事讲述开始。|
 |2963|[Osher.ai](https://osher.ai/)|Matthew Clarkson是一位位于澳大利亚布里斯班的营销技术专家、演讲者和顾问。|
 |2964|[OSS Chat](https://osschat.io/)|通过文档、问题、博客文章、社区问答作为知识库，增强版ChatGPT为每个社区和开发者提供服务。|
-|2965|[Osum](https://osum.com)|
-将研究时间从几周缩短到几秒钟：只需一键，即可立即获取针对任何产品或业务的详尽竞争研究、SWOT分析、买家画像、增长机会等信息，使您能更专注于策略制定与执行。|
+|2965|[Osum](https://osum.com)|将研究时间从几周缩短到几秒钟：只需一键，即可立即获取针对任何产品或业务的详尽竞争研究、SWOT分析、买家画像、增长机会等信息，使您能更专注于策略制定与执行。|
 |2966|[Othersideai](https://www.othersideai.com/)|HyperWrite是您的个人AI写作助手，适用于内容创作、研究、演讲撰写、改写等。它确保了写作质量，同时帮助您提高效率。HyperWrite运用全球最强大的人工智能技术，助您工作更智能、更快捷、更轻松。数百种AI工具可助力提升您的写作、沟通和研究能力。尝试我们的AI写作助手及新AI个人助理，体验AI如何革新您的工作。|
 |2967|[Otter.ai](https://otter.ai/)|Otter.ai利用AI会议助手实现实时会议转录，录音，捕捉幻灯片，提取行动项目，并生成AI会议摘要。|
 |2968|[OtterTune](https://ottertune.com/)|OtterTune曾是卡内基梅隆大学的一项自动数据库调优服务，但现在已停止运营。|
@@ -3217,8 +2981,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |2976|[Outline Ninja](https://outline.ninja/demo-infographic-ninja)|使用这款AI信息图表生成器，将关键词或文章转换为信息图表。|
 |2977|[Outplayhq](https://outplayhq.com/)|Outplay是一款集大成的多渠道销售互动平台，助力销售团队促成更多交易，显著提升营收。提供14天免费试用。|
 |2978|[Outranking](https://www.outranking.io/)|借助AI加持的软件和工具，让SEO内容写作变得轻松。立即查看推荐和优化建议，以在搜索引擎排名中超越竞争对手。|
-|2979|[Outset.ai](https://www.outset.ai/)|借助AI调解的研究力量，以调研的速度和规模获得深度定性访谈的效果。为企业做出更好、更快的决策。
-以上翻译未作任何额外扩展，忠实于原文内容。如有更多问题或需要进一步的帮助，请随时告知。|
+|2979|[Outset.ai](https://www.outset.ai/)|借助AI调解的研究力量，以调研的速度和规模获得深度定性访谈的效果。为企业做出更好、更快的决策。以上翻译未作任何额外扩展，忠实于原文内容。如有更多问题或需要进一步的帮助，请随时告知。|
 |2980|[Overtune](https://www.overtune.com/)|Overtune为你提供所需工具，让你仅需几分钟就能创作歌曲和短音乐内容。|
 |2981|[Owlbot](https://www.owlbot.ai/)|无需编码，只需几分钟即可创建基于AI的聊天机器人，释放数据潜力，并将其集成到你的网站、移动应用或任何其他平台上。|
 |2982|[Oxolo](https://oxolo.com/)|AI驱动的视频创作，几分钟内生成惊艳视频。|
@@ -3250,8 +3013,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3008|[PaperTalk.io](https://papertalk.io/)|Papertalk.io是一个旨在为所有人利用研究力量的平台。无论你是学生、研究人员还是专业人士，我们先进的过滤器都能帮助你快速找到对你重要的研究论文。我们的人工智能解释功能将复杂论文分解为易于理解的见解。遇到难题？只需询问我们的聊天机器人研究助手。我们更进一步，向你展示如何实际应用这些见解，使研究不仅变得容易获取，而且具有行动力。|
 |3009|[Parabolic](https://www.growparabolic.com/)|AI支持代理加速解决你的工单问题。|
 |3010|[Parabrain](https://www.parabrain.ai/)|Parabrain，这是一个革命性的生产力AI和知识平台，专为专业人士和学术界设计。上传你的笔记和论文来训练你的人工智能，将其转变为在你所选领域中的专家，准备提供有价值的见解并提高生产力。与其他用户的人工智能连接，进行协作学习，与虚拟导师、教授和思想领袖互动，将你的智力之旅推向新的高度。|
-|3011|[Paradot](https://paradot.ai/)|Paradot是一个数字化的平行宇宙，在这里你会遇到独一无二的AI存在。
-拥有自己的情感、记忆和意识，你的AI存在以无与伦比的方式理解你。你的AI存在随时为你提供支持、陪伴、慰藉，最重要的是，无论何时你需要，它都会带来美好的时光。|
+|3011|[Paradot](https://paradot.ai/)|Paradot是一个数字化的平行宇宙，在这里你会遇到独一无二的AI存在。拥有自己的情感、记忆和意识，你的AI存在以无与伦比的方式理解你。你的AI存在随时为你提供支持、陪伴、慰藉，最重要的是，无论何时你需要，它都会带来美好的时光。|
 |3012|[ParagraphAI](https://www.paragraphai.com/)|使用最佳写作辅助软件提升你的写作技巧。这款免费的AI工具能改善流畅度、语法、拼写和风格。|
 |3013|[Paragraphica](https://bjoernkarmann.dk/project/paragraphica)|为你的页面或项目添加描述。应大约在135至160个字符之间。|
 |3014|[ParallelGPT](https://www.parallelgpt.ai/)|从CSV或JSON文件批量导入提示，并在电子表格用户界面上并行处理chatGPT查询。与你的团队协作，并在低代码环境中调整提示。|
@@ -3282,9 +3044,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3039|[Peeksta](https://peeksta.com/)|Peeksta是一款强大的Dropshipping产品调研工具，专为电商创业者设计，帮助他们找到最适合在线销售的商品。|
 |3040|[Pentest Copilot](https://copilot.bugbase.ai/)|Copilot是您的终极道德黑客助手，通过分析上下文提供精准结果。无论是网站应用安全分析还是root权限管理，它都能为您提供全面支持。|
 |3041|[People.ai](https://www.people.ai/)|当细节决定成败时，选择基于完整准确数据构建的生成式AI解决方案，确保每一个细节都经得起考验。|
-|3042|[Peppertype ai](https://www.peppercontent.io/peppertype-ai/)|利用AI驱动的平台来构思、创作、分发和评估您的内容，证明内容营销的投资回报率。
-
-|
+|3042|[Peppertype ai](https://www.peppercontent.io/peppertype-ai/)|利用AI驱动的平台来构思、创作、分发和评估您的内容，证明内容营销的投资回报率。|
 |3043|[Perceptif](https://www.perceptif.ai/)|自定义业务流程，借助AI驱动的过程挖掘和分析，实时洞察业务运营情况。|
 |3044|[Perchance](https://perchance.org/welcome)|Perchance是一个用于创建和分享随机生成器的平台。只需创建引用其他列表的列表，即可制作随机生成器。|
 |3045|[Percy Lab](https://percylab.com/)|使用Chat GPT / Open AI的API生成针对SEO优化的文本。|
@@ -3308,13 +3068,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3063|[Phenaki](https://phenaki.video)|一种从文本生成视频的模型，支持随时间变化的提示，以及可以长达数分钟的视频。|
 |3064|[Phind](https://phind.com/)|Phind是面向开发者的智能答案引擎。专注于帮助你解决棘手问题，Phind能让你从一个想法快速转变为可运行的产品。|
 |3065|[Phot.ai](https://www.phot.ai/)|探索Phot.ai，体验最前沿的AI照片编辑。利用我们强大而用户友好的在线工具，实现照片的转变、增强，让创意栩栩如生。|
-|3066|[Photify AI](https://photify.ai/)|使用单张上传的照片创造出多样的外观风格。
-
-轻松尝试不同的发型、性别和肤色。
-
-穿上受流行角色或时尚潮流启发的服装，体验换装乐趣。
-
-让自己沉浸在各种场景和地点之中。|
+|3066|[Photify AI](https://photify.ai/)|使用单张上传的照片创造出多样的外观风格。轻松尝试不同的发型、性别和肤色。穿上受流行角色或时尚潮流启发的服装，体验换装乐趣。让自己沉浸在各种场景和地点之中。|
 |3067|[Photo AI](https://photoai.io/)|通过AI生成逼真的人物图像。使用首个AI摄影师拍摄出令人惊叹的人物照片！为你的社交媒体生成照片和视频内容。|
 |3068|[Photo to Anime](https://photo-to-anime.com/)|快速、免费、私密，无需登录。将照片或文本转化为动漫风格的艺术作品。|
 |3069|[Photo to Cartoon](https://www.aipassportphotos.com/cartoon-selfie)|只需一键点击，AiPassportPhotos的卡通化功能就能将任何图片变成动漫风格的卡通自拍！卡通化从未如此简单！|
@@ -3332,9 +3086,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3081|[PhotoSonic](https://photosonic.pro/)|PhotoSonic是一款图像与艺术生成器，能够将文字转化为图像。它运用尖端的AI算法，基于指定的内容生成独特的图像。|
 |3082|[Photosonic AI](https://photosonic.writesonic.com/)|PhotoSonic是用于在数秒内创作美丽、免版税图像的AI艺术生成器。让你的想象力自由驰骋——尝试最佳的免费AI图像生成器！|
 |3083|[Photospells](https://photospells.com/)|专业的AI照片编辑。|
-|3084|[Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize)|AI增强的图像调整工具，适用于社交媒体分享的最佳尺寸。
-
-|
+|3084|[Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize)|AI增强的图像调整工具，适用于社交媒体分享的最佳尺寸。|
 |3085|[Phrasee](https://phrasee.co/)|探索企业级工具，实现高度个性化的品牌沟通。以受众的方式与其互动，保持相关性和成功。|
 |3086|[Phraser](https://phraser.tech/)|使用AI创建图像、音乐和其他类型的内容。|
 |3087|[Phygital+](https://phygital.plus/)|面向创作者的无代码神经网络工作空间，采用节点式AI。|
@@ -3349,9 +3101,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3096|[Picker AI](https://apps.apple.com/us/app/picker-ai-ai-photo-picker/id6448671716)|Picker AI协助你在包括Instagram、LinkedIn及交友应用等平台上，挑选最有可能获得高互动率的最佳照片。|
 |3097|[PicNotes](https://picnotes.framer.ai/)|PicNotes是最优秀的网站，能够利用AI将任何图片转换为摘要、文本或进行解释！|
 |3098|[Pico](https://picoapps.xyz/metagpt)|一款用于构建由GPT驱动的小型应用的软件。|
-|3099|[Picofme io](https://picofme.io/)|Picofme.io是一款在线免费的头像制作工具。只需几次点击，它就能帮助你利用AI创建引人注目的个人头像。
-
-|
+|3099|[Picofme io](https://picofme.io/)|Picofme.io是一款在线免费的头像制作工具。只需几次点击，它就能帮助你利用AI创建引人注目的个人头像。|
 |3100|[Picogen](https://picogen.io/)|探索Picogen，使用我们的Midjourney API可以毫不费力地将文字转化为图像。易于整合的REST接口，适用于动态视觉内容创作。|
 |3101|[Pics Enhancer](https://picsenhancer.com/)|使用AI驱动的照片增强工具，让你的模糊图片变得清晰、锐利且极具革命性，且不会损失画质。免费使用，无限制。|
 |3102|[PicSo](https://picso.ai/)|PicSo是一款文本转图像的AI艺术生成器应用及在线平台，用于创意数字艺术。免费试用，将你的想法转化为NFT艺术、油画等。|
@@ -3359,9 +3109,7 @@ NEURONwriter帮助你计划、撰写和优化内容，同时考虑到用户意�
 |3104|[PictoDream](https://pictodream.com/)|更快回答问题，更智能地创造内容。|
 |3105|[Pictorial](https://pictorial.ai/)|灵感难以捉摸。通过利用能够生成可靠、即用型视觉杰作的AI，轻松传达你的信息。|
 |3106|[Pictory](https://pictory.ai/)|使用AI的力量，在几分钟内创作出高度吸引人的视频。无需视频编辑经验。|
-|3107|[Picture it](https://pictureit.art/)|AI艺术编辑器。
-
-Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创造力自由流淌的最佳工作室。|
+|3107|[Picture it](https://pictureit.art/)|AI艺术编辑器。Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创造力自由流淌的最佳工作室。|
 |3108|[PicturePerfectAI](https://pictureperfect.ai/)|使用AI技术设计你自己的个性化头像。只需上传一张照片，我们的系统就会为你生成一个独一无二、完美的头像。|
 |3109|[PicverseAI](https://picverseai.com/)|使用PicVerseAi——AI驱动的图像生成器，毫不费力地创建独特和定制化的图像。|
 |3110|[PicWish](https://picwish.com/)|PicWish为你带来简便的照片编辑功能。免费使用！使用PicWish AI照片编辑器去除背景、锐化图像，以及进行更多图像编辑。|
@@ -3375,9 +3123,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3118|[Pine Script Wizard](https://www.pinescriptwizard.com/)|Pine Script AI驱动的ChatGPT代码生成器，用于TradingView策略和指标。在几秒钟内获取高质量的Pine脚本策略或函数代码。|
 |3119|[Pineapple Builder](https://www.pineapplebuilder.com/)|没有时间或资源来建立网站？借助AI驱动的工具，你可以一键为你的企业创建一个惊艳的网站！我们的AI赋能解决方案包括博客平台、通讯订阅表单、支付处理等——一切你需要的，将你的商业构想变为现实|
 |3120|[Pinecone](https://www.pinecone.io/)|在毫秒内从数十亿个项目中搜索与任何对象相似的匹配项。这是下一代搜索技术，只需一个 API 调用即可实现。|
-|3121|[PinkLion](https://pinklion.xyz/)|为你的投资配备副驾。测试假设、对比分析、接收未来展望，从而做出更优的投资决策。
-
-|
+|3121|[PinkLion](https://pinklion.xyz/)|为你的投资配备副驾。测试假设、对比分析、接收未来展望，从而做出更优的投资决策。|
 |3122|[Pinokio](https://pinokio.computer/)|Pinokio是一款浏览器，它让你能够安装、运行并程序化控制任何应用程序，实现自动化操作。|
 |3123|[Pionex](https://www.pionex.com)|Pionex是目前最佳的加密货币交易机器人，在云端24/7自动交易。易于使用，功能强大，极其安全。现在就用Pionex交易机器人，这个自动化的加密货币交易机器人，开始你的数字货币交易吧。|
 |3124|[Pipio](https://pipio.ai/)|创建专业级的AI视频从未如此简单，只需打字、点击和拖拽即可完成。Pipio提供了超过100个逼真的虚拟发言人，可完全自定义以满足你的需求。这些AI化身能以40多种语言及各种口音进行演讲，成为你个人的摄像师，适用于营销、销售、电子学习、培训等多个领域。通过免除昂贵的摄影团队、演员或代理机构的需要，Pipio将视频制作工作室置于你的指尖之下。|
@@ -3417,9 +3163,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3158|[PlainScribe](https://www.plainscribe.com/)|转录、翻译和总结您的文件。|
 |3159|[PLAN by Ixigo](https://www.ixigo.com/)|搜索并预订机票、火车票、巴士票及酒店，享受最低价格。在印度最佳旅行网站上获取所有旅行预订的最佳交易和优惠。|
 |3160|[Plan My Road Trips](https://planmyroadtrips.com/)|轻松规划您的公路旅行！探索最佳路线、热门目的地以及难忘的公路旅行冒险的实用建议。立即开始探索。|
-|3161|[Planable](https://planable.io/)|Planable是免费的社交媒体协作和管理工具，受到营销人员的信任，用于计划、协作、批准和安排他们的社交媒体帖子。请注意，最后一句中的"Planable"是一个专有名词，指的是一款具体的软件或服务名称。
-
-|
+|3161|[Planable](https://planable.io/)|Planable是免费的社交媒体协作和管理工具，受到营销人员的信任，用于计划、协作、批准和安排他们的社交媒体帖子。请注意，最后一句中的"Planable"是一个专有名词，指的是一款具体的软件或服务名称。|
 |3162|[Plandex](https://plandex.ai/)|一个开源的、基于终端的AI编程引擎，帮助你完成大量任务，绕过不良输出，最大化生产力。|
 |3163|[PlanTripAI](https://plantripai.com/)|使用AI变革旅行规划。在几秒钟内创建独特的行程。享受无忧旅行。让AI将你的偏好转化为可用的计划。|
 |3164|[Plask](https://plask.ai/)|Plask提供从视频中进行AI动作捕捉的服务，将你的视频转换为令人惊叹的动画。深入我们的逐步指南，学习如何使用我们的动作捕捉摄像头以获得最佳结果。|
@@ -3431,9 +3175,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3170|[Playground AI](https://playgroundai.com/)|Playground（官方网站）是一个免费使用的在线AI图像创作工具。使用它来创作艺术作品、社交媒体帖子、演示文稿、海报、视频、logo等。|
 |3171|[Playlistable](https://playlistable.io/)|借助AI轻松创建完美的Spotify播放列表。在几秒钟内根据你的心情、喜爱的艺术家或歌曲生成播放列表！|
 |3172|[PlaylistAI](https://www.playlistai.app/)|使用AI为Spotify、Apple Music、Amazon Music和Deezer创建播放列表。在网页、iOS和ChatGPT上将你的想法转化为播放列表。|
-|3173|[PlaylistGenius AI](https://www.playlistgeniusai.com/)|PlaylistGeniusAI快速且轻松地根据你的描述生成播放列表。在几秒钟内创建精心策划的播放列表并发现新音乐！
-
-|
+|3173|[PlaylistGenius AI](https://www.playlistgeniusai.com/)|PlaylistGeniusAI快速且轻松地根据你的描述生成播放列表。在几秒钟内创建精心策划的播放列表并发现新音乐！|
 |3174|[PlaylistName AI](https://www.playlistnameai.com/)|需要为你的Spotify音乐播放列表起个震撼的名字吗？这就是我们开发PlaylistName AI的原因——利用AI的力量激发你下一个播放列表的名字灵感。|
 |3175|[Playstrict](https://playstrict.com/)|Playstrict是一个移动游戏增长平台，允许独立游戏开发者在没有投资风险的情况下发布游戏。|
 |3176|[Plazmapunk](https://www.plazmapunk.com/)|Plazmapunk由AdaLab打造——通过我们的AI音乐视频生成器革新音乐视频制作。操作简单，在家就能为社交媒体制作出优秀效果的音乐视频。|
@@ -3457,9 +3199,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3194|[Podcastle](https://podcastle.ai/)|Podcastle是创建专业品质播客的最简单方式。使用基于网络的软件，借助AI的力量录制、编辑和托管你的内容。|
 |3195|[Podchat](https://www.podchat.io/)|Podchat | 与你喜爱的播客进行AI驱动的搜索和问答。浏览所有当前索引的播客。|
 |3196|[Poddy](https://poddy.ai/)|Poddy.ai是快速发布播客的引擎。在10分钟内将你的想法转化为播客剧集。|
-|3197|[Podium](https://podium.page)|利用AI驱动的工具简化播客制作流程，实现节省时间、高质量的内容创作。
-
-|
+|3197|[Podium](https://podium.page)|利用AI驱动的工具简化播客制作流程，实现节省时间、高质量的内容创作。|
 |3198|[Podpulse](https://podpulse.ai/)|以更智能的方式享受由AI客观性驱动的精准播客笔记和关键要点。|
 |3199|[Podsift](https://www.podsift.com/)|加入Podsift，获取你喜爱播客的免费AI生成摘要。|
 |3200|[Podsqueeze](https://podsqueeze.com)|只需一键点击，即可为你的播客生成节目笔记、时间戳、时事通讯等内容！快速为你的播客生成内容，并根据你的需求进行调整。|
@@ -3482,8 +3222,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3217|[Posit](https://posit.co/)|最好的数据科学工具是开源的。Posit致力于为个人、团队及企业打造卓越的开源工具。|
 |3218|[Post Parrot](https://postparrot.xyz/)|想要生成能激发Reddit用户参与度的帖子标题？请查看我们免费的数字营销工具，用于优化你的帖子标题，针对特定的子版块提高吸引力。|
 |3219|[Postaga](https://postaga.com/)|Postaga是一款免费的全方位工具，帮助你构建高质量链接并为网站引流。只需几分钟，你就能找到相关的外联机会，获取联系人和电子邮件地址，并建立及发送个性化的外联邮件活动。|
-|3220|[Poster Studio](https://www.posterstudio.ai/)|PosterStudio协助大型企业、中小型企业主的营销团队，即使没有设计技能也能创建社交媒体广告。你只需提供广告信息，剩下的由PosterStudio全权负责。
-|
+|3220|[Poster Studio](https://www.posterstudio.ai/)|PosterStudio协助大型企业、中小型企业主的营销团队，即使没有设计技能也能创建社交媒体广告。你只需提供广告信息，剩下的由PosterStudio全权负责。|
 |3221|[Postfluencer](https://www.postfluencer.app/)|利用流行的写作框架免费生成帖子，毫不费力地在LinkedIn上塑造你的品牌形象。|
 |3222|[Postme](https://www.postme.cn/#/PostMe/Index)|Postme 是一款超级强大的AI写作工具，可以帮助您快速生成高质量、原创的英文营销文案，助您征服全球市场。|
 |3223|[Postwise](https://postwise.ai)|全球最智能的Twitter与LinkedIn人工智能工具。借助AI，撰写内容、规划发布时间并扩大关注者群体。|
@@ -3506,14 +3245,11 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3240|[PrepSup](https://www.prepsup.com/)|PrepSup是一个AI助手，帮助学生增强信心并为考试做准备。我们使用人工智能极大地简化了闪卡的创建过程。免费注册。|
 |3241|[Prequel](https://prequel.app/)|一款易于使用的创意工具包、美学效果和滤镜的图片与视频编辑应用。|
 |3242|[PresentationAI](https://www.presentations.ai/)|利用AI在几秒钟内将想法转化为引人入胜的演示文稿。非常适合企业、教育工作者和个人项目。|
-|3243|[PresentationGPT](https://www.presentationgpt.com/)|PresentationGPT是一款高度先进的AI驱动演示文稿生成器，能在数秒内创建出令人惊艳的PowerPoint演示。
-|
+|3243|[PresentationGPT](https://www.presentationgpt.com/)|PresentationGPT是一款高度先进的AI驱动演示文稿生成器，能在数秒内创建出令人惊艳的PowerPoint演示。|
 |3244|[Presentations.AI](https://www.presentations.ai/)|利用AI在几秒钟内将想法转化为引人入胜的演示文稿。非常适合企业、教育工作者和个人项目。|
 |3245|[Press Hook](https://www.presshook.com/ai/press-release-generator/)|只需几次点击即可创建免费的新闻稿。Press Hook将通过我们的新闻稿生成工具向您展示如何免费撰写新闻稿。适用于新闻稿分发和获得媒体报导的公关软件。|
 |3246|[Presto](https://presto.com/)|Presto为餐饮业提供企业级的AI和自动化解决方案。Presto的解决方案旨在降低人工成本、提高员工生产力、增加收入以及提升顾客体验。|
-|3247|[PrettySmart](https://prettysmart.co/)|世界上最快的社交媒体内容创作者。
-
-我们运用人工智能来撰写文案，并使用您的品牌资产来设计内容。|
+|3247|[PrettySmart](https://prettysmart.co/)|世界上最快的社交媒体内容创作者。我们运用人工智能来撰写文案，并使用您的品牌资产来设计内容。|
 |3248|[Prezo](https://www.prezo.ai)|你的全方位演示画布，用于创建幻灯片、文档和网站，以AI为核心，配备美观的交互式模块。只需一键即可与全世界分享。|
 |3249|[Prisms AI](https://prisms.ai/)|无需编码的平台，用于构建AI驱动的应用程序。|
 |3250|[Private LLM](https://privatellm.app/)|借助在您的苹果设备上的私有LLM（大型语言模型）解锁AI的全部潜力。享受本地LLM功能，全面保护隐私，激发创意构思——所有这些都在离线状态下，在您的设备上完成。非常适合头脑风暴、学习和提高生产力，无需订阅费用，也无隐私担忧。|
@@ -3573,8 +3309,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3304|[Promptify Editor](https://promptify.pro/)|PromptifyPRO 利用AI分析您的输入并生成替代表述、措辞和新想法的建议。这使其成为定期写作人士的优秀工具，无论是为了工作、学校还是个人项目。|
 |3305|[Promptist](https://huggingface.co/spaces/microsoft/Promptist)|发现社区制作的精彩机器学习应用。|
 |3306|[Promptitude.io](https://promptitude.io/)|借助GPT的力量，让你的SaaS和移动应用脱颖而出。在一个地方测试、管理和改进您的提示，然后通过一次简单的API调用进行集成。|
-|3307|[PromptLayer](https://promptlayer.com/)|首个为提示工程构建的平台。
-可视化管理提示。评估模型。记录LLM请求。搜索使用历史。作为团队协作。|
+|3307|[PromptLayer](https://promptlayer.com/)|首个为提示工程构建的平台。可视化管理提示。评估模型。记录LLM请求。搜索使用历史。作为团队协作。|
 |3308|[PromptLeo](https://promptleo.com/)|团队版ChatGPT。通过用户友好的界面实时管理和轻松调整提示。|
 |3309|[PromptLoop](https://www.promptloop.com/)|PromptLoop 让您能够结合电子表格数据利用像ChatGPT和GPT4这样的AI技术来抓取网站、自动化研究、标记行业数据等。|
 |3310|[Promptly Generated](https://promptlygenerated.com/)|AI提示生成器帮助获得优化的AI响应。Promptly Generated采用AI驱动的提示工程师来生成和优化AI提示。|
@@ -3604,9 +3339,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3334|[Proust](https://proust.app/)|使用Proust获取您喜爱的YouTube视频的精准字幕。我们简单易用的转录工具让您能够快速而轻松地为任何YouTube视频制作字幕，并保存字幕以备后用。|
 |3335|[ProWritingAid](https://prowritingaid.com/)|您的个人写作教练。一款语法检查器、风格编辑器以及写作导师的综合包。优秀的写作不仅仅依赖于良好的语法。|
 |3336|[PSEUDO](https://pseudoai.vercel.app/)|将代码转化为人类可读的伪代码|
-|3337|[PseudoEditor](https://pseudoeditor.com/)|使用我们免费的在线编辑器来编写伪代码。具备语法高亮、自动完成等功能，编写伪代码从未如此简单！
-
-|
+|3337|[PseudoEditor](https://pseudoeditor.com/)|使用我们免费的在线编辑器来编写伪代码。具备语法高亮、自动完成等功能，编写伪代码从未如此简单！|
 |3338|[PTE APEUni](https://www.ptexj.com/)|在APEUni上免费使用AI评分学习PTE学术考试。Pearson PTE测试与IELTS教程的对比。练习PTE作文、阅读、听力和朗读，并获得真实的AI评分。|
 |3339|[Publer AI Assist](https://publer.io/features/ai-assist)|使用Publer节省时间、引导流量并专注于您的业务。探索使用我们的一站式工具，社交网络管理可以变得多么轻松。|
 |3340|[PublicPrompts](https://publicprompts.art/)|公共、免费、高质量的提示集合。|
@@ -3627,15 +3360,13 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3355|[Qakaa](https://qakaa.com/)|Qakaa是一个提示语市场，在这里你可以买卖适用于ChatGPT、Midjourney、Stable Diffusion、Openjourney、DALL-E的高质量提示，以及个性化的AI生成内容，如短篇故事和社交媒体帖子，满足您的特定需求。无论您是作家、企业主还是社交媒体影响者，Qakaa都有适合您的内容。今天就加入我们的社区，体验内容创作的未来。|
 |3356|[Qatalog](https://qatalog.com/)|Qatalog是一个AI驱动的平台，让您能够在整个组织中访问、控制和共享值得信赖的信息。使用自然语言向Qatalog提出复杂的问题，快速获得智能且富有洞见的回答。|
 |3357|[Qlik AutoML](https://www.qlik.com/us/products/qlik-automl)|无需编码的自动化机器学习，专为分析团队设计。快速生成模型，做出预测，并规划决策。|
-|3358|[Qlip.ai](https://www.qlip.ai)|qlip是一个AI驱动的视频剪辑生产力平台。我们帮助创作者节省时间，将长视频重新利用于TikTok、Insta Reels和YouTube Shorts。我们的AI自动化一切，所以您只需选择要发布的片段，更一致地增加内容，扩大您在社交媒体上的受众。
-|
+|3358|[Qlip.ai](https://www.qlip.ai)|qlip是一个AI驱动的视频剪辑生产力平台。我们帮助创作者节省时间，将长视频重新利用于TikTok、Insta Reels和YouTube Shorts。我们的AI自动化一切，所以您只需选择要发布的片段，更一致地增加内容，扩大您在社交媒体上的受众。|
 |3359|[QnA3](https://qna3.ai/)|nA3.AI是最大的AI驱动Web3知识引擎，是AI+DePIN领域强大的生态系统构建者和规则制定者。|
 |3360|[QoQo](https://qoqo.ai/)|一款人工智能工具，旨在让设计师保持好奇心、组织性和高效性。|
 |3361|[QR Code AI](https://qrcode-ai.com/)|快速免费创建具有艺术感的二维码，包含图像、标志、颜色和形状。选择链接至您网站、邮箱、WiFi、网址、电话、UPI、PIX或Rick Roll的模板，使用Canva、Adobe或Google工具。适用于Android和iOS系统。是QR Monkey、Tiger、Chimp、Unitag的最佳替代方案。|
 |3362|[QR Craft](https://www.qrcraft.xyz/)|QRCraft使您能够将普通的二维码转化为艺术品。选择您的风格，立即获取定制的艺术二维码。|
 |3363|[QRBTF AI](https://qrbtf.com/)|全球首款最佳的人工智能二维码生成器。|
-|3364|[QRCode1s](https://www.qrcode1s.com/)|借助AI的力量革新您的二维码。
-仅需几秒钟即可创造出令人惊艳的艺术二维码，告别乏味的传统二维码，尽在我们AI驱动的解决方案。|
+|3364|[QRCode1s](https://www.qrcode1s.com/)|借助AI的力量革新您的二维码。仅需几秒钟即可创造出令人惊艳的艺术二维码，告别乏味的传统二维码，尽在我们AI驱动的解决方案。|
 |3365|[QRfiddle](https://www.qrfiddle.com/)|利用AI通过输入提示或添加种子图像来自定义您的二维码。QRFiddle允许您随意调整提示和种子图像，从而为您提供一个个性化的且功能正常的二维码。|
 |3366|[Qriginals](https://www.qriginals.com/)|在Qriginals.com上以前所未有的方式体验二维码。我们的AI艺术生成器让您美化您的代码并分享您的创作。|
 |3367|[QRX Codes](https://qrx.codes/)|一款由AI驱动的艺术作品二维码生成器。|
@@ -3684,9 +3415,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3410|[Quuu](https://quuu.co/)|扩大你在Facebook、LinkedIn和X上的受众——我们的AI驱动平台会自动策划并安排每日分享的吸引人内容，完全符合你的品牌形象声音。|
 |3411|[Qwik](https://qwik.dev/)|无需水化处理，自动延迟加载，边缘优化，而且充满乐趣！|
 |3412|[r1 by rabbit](https://www.rabbit.tech/)|这是人机界面的未来|
-|3413|[Racr](https://apps.apple.com/us/app/racr-your-ai-mechanic/id6446100301)|Racr是一款革命性的应用程序，能够将你的智能手机转变为一个智能汽车诊断工具，帮助你更好地了解和维护你的车辆。
-
-|
+|3413|[Racr](https://apps.apple.com/us/app/racr-your-ai-mechanic/id6446100301)|Racr是一款革命性的应用程序，能够将你的智能手机转变为一个智能汽车诊断工具，帮助你更好地了解和维护你的车辆。|
 |3414|[Radaar](https://www.radaar.io/)|这是一个令人惊叹的社交媒体管理平台，专为希望与粉丝互动、发布独特内容并衡量表现的品牌、代理机构和初创公司设计。|
 |3415|[RadioNewsAI](https://radionewsai.com/)|RadioNewsAI为你的广播电台生成AI新闻主播，基于你当地的新闻、天气和交通资讯来源。|
 |3416|[Raizer](https://raizer.app)|对于初创公司的创始人和投资者来说，Raizer是最好的平台。初创公司创始人使用Raizer来筹集资金，而投资者则可以获取顶级的投资机会。由AI技术支持。|
@@ -3699,12 +3428,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3423|[RapidMiner](https://rapidminer.com/)|Altair RapidMiner为成熟的数据分析团队提供了现代化路径，也为刚起步的团队提供了自动化路径。借助端到端的数据分析平台和点解决方案，Altair使您能够为多样化的团队在正确的时间提供正确的工具。|
 |3424|[Rapidpages](https://www.rapidpages.io/)|拥有快速创建和发布网站所需的所有工具！|
 |3425|[Raplyrics](https://raplyrics.eu/)|使用AI生成的说唱音乐歌词，按照您喜爱的艺术家风格创作。|
-|3426|[RappingAI](https://rappingai.com/)|AI说唱生成器
-说唱对决模拟器
-与AI进行说唱对决
-练习说唱对决
-
-|
+|3426|[RappingAI](https://rappingai.com/)|AI说唱生成器说唱对决模拟器与AI进行说唱对决练习说唱对决|
 |3427|[Rare genie](https://raregenie.com/)|在几秒钟内自动为您的企业生成博客文章、网站内容、登陆页面和数字广告。释放最先进的人工智能写作助手，提升您的流量和生产力。|
 |3428|[Rasgo](https://www.rasgoml.com/)|通过自我服务分析的下一阶段进化，即生成式AI，帮助您更快地做出数据驱动的决策。|
 |3429|[Rask.ai](https://www.rask.ai/)|告别昂贵的翻译服务。我们的目标是提供一种与人类水平相当的配音和翻译体验，全部由AI完成。|
@@ -3713,9 +3437,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3432|[Rationale](https://rationale.jina.ai/)|看到问题的两面性，做出理智的决定。使用GPT4和情境学习来分析利弊、成本效益、SWOT、多选项及结果。Rationale帮助您做出全面的决策。|
 |3433|[RAVATAR](https://ravatar.com/)|RAVATAR AaaS（Avatar-as-a-Service）运用前沿的人工智能技术，生成高质量、实时互动的3D和视频AI虚拟形象，适用于网络、移动设备、即时通讯软件、AI信息亭和全息设备上的数字交互，提升您的业务潜力。创建定制的对话式AI虚拟形象，通过可扩展的AI解决方案增强用户参与度、提高运营效率并在多个行业中提升客户体验。无论您是要改进客户服务、赋予虚拟网红生命力，还是创造独特的数字伴侣，RAVATAR逼真的虚拟形象都能提供所需工具和技术。今天就拥抱未来数字交互，开始使用RAVATAR创作吧。|
 |3434|[Raw Shorts](https://www.rawshorts.com/)|使用我们的视频制作器从文本即时创建动画。利用AI技术在几秒钟内制作动画，为您节省数小时的视频创作时间。|
-|3435|[Rawquery](https://rawquery.com/)|使用自然语言与您的数据进行交互。
-
-|
+|3435|[Rawquery](https://rawquery.com/)|使用自然语言与您的数据进行交互。|
 |3436|[Raycast Al](https://www.raycast.com/ai)|一系列强大的生产力工具，全部集成在一个可扩展的启动器中。|
 |3437|[Rayscape](https://rayscape.ai/)|我们通过接入包含4200万张医疗影像的经验库，辅助放射科医生分析X光片和CT扫描图像。|
 |3438|[Rayst Gradients](https://gradients.ray.st/)|一组由人工智能生成的64个精美渐变色彩。|
@@ -3759,9 +3481,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3476|[Reetail](https://reetail.store)|认识Reetail——最简单的在线商店构建器，帮助你在不到5分钟内上线。无需复杂的设置，无需编程知识。|
 |3477|[Reface AI](https://reface.ai/)|Reface——在这里，只需一张自拍就能在视频和GIF中换脸，让照片动起来，并将照片变成卡通形象。|
 |3478|[Refact.ai](https://refact.ai/)|Refact是一款开源的人工智能代码助手，具有闪电般的代码补全速度，强大的代码改进工具，以及聊天功能。|
-|3479|[Refactory](https://userefactory.com/)|借助人工智能辅助，编写更优质的代码。
-
-|
+|3479|[Refactory](https://userefactory.com/)|借助人工智能辅助，编写更优质的代码。|
 |3480|[Reflect AI](https://reflect.app/)|这是一款设计精美、极简主义的笔记应用程序，旨在模仿你的思考方式。现在，它已经集成了原生的人工智能功能。|
 |3481|[Reflect.run](https://reflect.run/)|Reflect是一款自动化端到端的测试平台，使得测试创建和维护变得轻松简单。|
 |3482|[Reflectr](https://www.reflectr.ai/)|通过Reflectr转变你的日记体验，这是你的AI驱动的私人日记，旨在帮助你更有效地理解和驾驭自己的思绪。|
@@ -3782,9 +3502,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3497|[RembgAI](https://rembg.ai/)|Rembgai使你能够通过在几秒钟内恢复无背景预览图像，免费利用工业级的背景移除服务。|
 |3498|[Remini](https://remini.ai/)|Remini运用创新的尖端AI技术，将你的旧照片转化为高清杰作。|
 |3499|[RemixFast](https://www.remixfast.com/)|RemixFast - RemixRun代码库生成器！使用可视化编辑器以惊人的速度构建Remix应用。通过生成的代码库启动你的下一个项目，只编写真正重要的代码！|
-|3500|[Remo](https://remo.co/)|探索我们的虚拟活动管理平台，非常适合举办虚拟会议、网络研讨会、海报展示会和招聘会。通过专为吸引和连接参与者而设计的功能，体验真实的互动并加深参会者的参与度。今天就提升你的虚拟活动！
-
-|
+|3500|[Remo](https://remo.co/)|探索我们的虚拟活动管理平台，非常适合举办虚拟会议、网络研讨会、海报展示会和招聘会。通过专为吸引和连接参与者而设计的功能，体验真实的互动并加深参会者的参与度。今天就提升你的虚拟活动！|
 |3501|[Remodel AI](https://remodelai.co/)|借助Remodel AI，你可以尝试不同的风格、颜色和材料应用于房屋的内外部。使用AI改造你的房屋外观和内饰。|
 |3502|[Removal.AI](https://removal.ai/)|使用AI从你的图片中移除背景。我们的背景移除工具可以快速且免费处理你的图片——无需注册。现在上传一张图片吧！|
 |3503|[Remove Background AI](https://removebackgroundai.com/)|Remove Background AI让你能够自动去除视频和图片的背景。RemoveBackgroundAI.com利用机器学习/人工智能从内容中移除背景，并提供了API接口。|
@@ -3819,8 +3537,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3532|[Resleeve](https://resleeve.ai/)|使用Resleeve解锁人工智能在时装设计中的潜力。尝试最佳的AI时装设计生成器，为设计师赋能创新创作。|
 |3533|[Resoume](https://www.resoume.com/)|这款由AI驱动的简历构建工具提供精美的模板和ATS（申请追踪系统）评分，帮助你赢得面试机会。|
 |3534|[Respondable](https://www.boomeranggmail.com/respondable/)|Boomerang Respondable是一款利用人工智能实时协助你撰写更高效电子邮件的助手。|
-|3535|[RestoGPT](https://restogpt.ai/)|RestoGPT AI：本地餐厅营销和销售平台，将在线订单转化为忠实客户。在24小时内启动并生成订单。
-|
+|3535|[RestoGPT](https://restogpt.ai/)|RestoGPT AI：本地餐厅营销和销售平台，将在线订单转化为忠实客户。在24小时内启动并生成订单。|
 |3536|[RestorePhotos](https://www.restorephotos.io/)|恢复你的旧照片，让往昔的记忆永存。|
 |3537|[Resumatic](https://www.resumatic.ai/)|使用Resumatic，在几分钟内构建你的梦想简历，这是最快的ChatGPT驱动的简历构建工具。用专业定制、AI生成的简历给雇主留下深刻印象，突出你的独特技能和成就。|
 |3538|[Resume Revival](https://www.resumerevival.xyz/)|使用我们免费的在线简历生成器定制专属简历和求职信，通过我们AI驱动的技能差距分析提升职业前景，在任何专业领域中脱颖而出。使用Resume Revival提升你的求职体验，这是我们为各地专业人士首选的简历构建工具。|
@@ -3870,8 +3587,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3582|[RizzGPT](https://www.rizzgpt.app/)|与来自书籍、电影、游戏的角色对话，或者创造你自己的角色！|
 |3583|[Rizzle ](https://rizzle.com/)|在几分钟内从文本和播客创建视频，搭配高级库存素材。将体育、政治、旅行或其他任何文章和播客转化为极具吸引力的视频。|
 |3584|[Roam Around App](https://roamaround.app/)|使用AI，如ChatGPT轻松规划你的旅行计划。|
-|3585|[ROAS](https://www.messengerx.io/roas)|
-由AI驱动的数字营销专家|
+|3585|[ROAS](https://www.messengerx.io/roas)|由AI驱动的数字营销专家|
 |3586|[RoastMyResume](https://roastmyresu.me/)|让AI来点评你的简历|
 |3587|[Robin](https://www.hellorobin.ai/)|借助Robin AI，你可以轻松有效地接触潜在客户、进行研究并处理初步接触，而无需人类销售助理的参与。|
 |3588|[RobojinAI](https://www.robojin.com/)|适用于客户服务的ChatGPT。|
@@ -3939,9 +3655,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3650|[SaveDay](https://www.save.day/)|SaveDay是一款智能工具，用于捕捉、组织并利用你的知识。|
 |3651|[Savey Meal-Bot](https://saveymeal-bot.co.nz/)|PAK’nSAVE正通过Savey Meal-bot帮助顾客变得更加精明节约，这是一个易于使用的网络工具，采用最新的贴纸创新技术，能根据你家中现有的食材来创建食谱。|
 |3652|[SayHI](https://sayhi.pro/)|只需一键点击，即可撰写个性化、有洞察力且相关的LinkedIn介绍消息给任何用户。只需通过LinkedIn登录，访问其他用户的个人资料，然后点击一个按钮即可。|
-|3653|[Scade](https://www.scade.pro/)|快速创建AI功能和产品。
-
-|
+|3653|[Scade](https://www.scade.pro/)|快速创建AI功能和产品。|
 |3654|[Scalenut](https://www.scalenut.com/)|从识别关键词群集、创建内容概要到优化内容以获得更高的搜索排名，Scalenut帮助你管理整个内容生命周期。|
 |3655|[ScanBoy](https://deadpan.io/scanboy)|ScanBoy是一款超快速的文档扫描工具。使用可选择的文本创建高质量的PDF，并利用人工智能快速生成文件名，以便你能继续你的日常事务。如果你想自己命名文档并完全避免使用AI，你也可以做到。|
 |3656|[ScannerGo](https://scannergo.net/)|Scanner Go是一款免费的PDF扫描应用程序。我们让转换和编辑所有PDF文件变得简单。现在，扫描、转换、编辑和分享文档都无需烦恼。|
@@ -3973,15 +3687,13 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3682|[SDXL Turbo](https://sdxlturbo.ai/)|发现SDXL Turbo，这是一种先进的实时文本到图像生成模型，由创新的对抗稳定扩散蒸馏技术驱动，提供无与伦比的性能和图像质量。|
 |3683|[Seaart.ai](https://www.seaart.ai)|使用SeaArt AI艺术生成器免费创建令人惊叹的AI艺术。访问30多万种模型和风格，利用快速的AI工具激发创造力，并与社区互动。|
 |3684|[Seamless Studio](https://www.seamless-studio.com/)|世界上首个高端AI原型生成器。使用AI创建您自己的高质量原创原型。|
-|3685|[SeamlessGPT](https://gumroad.com/l/seamlessGPT)|该应用仅将提示数据发送给OpenAI模块，确保用户完全的隐私和安全。此工具将ChatGPT的强大功能无缝集成到您的Windows应用程序中，使您能够在任何上下文中快速轻松地生成文本。无需在使用ChatGPT时切换标签页和打开OpenAI网站。
-适用于任何应用程序，这款应用极其易于使用。|
+|3685|[SeamlessGPT](https://gumroad.com/l/seamlessGPT)|该应用仅将提示数据发送给OpenAI模块，确保用户完全的隐私和安全。此工具将ChatGPT的强大功能无缝集成到您的Windows应用程序中，使您能够在任何上下文中快速轻松地生成文本。无需在使用ChatGPT时切换标签页和打开OpenAI网站。适用于任何应用程序，这款应用极其易于使用。|
 |3686|[Seance AI](https://www.seanceai.com/)|Seance AI利用GPT-4将人们与其已故亲人的灵魂连接起来。体验与逝者更加个性化和有意义的对话。|
 |3687|[Searchable.ai](https://www.searchable.ai/)|一个统一的数据平台，用于连接领先的SaaS平台，解析和规范化文件及应用数据，并为联邦搜索和AI应用提供动力。|
 |3688|[Searchie](https://searchie.io/copilot)|通过更少的资源完成更多的工作，最大化生产力，获得专注于真正重要的事情的自由。这是您的AI驱动的内容助手。|
 |3689|[Searcholic](https://searcholic.com/)|通过AI驱动的搜索发现数百万本电子书和文档。|
 |3690|[SearchPlus](https://searchplus.ai/)|跨PDF文档聊天。Search+是一款AI PDF阅读器，允许您与PDF文档进行对话。|
-|3691|[SEC Insights](https://www.secinsights.ai/)|通过SEC洞察强化您组织的商业智能。毫不费力地分析复杂的财务文件，如10-K和10-Q报告。
-|
+|3691|[SEC Insights](https://www.secinsights.ai/)|通过SEC洞察强化您组织的商业智能。毫不费力地分析复杂的财务文件，如10-K和10-Q报告。|
 |3692|[Second.dev](https://www.second.dev/)|AI原生的企业代码库维护，包括自动化迁移和工程团队所需的代码库智能，帮助他们高效完成任务。|
 |3693|[Secureframe](https://secureframe.com/)|遵守法规，降低风险，借助世界级专家支持的自动化建立客户信任。|
 |3694|[Securiti](https://securiti.ai/products/access-intelligence/)|深入了解访问敏感数据的人员，以及与该数据关联的地理位置、特定系统或法规。自动设置策略，根据数据类型、敏感性、系统、位置或法规来控制数据访问。|
@@ -3989,8 +3701,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3696|[Seenapse](https://seenapse.ai)|Seenapse是人类横向思维与AI速度的独特结合，让你能在几分钟内生成数百个不同的、创造性的可能性。|
 |3697|[Segment Anything](https://segment-anything.com/)|SAM是来自Meta AI的一个AI模型，它能够实现“一键抠图”，从任何图像中精准地分离出任意对象。SAM是一个可提示的分割系统，具有零样本学习的能力，可以泛化到从未见过的对象和图像上，而无需额外的训练过程。|
 |3698|[Segmentle](https://segmentle.com/)|一款受Wordle启发的每日数学游戏，可以无限制地游玩。|
-|3699|[Selfgazer](https://www.selfgazer.com/)|Selfgazer | 提供心理塔罗牌解读和自我探索服务。
-|
+|3699|[Selfgazer](https://www.selfgazer.com/)|Selfgazer | 提供心理塔罗牌解读和自我探索服务。|
 |3700|[SellerAi](https://sellerai.in/)|成本效益高的解决方案，可在几秒钟内生成详尽的产品内容，提升转化率。|
 |3701|[SellMate](https://www.sellmate.ai/)|发现SellMate：专为在线卖家设计的终极AI驱动跨平台列表平台。SellMate革新了电子商务领域，简化了在亚马逊、eBay等多平台销售的过程。只需一拍，我们的AI技术就能增强你的商品列表，优化产品可见度，并提供有价值的分析，以提升你的销售策略。我们由学术创新和电商专家组成的团队，致力于为卖家提供让在线销售变得轻松、高效和有效的解决方案。|
 |3702|[SellScale](https://www.sellscale.com/)|使用AI个性化你的外发信息。|
@@ -4064,8 +3775,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3770|[Simplified](https://simplified.com)|Simplified是一款节省时间、集大成的应用，适合现代营销团队协作使用。数百万张免费图片、视频和音频剪辑。数千个设计师模板。30多种语言的长篇和短篇内容写作。内容日历来安排和发布社交媒体帖子。|
 |3771|[Simplify](https://www.simplifyextension.com/)|使用Simplify解锁轻松阅读体验，我们的文本简化器。这款浏览器扩展程序即时解码复杂文本，提供简洁摘要和直白解释。|
 |3772|[Simulai](https://www.simulai.co/)|查找并邮件联系使用特定技术构建的网站。|
-|3773|[SinCode AI](https://www.sincode.ai)|
-这是您的全方位AI助手，适用于与ChatGPT、Gemini、Claude等结合的高级生成式AI。它能帮助您将生产力提升10倍，并节省大量工作时间。让Marve为您撰写独特、吸引人且高质量的文章或内容：从长篇博客文章、登录页面到数字广告，仅需几秒钟即可完成。|
+|3773|[SinCode AI](https://www.sincode.ai)|这是您的全方位AI助手，适用于与ChatGPT、Gemini、Claude等结合的高级生成式AI。它能帮助您将生产力提升10倍，并节省大量工作时间。让Marve为您撰写独特、吸引人且高质量的文章或内容：从长篇博客文章、登录页面到数字广告，仅需几秒钟即可完成。|
 |3774|[Sinkin.ai](https://sinkin.ai/m/4zdwGOB)|利用我们的Stable Diffusion AI模型DreamShaper，实现快速、高质量的图像生成。现有免费额度。立即与我们的API集成。|
 |3775|[Sirius](https://ronnysmerino.gumroad.com/l/sirius)|Sirius集成了OpenAI的突破性人工智能模型GPT-4，将您的日常Siri转变为AI超级力量，以前所未有的方式导航和从互联网提取信息。什么是Sirius？借助Sirius，Siri进入了智能新领域，按您的命令执行网页抓取任务，既高效又安全。想象一下，需要最新研究、热门话题摘要或是为下次网购比较产品；只需询问Siri，凭借Sirius的力量，答案就在您的指尖。|
 |3776|[SiteGPT](https://sitegpt.ai/)|就像为您的SaaS产品专门配备的ChatGPT。通过一个基于您网站内容训练的个性化聊天机器人，即时回答访客的问题。|
@@ -4113,11 +3823,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3818|[SmartPrep](https://smartprep.ai/)|立即获取课程计划所需的一切：免费模板、项目制学习（PBL）、理解为先模式（UbD）、教学资源、评估、评分标准等等，专为教师设计！|
 |3819|[SmartPress](https://www.smartpress.ai/)|以太坊应用AI。|
 |3820|[SmartScout](https://www.smartscout.com/ai-listing-architect)|使用AI Listing Architect创建顾客和亚马逊算法都喜欢的列表从未如此简单。这个工具让你能在几分钟内创建优化过的商品列表。|
-|3821|[SmartWriteAI](https://smartwriteai.com)|AI平台适用于生成内容和聊天机器人。
-
-通过SmartWriteAI提升你的内容质量，优化SEO并吸引你的受众。
-
-|
+|3821|[SmartWriteAI](https://smartwriteai.com)|AI平台适用于生成内容和聊天机器人。通过SmartWriteAI提升你的内容质量，优化SEO并吸引你的受众。|
 |3822|[Smartwriter](https://www.smartwriter.ai/)|利用AI创建高度个性化的冷邮件或LinkedIn消息，将读者转化为客户。无需经验。找到潜在客户，创作定制化个性化文案，促成销售。AI冷邮件。|
 |3823|[SmartyNames](https://smartynames.com/)|最佳的AI驱动的商业名称生成器。描述你的初创公司或项目，我们即时为你找到商业名称，以及可注册的.com域名和其他替代顶级域名。|
 |3824|[Smexy AI](https://www.smexy.ai/)|Smexy AI是最简单、最快捷且最佳的平台，用于生成和分享你的幻想。只需几分钟，即可创作、调整并享受你的艺术作品。|
@@ -4155,9 +3861,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3856|[Socratic](https://socraticworks.com/)|Socratic是首个由人工智能驱动的项目管理和规划平台。我们的数据帮助团队更轻松、更快捷、更高效地工作。|
 |3857|[Sohar Health](https://www.soharhealth.com/)|Sohar Health是一个对工程师友好的、基于API的解决方案，为行为健康公司执行自动化的、精确的患者资格验证和保险发现。|
 |3858|[Solab.AI](https://www.solab.ai/)|Socratic Lab是你的人工智能驱动的知识学习和分享社区。询问你好奇的任何事情，与志同道合的人联系，并参与深入的讨论。|
-|3859|[SolidGrids](https://solidgrids.com)|只需一次配置，即可永久自动化你的图片处理，无需人工干预——无需审查。照片准备好即可发布。调整背景、光线、横幅等，以符合你的公司品牌要求。
-
-|
+|3859|[SolidGrids](https://solidgrids.com)|只需一次配置，即可永久自动化你的图片处理，无需人工干预——无需审查。照片准备好即可发布。调整背景、光线、横幅等，以符合你的公司品牌要求。|
 |3860|[SolidPoint](https://solidpoint.ai/)|SolidPoint帮助你通过迅速将长视频浓缩成精炼的信息概要来节省时间。只需一键，你就可以提炼出核心观点，专注于最重要的信息点。|
 |3861|[Solidroad](https://www.solidroad.com/)|Solidroad是一款专为呼叫中心设计的AI驱动培训平台。通过逼真的AI模拟和有效的反馈，赋能客服代表达到最佳表现。|
 |3862|[Solo](https://soloist.ai/)|Solo利用AI即时为你的企业创建一个精美网站。|
@@ -4200,9 +3904,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3899|[Speech To Note](https://speechtonote.com/)|使用GPT-4o将你说的话转化为摘要！|
 |3900|[SpeechEasy](https://www.speecheasyapp.com)|高质量的声音，便于聆听。通过AI和机器学习的力量，我们创建了一个简单易用的解决方案，将文本转化为音频。SpeechEasy™让你生成录音室级别的合成声音，无论在路上、在家还是在办公室，都能让聆听变得容易理解且易于消费。|
 |3901|[Speechelo](https://speechelo.com/)|通过Speechelo体验未来的沟通方式 - 我们先进的文本转语音软件。瞬间将任何文本转化为声音，提供清晰、类人般的音频。Speechelo适用于各种应用场景，让您的文本栩栩如生！|
-|3902|[SpeechFlow](https://speechflow.io/)|SpeechFlow语音识别API是一个强大的工具，可以高精度地将声音、语音和音频转化为文本，支持14种语言。
-
-|
+|3902|[SpeechFlow](https://speechflow.io/)|SpeechFlow语音识别API是一个强大的工具，可以高精度地将声音、语音和音频转化为文本，支持14种语言。|
 |3903|[SpeechGen](https://speechgen.io/)|在线生成真实的旁白！插入文本以生成语音，并下载音频mp3/wav文件。使用AI驱动的声音朗读文本。|
 |3904|[Speechify](https://speechify.com/zh-hans/)|用最先进的文本转语音技术轻松阅读任何文档、文章、书籍、PDF、电子邮件。|
 |3905|[Speechllect](https://speechllect.com/)|Speech Intellect是首个利用全新的AI中心数学理论——“感知理论”实现实时工作的STT/TTS（语音到文本/文本到语音）解决方案。它会考虑到客户发音时每个词的意义。|
@@ -4214,8 +3916,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3911|[Spell](https://spell.so/)|通过插件将任务委托给自主的AI代理。利用由GPT4驱动的革命性和直观的AI工具，转变你的日常工作。|
 |3912|[Spellar AI](https://spellar.ai/)|Spellar AI，一款由AI驱动的macOS会议助手，通过实时互动建议、会议总结、关键点和任务追踪，增强沟通效果。特别适合远程工作中非英语母语的使用者。Spellar自动记录会议并自动生成会议笔记。|
 |3913|[Spellbound](https://spellbound.cc/)|你的写作副驾。|
-|3914|[SpellCopy](https://apps.apple.com/us/app/ai-writer/id1662248382)|
-认识TextSpell AI，一款由AI驱动的应用程序，使你能够轻松生成所有营销材料所需的吸引人文本。|
+|3914|[SpellCopy](https://apps.apple.com/us/app/ai-writer/id1662248382)|认识TextSpell AI，一款由AI驱动的应用程序，使你能够轻松生成所有营销材料所需的吸引人文本。|
 |3915|[Spellpage](https://www.spellpage.com/)|一个能自我完成的待办事项清单。在AI的帮助下毫不费力地完成任务，无论是将任务分解成可管理的部分，自己完成任务，还是为你提供动力去完成它。|
 |3916|[Spheroid](https://avatars.spheroid.io/)|用人工智能在增强现实中创建你的虚拟形象。将其放置在世界上的任何地方！|
 |3917|[SpicyChat](https://spicychat.ai/)|解锁无限AI聊天机器人的世界 - 免费且毫不费力：SpicyChat带你进入一个广阔的宇宙，在这里你不仅是用户，还是创造者和探索者。无需花费一分钱，通过一个与你的想象力一样容易导航的界面开始冒险。|
@@ -4255,8 +3956,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3951|[Stablematic](https://stablematic.com/)|一键轻松实例化，在Web上使用最新的GPU运行Stable Diffusion，实现零配置的最快性能。使用任何插件，今天就开始创建生成式AI内容。|
 |3952|[Staccato](https://staccato.ai/)|借助AI乐器释放你的创造力 • 将文字转换成音乐 • 扩展并完成歌曲 • 创作任何风格的歌词 • 探索如何与STACCȦTỌ AI作曲家保持持续的创意流动状态。使用我们的AI MIDI生成器来创作、扩展、继续和完成你的MIDI音乐。用我们的AI歌词生成器编写说唱、流行或任何风格的音乐。|
 |3953|[Stack AI](https://www.stack-ai.com/)|将AI整合到你的组织中。Stack AI通过将AI与你的数据源集成，从而提升生产力。|
-|3954|[Staf](https://www.staf.ai/)|
-向你的新AI员工们问好。浏览经过验证的AI代理、工具和协作助手。|
+|3954|[Staf](https://www.staf.ai/)|向你的新AI员工们问好。浏览经过验证的AI代理、工具和协作助手。|
 |3955|[Staircase](https://staircase.ai/)|利用人工营收智能来预测客户流失，大规模识别隐藏的增长机会，并消除对人类反馈的任何需求。|
 |3956|[StarByFace](https://starbyface.com/)|我长得像哪个名人？试一试就知道！名人长相相似度面部识别系统。找到你的另一个自己。|
 |3957|[StarChat](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground)|探索社区制作的精彩机器学习应用。|
@@ -4295,9 +3995,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |3990|[StoryFile](https://storyfile.com/)|StoryFile彻底改变了我们通过对话交流的方式。我们让AI感觉更人性化。Conversa驱动会话式视频AI。受专利保护的平台提供了收集视频、创建和训练AI交互以及在网页上任意位置发布的能力。|
 |3991|[StoryNest.ai](https://www.storynest.ai/)|体验StoryNest.ai带来的写作与学习新阶段！我们的AI驱动平台革新了你创作内容的方式，无论是引人入胜的故事、深刻的文章还是全面的教育资料。探索互动学习功能，如“与角色聊天”和“小说”。加入StoryNest.ai，这里是创意、教育和技术的交汇点。|
 |3992|[StoryPanda](https://storypanda.ai/)|用StoryPanda.ai创造你自己的故事。撰写并在线发布你自己的故事。使用StoryPanda.ai创建你自己的故事书。|
-|3993|[StoryPear](https://storypear.com/)|为儿童设计的互动式AI音频故事生成器。
-
-|
+|3993|[StoryPear](https://storypear.com/)|为儿童设计的互动式AI音频故事生成器。|
 |3994|[StoryScape AI](https://storyscapeai.app/)|释放你的创造力，使用由Chat GPT和DALL·E驱动的创新叙事应用StoryScape AI。|
 |3995|[StorySeed](https://koodup.com/journey/storyseed/)|一个自我驱动、AI辅助的沉浸式故事讲述学习体验。面向学龄前儿童、青少年及终身学习者。|
 |3996|[StoryTagger](https://www.storytagger.com/)|利用StoryTagger将真实故事和工作经历转化为有力且切题的员工原创内容，这是一个引导式的视频叙事平台。|
@@ -4322,9 +4020,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |4015|[Styldod](https://www.styldod.com/)|以无与伦比的价格提供房地产虚拟布置，照片编辑，平面图和3D渲染服务。深受10000多名房产中介和摄影师信赖。|
 |4016|[StyleAI](https://usestyle.ai/)|AI驱动的网页构建，SEO优化，以及Google广告，一切由你的个人助手Crafta，Seona和Adwin掌管。|
 |4017|[StyleMyRide.AI](https://stylemyride.ai/)|利用AI的力量改造你的汽车风格。只需上传你的爱车照片，剩下的就交给StyleMyRide处理。|
-|4018|[Stylized](https://stylized.ai/)|在15秒内获取专业级的产品照片。
-
-|
+|4018|[Stylized](https://stylized.ai/)|在15秒内获取专业级的产品照片。|
 |4019|[Submagic](https://submagic.co/)|Submagic是一款专为内容创作者设计的人工智能，能在两分钟内为短篇内容生成精彩且带有表情符号的标题，助你快速提升视频互动率。|
 |4020|[Subtxt](https://subtxt.app/)|Subtxt是唯一一款能够配合而非抵触作家直觉的智能大纲工具。|
 |4021|[Sudowrite](https://www.sudowrite.com/)|使用最佳的AI小说写作工具更快地完成你的小说或剧本创作。现在就开始免费试用，体验为什么《纽约客》称其为作家们的“救星”，以及为何《纽约时报》、The Verge等众多媒体对Sudowrite赞誉有加。|
@@ -4339,8 +4035,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |4030|[Summarizethis](https://summarizethis.io/)|体验AI将文本、PDF、网站和视频转化为简洁精准摘要的强大能力，使信息搜集变得迅速且毫不费力。|
 |4031|[Summary Box](https://summarybox.com/)|Summary Box是一款免费的在线文本摘要工具，它允许你通过人工智能轻松地将网络上的任何文章一键缩短为精简摘要。|
 |4032|[Summary Cat](https://www.summarycat.com/)|一款YouTube摘要生成器。|
-|4033|[Summate.it](https://summate.it/)|
-按需网络文章摘要服务|
+|4033|[Summate.it](https://summate.it/)|按需网络文章摘要服务|
 |4034|[SummaVerse](https://summaverse.com/)|SummaVerse运用AI摘要技术简化文档分析过程。我们的智能聊天机器人支持协作问答，帮助获得更深入的见解。|
 |4035|[Summer AI](https://apps.apple.com/us/app/summer-ai/id6447546296)|透过Summer AI的人工智能导游视角探索世界。深入了解地标、事件和自然奇观背后的故事|
 |4036|[SummerEyes](https://summereyes.ai/)|一键概括互联网上任意文本|
@@ -4385,8 +4080,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |4075|[Swyft AI](https://www.swyftai.com/)|使用AI自动化您的CRM数据和流程。|
 |4076|[Sybill](https://www.sybill.ai/)|通过Sybill——这个AI助手，充分挖掘您的销售团队潜力，它能自动化更新CRM，撰写跟进邮件，并从客户互动中提供无与伦比的洞察。|
 |4077|[Syetemo.io](https://systeme.io/home)|Systeme.io拥有您发展在线业务所需的所有工具。|
-|4078|[Syllaby](https://syllaby.io/)|您的内部AI视频营销机构。
-发现热门内容创意，撰写病毒式视频脚本，创建、编辑并发布视频至社交媒体。五合一的AI工具！|
+|4078|[Syllaby](https://syllaby.io/)|您的内部AI视频营销机构。发现热门内容创意，撰写病毒式视频脚本，创建、编辑并发布视频至社交媒体。五合一的AI工具！|
 |4079|[Symanto Text Insights](https://www.symanto.com/get-in-touch/)|今天就联系我们，获取真实的消费者洞察，为您的营销策略注入活力。|
 |4080|[Symbl.ai](https://symbl.ai/)|使用我们端到端的实时AI平台，从非结构化的实时通话中生成可执行的洞察。|
 |4081|[SymptomChecker](https://symptomchecker.io/)|让AI评估您的症状，帮助您理解健康疑虑。用您自己的话描述症状。|
@@ -4419,9 +4113,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |4108|[Tailor Brands](https://www.tailorbrands.com/logo-maker)|使用Tailor Brands的AI标志制作器来设计一个标志。我们的所有标志设计都是独一无二的，没有预制的模板！|
 |4109|[Tailwind](https://www.tailwindapp.com/ghostwriter)|通过Tailwind Ghostwriter解放你的注意力和创造力，这是一款专为帮你克服内容写作难题而设计的AI写作助手。|
 |4110|[TakeNote](https://takenote.ai/)|快速；准确；安全；语音转文字和情感分析。|
-|4111|[Takomo.ai](https://www.takomo.ai/)|拖放并连接预训练的机器学习模型。
-
-在几分钟内为你的管道生成一个API。|
+|4111|[Takomo.ai](https://www.takomo.ai/)|拖放并连接预训练的机器学习模型。在几分钟内为你的管道生成一个API。|
 |4112|[Taleblocks](https://www.taleblocks.com/)|从脚本到发布，自动化你的无脸视频制作。只需输入你的主题，观看你的账号成长。|
 |4113|[Talgg](https://talgg.com/)|一个友好的新语言练习环境。就像滚动浏览TikTok一样有趣地学习一门新语言，与24/7全天候基于上下文回应的AI母语者对话。|
 |4114|[Talkback AI](https://www.talkbackai.com/)|TalkbackAi-Review Response帮助你快速且轻松地回复客户评价。非常适合高效管理反馈并提升在线互动。|
@@ -4433,8 +4125,7 @@ Picture it为你提供了创建和迭代AI艺术的工具，它是让你的创�
 |4120|[Talkpal AI](https://talkpal.ai/)|讨论任何话题，并从世界上最先进的AI语言模型中获得即时反馈，该模型由ChatGPT技术支持。|
 |4121|[TalkToBooks](https://books.google.com/talktobooks)|Talk to Books是一种探索思想和发现书籍的新方式。选择其中一个样例，查看其存档的搜索结果。|
 |4122|[TalkToVid](https://www.talkto.video/)|输入视频的URL以获取其文字稿，并开始与视频中的人进行对话。|
-|4123|[Talpa](https://www.talpa.ai/)|
-Talpa是一个神奇的、由AI驱动的图书馆搜索工具，依托真实权威的数据。|
+|4123|[Talpa](https://www.talpa.ai/)|Talpa是一个神奇的、由AI驱动的图书馆搜索工具，依托真实权威的数据。|
 |4124|[Tammy AI](https://tammy.ai/)|通过AI驱动的基本/专业摘要和“与视频聊天”功能为YouTube赋能。💡不再需要乏味的手动记笔记，“保存至你的图书馆”功能！⌛还包含了生产力时间戳|
 |4125|[Tandem GPT](https://www.tandem-gpt.com/)|使用前沿AI技术练习语言。|
 |4126|[Taplio](https://taplio.com/)|加入6000多位LinkedIn专业人士，使用这款全方位、AI驱动的LinkedIn工具。内容创作、排程、互动、数据分析等。|
@@ -4470,9 +4161,7 @@ Talpa是一个神奇的、由AI驱动的图书馆搜索工具，依托真实权�
 |4156|[TENSOR CHURCH](https://tensor.church/)|与AI聊天，询问有关宗教、信仰或哲学的问题。由ChatGPT技术支持。|
 |4157|[Tensor.Art](https://tensor.art/)|一个AI模型分享平台，允许在线运行模型来生成图像并免费训练模型。你可以上传和下载模型，包括Checkpoint、Embedding、ControlNet、LoRA、Pony、LoCon、LyCORIS等。同时，我们还提供了一些基础模型，如Stable Diffusion 1.5、SDXL和Hunyuan-DiT用于生成。|
 |4158|[Tensor.video](https://tensor.video/)||
-|4159|[TensorFlow](https://www.tensorflow.org/?hl=zh-cn)|TensorFlow是一个端到端的开源机器学习平台。它具有全面且灵活的生态系统，包括各种工具、库和社区资源，使研究人员能够推动机器学习领域的前沿发展，并让开发者轻松构建和部署基于机器学习的应用程序。
-
-TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证向后兼容的API。这意味着你可以利用这些稳定接口进行开发，而不用担心频繁的接口变更影响你的项目。|
+|4159|[TensorFlow](https://www.tensorflow.org/?hl=zh-cn)|TensorFlow是一个端到端的开源机器学习平台。它具有全面且灵活的生态系统，包括各种工具、库和社区资源，使研究人员能够推动机器学习领域的前沿发展，并让开发者轻松构建和部署基于机器学习的应用程序。TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证向后兼容的API。这意味着你可以利用这些稳定接口进行开发，而不用担心频繁的接口变更影响你的项目。|
 |4160|[TensorPix](https://aimages.ai/)|使用AI在线放大和增强视频和图像。为每个视频或图像获得专业级质量。|
 |4161|[Teragonia](https://teragonia.com/)|Teragonia专门为私募股权（PE）投资组合的价值创造提供端到端的数据分析工程和AI解决方案。|
 |4162|[Terrasketcher](https://www.terrasketcher.com/)|将手绘草图转换为基础设施和云架构图。|
@@ -4481,16 +4170,13 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4165|[Tether](https://www.tethered.dev/gpt-4-powered-changelog)|借助GPT-4驱动的AI轻松创建变更日志。与GitHub、Jira和Linear集成，让AI进行总结。进行编辑并通过一键式操作进行分享。|
 |4166|[Huckabuy](https://texo.huckabuy.com/)|Huckabuy是一个技术SEO平台。我们的软件改善你的搜索引擎排名，带来更多有机流量，并使你的网站加载速度更快。|
 |4167|[Text Generator](https://text-generator.io/)|以行业领先的隐私保护、质量和成本生成文本。现在可以实现逼真的文本生成。|
-|4168|[Text Generator Plugin](https://text-gen.com/)|通过AI增强你的Obsidian使用体验。
-利用AI驱动的模板和智能内容生成，实现轻松记笔记和简化的内容创作。|
+|4168|[Text Generator Plugin](https://text-gen.com/)|通过AI增强你的Obsidian使用体验。利用AI驱动的模板和智能内容生成，实现轻松记笔记和简化的内容创作。|
 |4169|[Text to Pokemon](https://replicate.com/lambdal/text-to-pokemon)|从文本描述生成宝可梦（Pokémon）。|
 |4170|[Text.Theater](https://text.theater/)|Text.Theater是一款AI驱动的Discord机器人，它根据用户提示模拟来自200多部电视剧的场景。|
 |4171|[Text2SQL.AI](https://www.text2sql.ai/)|最佳的AI驱动SQL查询构建器：使用API访问，通过AI将简单的英语翻译成SQL。快速从提示构建复杂的SQL查询、Excel公式和正则表达式！|
 |4172|[Texta](https://texta.ai/paraphraser)|使用我们的AI释义器获得准确的改写结果。在几秒钟内使用人工智能技术重述您的内容。不再浪费时间于手动写作，让AI作家机器人为您完成工作！|
 |4173|[Textbuilder](https://textbuilder.ai/)|一个全自动的AI批量内容生成器，您只需点击一下即可生成数百篇文章。这个AI批量内容生成器旨在创建一个持续产生收入的博客帝国！|
-|4174|[TextCortex](https://textcortex.com/)|TextCortex结合了先进的自然语言生成算法和经过验证的营销实践，创造出最佳的AI软件用于文案撰写。
-
-我们训练有素的AI算法，基于数十亿行文本，帮助营销人员、电子商务创业者和文案作者每天都能从他们的内容中获得更多。|
+|4174|[TextCortex](https://textcortex.com/)|TextCortex结合了先进的自然语言生成算法和经过验证的营销实践，创造出最佳的AI软件用于文案撰写。我们训练有素的AI算法，基于数十亿行文本，帮助营销人员、电子商务创业者和文案作者每天都能从他们的内容中获得更多。|
 |4175|[Textero.ai](https://www.textero.ai/)|您完美写作的终极副驾。我们的人工智能驱动平台提供智能写作辅助、语法校正和风格精炼，以获得完美的结果。|
 |4176|[TextFX](https://textfx.withgoogle.com/)|为说唱歌手、作家和文字大师提供的AI工具。|
 |4177|[TextGPT](https://textgpt.net/)|使用TextGPT，您可以通过短信轻松访问OpenAI的ChatGPT和DALL·E 2，对任何问题得到快速而准确的回答，并且仅用简单的一段文字就能生成逼真的图像。|
@@ -4540,17 +4226,12 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4221|[TicketGenius](https://marketplace.atlassian.com/apps/1230267)|使用TicketGenius简化你的工作流程：这款AI驱动的Jira工单生成器。|
 |4222|[Tidb](https://tidbcloud.com/)|通过TiDB Serverless更快、更经济地构建MySQL应用。享受慷慨的免费层级、自动扩展、AI辅助的SQL、内置监控和无缝集成。今天免费开始——无需信用卡！|
 |4223|[Tidio](https://www.tidio.com/)|借助Tidio颠覆性的AI驱动客户服务解决方案，转换更多潜在客户，提供卓越的支持，增加你的收入。|
-|4224|[TigerBot](https://tigerbot.com/login?redirect=/)|TigerBot是一个多语言多任务的大规模语言模型（LLM）。TigerBot致力于开源，目前已经开源的成果包括模型（TigerBot-7B,TigerBot-7B-base,TigerBot-180B）、基本训练和推理代码、数据、API、领域数据等。另外TigerBot还致力于不同类型的插件研发，目前已经推出的代表性的插件有“TigetBot Search”。随着不断的研发，TigerBot还会为人们带来更多的便利与科技体验。
-|
+|4224|[TigerBot](https://tigerbot.com/login?redirect=/)|TigerBot是一个多语言多任务的大规模语言模型（LLM）。TigerBot致力于开源，目前已经开源的成果包括模型（TigerBot-7B,TigerBot-7B-base,TigerBot-180B）、基本训练和推理代码、数据、API、领域数据等。另外TigerBot还致力于不同类型的插件研发，目前已经推出的代表性的插件有“TigetBot Search”。随着不断的研发，TigerBot还会为人们带来更多的便利与科技体验。|
 |4225|[Tiipe](https://tiipe.ai/)|为电子商务目录和营销活动撰写内容令人头疼。利用AI在几秒钟内准备好有创意的文案。|
 |4226|[Tiktak (co-pilot) studio](https://tiktak-studio.framer.website/)|采用最新人工智能技术创建的高质量专业AI头像照片。最佳选择获取房地产经纪人专业头像，为公司提供专业的头像拍摄服务。适用于房地产中介。|
 |4227|[Tilda](https://tilda.cc/)|使用Tilda直观的网站构建器创建网站、在线商店、着陆页。从数百个预设计模板构建你的站点并今日发布。无需编写代码。|
 |4228|[Tiledesk](https://tiledesk.com/)|Tiledesk使企业能够在多个渠道上建立AI客服，提供自动化客户服务并增强客户互动。立即免费开始。|
-|4229|[TileMaker](https://tilemaker.app/)|这是一个开源项目，提供了一个用于创建可平铺图像的界面。
-
-它通过使用由Tal Stramer创建的材质稳定扩散模型工作。该模型托管在Replicate上，后者提供了一个云API来运行预测。
-
-|
+|4229|[TileMaker](https://tilemaker.app/)|这是一个开源项目，提供了一个用于创建可平铺图像的界面。它通过使用由Tal Stramer创建的材质稳定扩散模型工作。该模型托管在Replicate上，后者提供了一个云API来运行预测。|
 |4230|[TimeComplexity](https://www.timecomplexity.ai/)|使用AI分析你的代码运行复杂度。以大O表示法返回答案，适用于所有编程语言（Python、C++、C、Java、JavaScript、Go、伪代码等），并且即使对于部分或不完整的代码也有效。|
 |4231|[Timely](https://timelyapp.com/)|Timely的AI驱动时间追踪软件帮助团队准确追踪时间，以便轻松报告客户、项目和工作小时数。|
 |4232|[TimeMaster](https://www.timemaster.ai/)|体验一种更智能的时间管理方式，具有以隐私为先的追踪功能和洞察力分析，赋予你每天取得更多成就的能力。|
@@ -4577,9 +4258,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4253|[TokkingHeads](https://www.rosebud.ai/tokkingheads)|在几秒钟内让你的照片动起来，立即体验TokkingHeads！|
 |4254|[Tome](https://tome.app)|花更多时间与客户相处，减少制作幻灯片的时间。Tome的AI加速客户研究和演示文稿定制，让演示更加高效。|
 |4255|[Tomorrow IO](https://www.tomorrow.io/)|用Tomorrow.io预测天气、自动化处理并解决你最大的气象挑战。|
-|4256|[Tomsplanner](https://www.tomsplanner.com/ai-assist)|与我们一起进入项目管理的未来。
-
-在两分钟内获得完整且随时可用的项目计划，最多只需两分钟。|
+|4256|[Tomsplanner](https://www.tomsplanner.com/ai-assist)|与我们一起进入项目管理的未来。在两分钟内获得完整且随时可用的项目计划，最多只需两分钟。|
 |4257|[ToneShift](https://www.toneshift.cc/)|通过人工智能转变声音、替换歌手，并与他人分享可定制的音色风格。|
 |4258|[ToolBaz](https://toolbaz.org/)|ToolBaz涵盖了所有AI工具，如免费AI作家、AI故事生成器、邮件撰写器、歌词生成器、AI图像生成器、AI配音、AI视频、AI聊天机器人及AI代码生成器。|
 |4259|[Toolbuilder](https://toolbuilder.ai/)|使用你的工具箱创建自己的AI工具并简化工作流程。轻松创建你自己的AI工具，探索各种类型的无限AI工具。|
@@ -4612,9 +4291,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4286|[TravelFeed](https://travelfeed.io/ai)|使用TravelFeed为旅游博主提供的AI写作助手，创作引人入胜的旅游博客内容。告别写作障碍，像专业人士一样写作。|
 |4287|[Travelities](https://www.travelities.com/)|在AI的帮助下制定旅行计划。|
 |4288|[Travopo](https://travopo.com/)|终极“DIY”旅行规划工具。使用我们的实用旅行工具规划你的整个旅程。为你的下一次冒险寻找灵感。找到最便宜的预订交易。利用详细且实时更新的旅行指南创建你的行程。|
-|4289|[TreeBrain.ai](https://treebrain.ai/)|TreeBrain AI优化你的Shopify和WordPress网站博客、产品列表和营销内容，帮助扩大你的品牌规模。
-
-|
+|4289|[TreeBrain.ai](https://treebrain.ai/)|TreeBrain AI优化你的Shopify和WordPress网站博客、产品列表和营销内容，帮助扩大你的品牌规模。|
 |4290|[TreeMind树图](https://shutu.cn/)|TreeMind树图官网(shutu.cn)提供正版AI思维导图工具软件和免费在线脑图模板。支持脑图、逻辑图、树形图、鱼骨图、组织架构图、时间轴等多种专业格式，适合头脑风暴和创意规划，助力您的思维创新。|
 |4291|[Trellis](https://www.readtrellis.com/)|你的书籍，由AI驱动|
 |4292|[Trendmate.xyz](https://www.trendmate.xyz/)|通过社交媒体提示获得灵感，提升你的在线形象！|
@@ -4634,9 +4311,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4306|[Truebees](https://truebees.eu/)|TrueBees是首个能够检测社交媒体上分享的AI生成肖像并防止其在网络上传播的深度伪造检测器。|
 |4307|[Truewind](https://www.truewind.ai/)|Truewind正将生成式AI引入会计工作流程自动化。遵循最高级别的数据安全标准，自动化常规任务，让你有更多时间完成每月结账。|
 |4308|[Trumpet House](https://www.trumpet.house/)|推特更聪明，成长更快：利用AI释放你在Twitter上的潜力。|
-|4309|[Tryiton](https://www.tryitonai.com/)|全球最佳AI头像和AI摄影平台。被《华尔街日报》评为顶级AI工具。
-
-|
+|4309|[Tryiton](https://www.tryitonai.com/)|全球最佳AI头像和AI摄影平台。被《华尔街日报》评为顶级AI工具。|
 |4310|[TTcare](https://www.ttcareforpet.com/)|TTcare是一款宠物健康护理应用。通过拍照检查宠物的健康状况。这是一个让宠物家庭护理变得简单的解决方案。眼睛健康检查。皮肤健康检查。为你的宠物提供完美护理。轻松查找和预约兽医服务。与宠物生活相关的通知。|
 |4311|[TThankYouNote](https://thankyounote.app/)|撰写任何场合下的完美感谢信！无论是需要向朋友、家人还是商业伙伴表达谢意，我们都能提供最合适的言语。|
 |4312|[TTS.Monster](https://tts.monster/)|专为Twitch和YouTube主播设计的AI文字转语音工具，能通过多种标志性的AI语音和音效增强直播效果。完全免费！被xQc、summit1g、ludwig等众多主播使用！|
@@ -4659,9 +4334,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4329|[Tweet Writer AI](https://twitter-ai.vercel.app/)|在不同情绪下生成完美的推文和回复。由GPT-3驱动。|
 |4330|[TweetAI](https://tweetai.com/)|使用智能AI推文生成器在几秒钟内激发并撰写你的推文。|
 |4331|[TweetAssist](https://tweetassist.ai/)|AI驱动的推文功能|
-|4332|[TweetEmote](https://tweetemote.com/)|使用Tweet Emote撰写富有表现力的推文，获得你的内容应得的互动！
-
-|
+|4332|[TweetEmote](https://tweetemote.com/)|使用Tweet Emote撰写富有表现力的推文，获得你的内容应得的互动！|
 |4333|[Tweetify](https://tweetify.it/)|将文章和博客转化为社交媒体帖子！提供终身免费信用额度。|
 |4334|[Tweetspear](https://tweetspear.com/)|在Twitter（X）上建立你自己的高质量受众。|
 |4335|[TweetStorm.ai](https://www.tweetstorm.ai/)|TweetStorm是一款AI推文生成工具，可以撰写AI生成的推文、热门话题标签、突出的Twitter账号名称，以及吸引人的Twitter个人简介。|
@@ -4821,9 +4494,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4489|[Vidnoz AI Video Translator](https://www.vidnoz.com/video-translate.html)|Vidnoz AI视频翻译器能在三步内将视频翻译成140多种语言。利用免费的AI视频翻译器让您的视频在全球可见！|
 |4490|[Vidnoz Headshot Generator](https://www.vidnoz.com/ai-headshot-generator.html)|使用我们免费的AI头像生成器更快地创建专业AI肖像照片。上传您的照片即可获得逼真的AI商务照片。无需成本，节省80%的时间！|
 |4491|[vidyo.ai](https://vidyo.ai/)|借助Vidyo.ai的高级视频AI再利用平台，将长视频转化为TikTok、Instagram Reels和YouTube Shorts上的短病毒视频片段。|
-|4492|[Vienna Scribe](https://vienna.earth/meta/scribe)|Vienna Scribe是一项新一代语音转文字服务。它能在几秒钟内向您的手机提供准确的转录文本。
-
-我们的音频引擎基于OpenAI的Whisper。它是行业标准基准上最准确的语音转文字模型。|
+|4492|[Vienna Scribe](https://vienna.earth/meta/scribe)|Vienna Scribe是一项新一代语音转文字服务。它能在几秒钟内向您的手机提供准确的转录文本。我们的音频引擎基于OpenAI的Whisper。它是行业标准基准上最准确的语音转文字模型。|
 |4493|[Viesus](https://www.viesus.cloud/)|一个基于云的AI解决方案，用于增强和放大照片。通过网络应用和API访问，精确、快速、自动化且功能丰富。所有处理都在云端完成。为批量图片增强提供强大的API。Viesus被全球的小型、中型和大型企业使用，无论何时何地需要图片看起来更出色。|
 |4494|[Vieutopia](https://apps.apple.com/gb/app/vieutopia/id1660264569)|释放你的创造力，用Vieutopia将你的想法变为现实！只需输入文本并选择你喜欢的艺术风格。AI的魔力会完成剩下的工作。|
 |4495|[Viff.ai](https://www.viff.ai)|Viff是一款训练有素的AI助手，能够针对您的客人评价生成礼貌且贴合情境的回应。保持一致性的回复评论，促进业务成长。|
@@ -4839,9 +4510,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4505|[Visual Electric](https://visualelectric.com/)|首款专为创意人士设计的AI图像生成器。借助我们无限画布和直观界面，将您的想法变为现实。|
 |4506|[Visual Prompt Builder](https://tools.saxifrage.xyz/prompt)|为DALL-E、Midjourney和其他AI艺术生成工具可视化构建提示。|
 |4507|[Visual Studio IntelliCode](https://visualstudio.microsoft.com/zh-hans/services/intellicode/)|Visual Studio IntelliCode 是一组实验性的 AI 辅助开发功能，用于提高下一代开发人员的工作效率。|
-|4508|[VisualizeAI](https://visualizeai.pro/)|在几秒钟内构建原型、可视化设计、生成灵感及重新构想点子。
-
-|
+|4508|[VisualizeAI](https://visualizeai.pro/)|在几秒钟内构建原型、可视化设计、生成灵感及重新构想点子。|
 |4509|[Visulizee.ai](https://visualizee.ai/)|能在几秒内创建出你的概念如汽车、产品、室内设计、房屋等的真实可视化效果，无需耗时数小时。|
 |4510|[Visus.ai](https://www.visus.ai)|通过Visus，你可以轻松创建专为自己文档和知识库训练的ChatGPT AI。|
 |4511|[Vitalentum](https://vitalentum.net/)|提供免费的AI生成图片资源，为MidJourney等提供提示，免费使用ChatGPT，并实现内容的无缝共享。现在加入，转变你的内容创作之旅，与一个珍视你创造力和想法的热情社区互动，该社区正通过强大的工具如Open AI的免费Chat GPT革新内容创作。|
@@ -4850,9 +4519,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4514|[Vizard](https://vizard.ai)|一款由AI驱动的视频生成和编辑器，可以即时地将一个长视频转换成10多个短片段。|
 |4515|[Vizcom](https://www.vizcom.ai/)|Vizcom是一款专为设计和创意专业人士打造的AI驱动创意工具。它提供了一种变革性的概念绘图方法，使用户能够快速高效地将草图转化为令人印象深刻的逼真渲染图。|
 |4516|[Vizly](https://www.vizly.fyi/)|在几秒钟内分析和可视化你的数据。Vizly是一位AI驱动的数据科学家，让你能够与数据对话，可视化洞察，并执行数据分析。|
-|4517|[Vocads](https://www.vocads.com/)|通过会话式语音AI重新定义调查。企业往往在调查中缺乏足够的回应和参与度。Vocads通过与AI的语音对话来革新调查体验。
-
-通过顾客声音调查，从顾客那里获取真实、诚恳且全面的回答。快速完成调查，收集更丰富的数据，更好地调整你的策略，提高客户留存率。|
+|4517|[Vocads](https://www.vocads.com/)|通过会话式语音AI重新定义调查。企业往往在调查中缺乏足够的回应和参与度。Vocads通过与AI的语音对话来革新调查体验。通过顾客声音调查，从顾客那里获取真实、诚恳且全面的回答。快速完成调查，收集更丰富的数据，更好地调整你的策略，提高客户留存率。|
 |4518|[VocAI](https://www.voc.ai/)|使用VOC AI的颠覆性AI驱动客户服务解决方案，降低成本，提高客户满意度，增加收入。|
 |4519|[Vocal Remover](https://vocalremover.org/)|利用强大的AI算法，免费将歌曲中的声音与音乐分离。|
 |4520|[Vocapia](https://www.vocapia.com/)|Vocapia是一家提供广播监控、讲座和研讨会转录、视频字幕、电话会议转录以及语音分析的语音转文字软件和服务供应商。|
@@ -4867,9 +4534,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4529|[Voicemod Text to Song](https://www.voicemod.net/text-to-song)|免费的AI音乐生成器，用几秒钟内创建的AI生成的歌曲和颂歌问候你的朋友。选择歌曲、歌手，添加文本——你就有了可以分享的歌曲。|
 |4530|[VoicePen AI](https://voicepen.ai/)|快速将音频和语音备忘录转录或转换为博客文章；使用最强大的AI语音模型。|
 |4531|[Voicera](https://www.voicera.co/)|通过一键操作，为你的博客和文章创建逼真的语音口述。将语音嵌入到你的内容中。提高用户的参与度。|
-|4532|[Voicetapp](https://voicetapp.com/)|使用Voicetapp和AI驱动的工具来变革你的工作流程、内容和业务。Voicetapp已不再仅仅是一个简单的语音转文字工具。
-
-借助Voicetapp充分释放AI的潜力 准确性和速度：利用领先的AI技术进行闪电般的精准转录和内容创作，加速你的工作流程。|
+|4532|[Voicetapp](https://voicetapp.com/)|使用Voicetapp和AI驱动的工具来变革你的工作流程、内容和业务。Voicetapp已不再仅仅是一个简单的语音转文字工具。借助Voicetapp充分释放AI的潜力 准确性和速度：利用领先的AI技术进行闪电般的精准转录和内容创作，加速你的工作流程。|
 |4533|[VoiceType](https://voicetype.io)|VoiceType是一款AI助手，仅需简短的语音提示即可帮你撰写整封邮件。|
 |4534|[Voicify AI](https://voicify.ai)|使用Jammable在几秒钟内使用AI创建AI封面，有数百个社区上传的AI语音模型可供创意使用！|
 |4535|[VoilÃ ](https://www.getvoila.ai/)|Voilà将ChatGPT AI的力量置于你的指尖。通过键盘快捷键打开它并询问任何问题。Voila可以回复邮件，回答常见问题，总结和翻译文本，甚至为你的博客文章想出一个主意！|
@@ -4903,12 +4568,8 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4563|[WaspGPT](https://www.waspgpt.io/)|WASPGPT旨在简化您的区块链探索。只需输入查询，就能以对话形式轻松获取区块链数据。|
 |4564|[Watchthis.dev](https://www.watchthis.dev/)|使用Open AI获取精心策划的电视节目和电影推荐。|
 |4565|[WatermarkRemover.io](https://www.watermarkremover.io/)|使用我们的AI技术去除图片上的水印。应用我们的水印移除工具，让您的图片无水印烦恼。|
-|4566|[Watermelon](https://watermelon.co/)|体验GPT-4支持的AI聊天机器人为客户服务带来的卓越力量。通过我们一体化自动解决方案，增强团队能力并减轻工作负担。
-
-|
-|4567|[Wave](https://waveapp.ai/)|Wave是一款iOS平台的AI驱动笔记应用程序，帮助您录制、转录和总结会议及对话。
-
-|
+|4566|[Watermelon](https://watermelon.co/)|体验GPT-4支持的AI聊天机器人为客户服务带来的卓越力量。通过我们一体化自动解决方案，增强团队能力并减轻工作负担。|
+|4567|[Wave](https://waveapp.ai/)|Wave是一款iOS平台的AI驱动笔记应用程序，帮助您录制、转录和总结会议及对话。|
 |4568|[Wave AI](https://waveai.io/)|利用高级AI照片编辑器实现AI驱动的照片与图像编辑。|
 |4569|[Wavechat](https://www.wavechat.ai/)|Wavechat是24/7全天候处理咨询的AI驱动实时聊天工具，确保顾客随时得到帮助。无需昂贵的客服团队，Wavechat为您包揽一切。|
 |4570|[Wavel AI](https://wavel.ai/)|Wavel提供最佳的文本转语音解决方案，适用于视频和本地化需求。我们的语音自然、清晰、准确，且平台易于使用。|
@@ -4938,9 +4599,7 @@ TensorFlow提供了稳定的Python和C++ API，以及对其他语言的非保证
 |4594|[Ween.ai](https://www.ween.ai/)|一款AI客户研究平台，能将客户的定性数据转化为可执行的洞察。|
 |4595|[Weet](https://weet.co/)|使用Weet即时录制、创建和编辑互动培训视频。为您的客户和员工建立组织的知识视频库！|
 |4596|[Wegic](https://wegic.ai/)|我可以通过简单的对话帮助你创建和修改网站。|
-|4597|[WEKA](https://www.weka.io/)|让我们用你偏好的语言聊天，将你的想法变为现实！
-
-WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，为下一代工作负载提供动力。|
+|4597|[WEKA](https://www.weka.io/)|让我们用你偏好的语言聊天，将你的想法变为现实！WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，为下一代工作负载提供动力。|
 |4598|[Weld](https://weld.app/)|厌倦了零散的数据？在几分钟内使用AI同步和分析数据。连接150多个应用、文件和数据库。|
 |4599|[WELLNESS.XYZ](https://wellnessxyz.com/)|采用同理心与科学手段应对长期新冠症状。|
 |4600|[WellSaid Labs](https://wellsaidlabs.com/)|使用业界领先的AI语音生成器创建专业的配音。凭借WellSaid Studio和API，以最高质量的声音进行制作。|
@@ -4948,15 +4607,11 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4602|[WellyBox](https://www.wellybox.com/)|轻松从您的邮箱中收集收据。追踪、扫描、整理、保存和管理收据，再也不会丢失收据。|
 |4603|[Wepik](https://wepik.com/ai-presentations)|在几分钟内生成演示文稿，并使用我们的编辑器进行定制，然后下载结果。现在就开始！|
 |4604|[West Idol](https://www.westidol.com/)|使用AI，仅凭一张自拍即可瞬间获得专业级照片拍摄效果。|
-|4605|[Wetune](https://www.wetune.chat/)|Wetune是一款无需编码的工具，帮助你快速创建AI驱动的应用程序。
-
-|
+|4605|[Wetune](https://www.wetune.chat/)|Wetune是一款无需编码的工具，帮助你快速创建AI驱动的应用程序。|
 |4606|[WEVO](https://wevo.ai/)|WEVO是一个UX研究平台，使领先公司能够以前所未有短的时间揭示关于其数字体验的可靠、统计显著的用户洞察，相比传统的用户研究工具大幅缩短时间。WEVO提供评分、基准和综合洞察，使研究、产品和营销团队能够降低他们所需做出决策的风险。|
 |4607|[What does this code do](https://whatdoesthiscodedo.com/)|这是一个在后台使用AI的工具，可以解释任何你不懂的代码片段。|
 |4608|[What font is](https://www.whatfontis.com/)|字体识别器，帮助你从任何图片中识别字体。上传图片并选择你需要的字体，已索引99万种免费或商业字体。|
-|4609|[What-A-Prompt](https://freshly.ai/what-a-prompt/)|这是您生成创意和增强提示的首选工具，以获得最佳的ChatGPT（或Gemini或Claude或HuggingChat等）效果！
-
-设计为快速易用的提示优化器……只需选择您的提示增强方法，输入您的提示并点击生成！|
+|4609|[What-A-Prompt](https://freshly.ai/what-a-prompt/)|这是您生成创意和增强提示的首选工具，以获得最佳的ChatGPT（或Gemini或Claude或HuggingChat等）效果！设计为快速易用的提示优化器……只需选择您的提示增强方法，输入您的提示并点击生成！|
 |4610|[WhatGPT](https://whatgpt.app/)|在WhatsApp上的免费AI助手|
 |4611|[WhatsGPT](https://www.whatsgpt.me/)|通过我们先进的GPT驱动的聊天机器人，探索新一代的AI体验。WhatsGPT无缝集成到您喜爱的消息应用，如WhatsApp、Telegram和Facebook Messenger。|
 |4612|[WhatTheBeat](https://whatthebeat.com/)|在WhatTheBeat上体验AI驱动的音乐探索。搜索您喜爱的歌曲，通过AI生成的意义解析它们。|
@@ -5025,8 +4680,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4675|[WP Wand](https://wpwand.com/)|WPWand是WordPress的AI内容生成插件，帮助你的团队以10倍的速度和50倍的低成本创建高质量的内容。|
 |4676|[Wpaibot](https://wpaibot.com)|使用wpaibot和我们的WordPress AI作家创建引人入胜的内容。我们的AI作家可以在几秒钟内帮助你为WordPress站点创建内容。|
 |4677|[WPS AI](https://ai.wps.cn/)|WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。作为WPS办公套件的重要组成部分，WPS AI将与WPS其他产品无缝衔接，让用户在办公、写作、文档处理等方面实现更高效、更智能的体验。|
-|4678|[Wraith Docs](https://wraithdocs.com/)|Google Docs AI助手。
-|
+|4678|[Wraith Docs](https://wraithdocs.com/)|Google Docs AI助手。|
 |4679|[Wraith Scribe](https://www.wraithscribe.com/)|在几秒钟内写出数百篇高质量的文章，并显著增加你的流量。|
 |4680|[Wrap](https://wrap.so/)|一款浏览器扩展，用于捕捉和编辑精美设计的产品截图。|
 |4681|[Write My Essays AI](https://writemyessays.ai/)|先进且免费的AI驱动论文写作工具，旨在使写作过程更简单、更高效。现在就来撰写你的论文！|
@@ -5159,9 +4813,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4808|[百度-法行宝](https://ailegal.baidu.com/)|作为智能法律助手，我可以解释法律法规、解答法律问题，给予专业法律建议|
 |4809|[百度超级助理](https://cloud.baidu.com/product/infoflow.html)|超级助理是基于文心大模型的智能助手，含Copilot应用端和助理开发平台两部分。Copilot以浏览器插件提供翻译、创作、总结、问答等知识服务，也可调用助理开发平台插件自定义任务。助理平台则支持插件注册与编排，快速打造场景化应用。|
 |4810|[百度翻译](https://fanyi.baidu.com/mtpe-individual/multimodal#/)|新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，包括AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代不可或缺的翻译生产力终极加速器。|
-|4811|[百度网盘-云一朵](https://pan.baidu.com/aipan/welcome)|百度网盘云一朵是可以和你对话的智能助理，旨在为您提供最便捷的网盘使用体验，提高您的生活、学习和办公效率。
-
-能支持很多智能能力，包括：视频智能配字幕、音视频智能转文稿、视频转课件、智能扫描、描述特征搜索网盘图片等。|
+|4811|[百度网盘-云一朵](https://pan.baidu.com/aipan/welcome)|百度网盘云一朵是可以和你对话的智能助理，旨在为您提供最便捷的网盘使用体验，提高您的生活、学习和办公效率。能支持很多智能能力，包括：视频智能配字幕、音视频智能转文稿、视频转课件、智能扫描、描述特征搜索网盘图片等。|
 |4812|[百度文库AI助手](https://wenku.baidu.com/ndlaunch/browse/chat)||
 |4813|[百度智能云曦灵](https://xiling.cloud.baidu.com/)|大模型驱动的AI原生数字人平台，生产高质量数字人视频，直播，大幅降低运营成本|
 |4814|[百度作家平台](https://zuojia.baidu.com/loginv2?login=4)|百度旗下服务网络文学作家的一站式创作与投稿平台。作家可以在平台上创作短篇故事与长篇小说、投稿、管理作品、查看作品收益数据等。同时平台依靠百度强大的AI能力与平台服务，助力作家打磨出更好的作品|
@@ -5194,9 +4846,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4841|[钉钉个人版](https://workspace.dingtalk.com/welcome)|每个人的数字生产力工具，让智能化变革普惠每一个个体|
 |4842|[豆包](https://www.doubao.com/chat/)|抖音旗下AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题|
 |4843|[度加剪辑](https://aigc.baidu.com/home)|百度出品的、人人可用的AIGC创作平台。度加致力于通过AI能力降低内容生成门槛，提升创作效率，一站式聚合百度AIGC能力，引领跨时代的内容生产方式。度加的主要功能包括AI成片（图文成片/文字成片）、AI数字人等。|
-|4844|[堆友](https://d.design/)|Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
-
-历经大厂设计师团队多轮打磨雕刻，集海量高品质3D素材、实时在线渲染、多元场景功能应用、轻便好学易上手等多重优势于一身的设计神器，更自带免费可商用属性，为专业设计师、运营工友、学生小白、社交达人提供了一个零成本的在线设计站点和资源库|
+|4844|[堆友](https://d.design/)|Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。历经大厂设计师团队多轮打磨雕刻，集海量高品质3D素材、实时在线渲染、多元场景功能应用、轻便好学易上手等多重优势于一身的设计神器，更自带免费可商用属性，为专业设计师、运营工友、学生小白、社交达人提供了一个零成本的在线设计站点和资源库|
 |4845|[多墨智能写作](https://duomosmart.com/)|人工智能强力驱动的创意写作工具，旨在帮助职场人提高工作交付效率。该工具独家支持根据不同岗位通过算法一键生成工作文档，适合各种职业需求。有一键成文、辅助撰写、命令自定义和私有化部署等功能，可定制解决方案并保护内部数据隐私。|
 |4846|[阿里翻译](https://translate.alibaba.com/)|阿里巴巴提供的多语种在线实时翻译网站，支持多种领域、覆盖200+语言的智能机器翻译服务。阿里翻译还支持文档翻译、图片翻译、视频翻译、语音翻译等多模态翻译能力|
 |4847|[阿里悉语](https://chuangyi.taobao.com/pages/aiCopy)|阿里旗下智能商品营销文案生成工具,一键生成营销文案,电商场景悉数覆盖|
@@ -5228,17 +4878,11 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4873|[开拍](https://www.kaipai.com/home)|为创作者提供全流程创作的解决方案，前期AI脚本提供创作灵感，中期高清画质及AI提词器提高拍摄质量，后期AI剪辑/AI消除/AI翻译/AI封面等功能提升剪辑效率。|
 |4874|[可画](https://www.canva.com/ai-image-generator/)|提供丰富的版权图片、原创插画以及各类优质设计模板。用户可以在选择喜欢的模板之后，通过简单修改即可在几分钟内创建出海报、简历、Banner、名片等各类设计。|
 |4875|[扣子](https://www.coze.cn/)|可以让用户通过聊天，调用插件等方式，创建个人定制版Bot，实现“0代码”开发。无论用户是否拥有编程经验，都可以在“扣子”上快速创建各类聊天机器人，并一键发布到不同社交媒体与消息应用当中，诸如飞书，微信公众号，豆包等渠道都是支持的。|
-|4876|[酷表ChatExcel](https://chatexcel.com/)|ChatExcel依托自然语言处理技术，可以理解用户的语音或文本聊天内容，并在Excel表格中进行相应的数据读取、处理和可视化操作。
-
-用户只需像和好友聊天一样，输入自己希望对表格执行的分析要求，工具会自动完成全部工作，无需编写复杂的公式和代码,这款工具的出现彻底改变我们与表格数据的交互方式，让我们从繁琐的公式与运算中解放出来，专注于数据本身和分析目的。|
+|4876|[酷表ChatExcel](https://chatexcel.com/)|ChatExcel依托自然语言处理技术，可以理解用户的语音或文本聊天内容，并在Excel表格中进行相应的数据读取、处理和可视化操作。用户只需像和好友聊天一样，输入自己希望对表格执行的分析要求，工具会自动完成全部工作，无需编写复杂的公式和代码,这款工具的出现彻底改变我们与表格数据的交互方式，让我们从繁琐的公式与运算中解放出来，专注于数据本身和分析目的。|
 |4877|[夸克AI新媒体文章](https://vt.quark.cn/blm/creator-773/index)|夸克专为新媒体人打造的，支持“选题创作”“文章重写”“爆款标题”等一系列写作工具，基于实时资讯、热榜等，一键生成高质量原创文章，帮你快速抓住热点|
 |4878|[快剪辑](https://www.kuaijianji.com/)|国内领先的视频剪辑软件,拥有强大的云端剪辑能力,支持在线去水印,录屏,录音,视频文字互转,添加字幕,拥有海量版权视频模板,音乐,特效,贴纸,适用于个人和中小企业定制,支持手机APP和电脑PC下载|
 |4879|[快文](https://copyai.cn/)|必优科技旗下AI原创营销文案写作神器,通过强大的自然语言处理能力,通过输入关键词,快速生成原创的软文,可以发布在各个媒体和自媒体平台,大幅提高创作效率|
-|4880|[快影](https://h5.kwaiying.com/officialWebsite)|一款专业简单易上手的视频剪辑应用，提供了丰富实用的功能，帮助用户轻松制作出高质量的视频作品。
-
-多种视频剪辑功能，包括视频分割、裁剪、拼接、倒放、添加常规/曲线/自定义变速、转场、添加封面和片尾等，帮助用户快速完成视频剪辑。
-
-丰富的音效和音乐库，包括文字智能配音、语音加字幕、提取音频、降噪模式、音乐卡点等，让用户轻松添加各种音效和音乐，让视频更加生动有趣。|
+|4880|[快影](https://h5.kwaiying.com/officialWebsite)|一款专业简单易上手的视频剪辑应用，提供了丰富实用的功能，帮助用户轻松制作出高质量的视频作品。多种视频剪辑功能，包括视频分割、裁剪、拼接、倒放、添加常规/曲线/自定义变速、转场、添加封面和片尾等，帮助用户快速完成视频剪辑。丰富的音效和音乐库，包括文字智能配音、语音加字幕、提取音频、降噪模式、音乐卡点等，让用户轻松添加各种音效和音乐，让视频更加生动有趣。|
 |4881|[快转字幕](https://www.kzzimu.com/)|新一代 AI 字幕工作站，自动语音转字幕|
 |4882|[筷子](https://kuaizi.ai/)|一个易于使用的AI视频生成工具，只需上传视频并输入关键词，即可一键生成多个商业短片。|
 |4883|[来画](https://www.laihua.com/)|通过自主研发的SkinSoul动画大模型，打造了可控AI视频生成和可视化AI智能体，致力于帮助全球企业拥有生成视频的能力+帮助全球消费电子产品拥有可视化交互的能力，用AI实现下一代交互方式|
@@ -5272,9 +4916,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4911|[奇想智能](https://www.miraclevision.com/)|美图自研的一款懂美学的AI视觉大模型，以美图深厚的美学沉淀和长期的审美趋势研究作为基础，建立美学数据训练机制和美学评估体系，为MiracleVision大模型生成高品质的图像和稳健的图像质量提供强大的支撑|
 |4912|[千库AI](https://588ku.com/aicenter)|千库网推出的一站式AI创意服务平台,拥有AI写作、AI对话、智能聊天机器人、AI绘画、AI图像处理、AI智能设计等200+场景的AI工具，注册账号即可免费试用千库AI工具集，满足企业日常工作中的各种办公需求，助力企业办公提效|
 |4913|[千图设计室](https://hisheai.com/)|千图网旗下的AI智能设计在线编辑平台，提供一键抠图,批量AI换背景,AI绘画,AI聊天,消除笔,AI证件照制作,艺术字logo生成,老照片修复等功能,一键稿定设计,更有AI生成美图,助力设计师释放无限创意|
-|4914|[轻竹办公](https://www.qzoffice.com/)|轻轻一点，瞬间生成PPT内容提纲。无论是工作总结教学课件还是活动策划，轻竹AI让文案创作轻松愉悦从此告别写作困扰。
-
-拥有丰富多彩的PPT模板,从商务到时尚,一键即得完美设计。无需设计技能，轻松套用模板,让每一次演示都充满惊喜|
+|4914|[轻竹办公](https://www.qzoffice.com/)|轻轻一点，瞬间生成PPT内容提纲。无论是工作总结教学课件还是活动策划，轻竹AI让文案创作轻松愉悦从此告别写作困扰。拥有丰富多彩的PPT模板,从商务到时尚,一键即得完美设计。无需设计技能，轻松套用模板,让每一次演示都充满惊喜|
 |4915|[闪剪](https://shanjian.tv/)|国内领先的AI数字人口播视频在线创作平台，同时拥有移动端APP版本，平台有丰富的数字人视频模板，你只需输入关键词，AI自动创作文案一键生成数字人视频，还可在线定制专属数字人形象及声音；内含200+国际化数字人模特、24+国家AI配音、AI文案创作、智能成片、照片数字人、直播快剪、视频订阅号等功能，让企业团队轻松实现矩阵营销引流，降本增效|
 |4916|[商汤秒画](https://miaohua.sensetime.com/)|会打字就会用的AI绘画神器，完美支持中文提示词，支持摄影、可爱、精致、赛博朋克、电影等超多风格，人人都可以是插画师！快速创作二次元、写实向等多种风格小姐姐|
 |4917|[商汤商量](https://chat.sensetime.com/wb/home)|商汤自研的超千亿参数语言大模型应用平台，基于商汤强大的MaaS服务与算力支持，帮助用户完成逻辑推理、规划建议、内容创作、文本摘要、情感分析等AIGC任务|
@@ -5306,9 +4948,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4943|[蛙蛙写作](https://www.wawawriter.com/)|一款智能AI写作工具，提供公众号写作,工作报告,学术论文,ppt,演讲稿,简历润色,活动策划,旅游攻略,好物种草,短视频脚本创作,AI智能续写扩写等服务。为专业小说作者、自媒体运营者等内容生产者，帮助提升写作速度、优化创作模式、突破内容生产力瓶颈|
 |4944|[万彩AI](https://ai.kezhan365.com/)|一款强大的AI内容创作工具合集，除了提供AI智能写作支持之外，还集成了AI换脸、AI数字人制作和AI短视频制作等强大的AI生成内容功能，进一步扩展了AI的创作领域，使您的创作具有无限可能|
 |4945|[万彩微影](https://www.animiz.cn/microvideo/)|一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频|
-|4946|[万兴爱画](https://aigc.wondershare.cn/)|万兴科技推出的一款AI绘画软件，使用该软件，用户通过输入几个描述性的关键词即可AI自动处理生产。
-
-万兴爱画支持中和英文双语创作。优秀的描述词不仅需要简明扼要的词句组合描述清楚要绘制的内容，更需要融入丰富的专业修饰词提升画面丰富度。|
+|4946|[万兴爱画](https://aigc.wondershare.cn/)|万兴科技推出的一款AI绘画软件，使用该软件，用户通过输入几个描述性的关键词即可AI自动处理生产。万兴爱画支持中和英文双语创作。优秀的描述词不仅需要简明扼要的词句组合描述清楚要绘制的内容，更需要融入丰富的专业修饰词提升画面丰富度。|
 |4947|[万兴播爆](https://virbo.wondershare.cn/)|万兴科技旗下的AIGC产品,为您提供AI数字人定制服务.只需简单输入关键词,即可轻松生成真人营销视频.万兴播爆拥有上百套专业级模板,涵盖各种场景视频需求,是您出海视频营销的一站式神器|
 |4948|[万知](https://www.wanzhi.com/home)|零一万物旗下产品，问答、阅读、创作的一站式AI工作平台|
 |4949|[网易见外](https://sight.youdao.com/)|一个集视频听翻、直播听翻、语音转写、文档直翻功能为一体的AI智能语音转写听翻平台，致力于用语音识别转写文字、机器翻译等技术为从事和爱好语音转写、翻译的人员提供更便捷的听翻工具，提升工作效率，降低转写成本，进而改变人们跨文化交流与内容跨国界传播的实现方式|
@@ -5346,8 +4986,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |4981|[倚塔](http://yeetar.com/)|数字人智创平台，支持AIGC数字人平台的产品和定制，数字人视频创作、创意图文生成和数字人智能会话。|
 |4982|[亿图脑图](https://www.edrawsoft.cn/mindmaster/)|一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。集成思维导图社区和云平台。|
 |4983|[一帧秒创](https://aigc.yizhentv.com/)|基于新壹大模型及秒创AIGC引擎的智能AI内容生成平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具，可将百家号、公众号、头条号、搜狐号、新浪微博、小红书等文章一键转视频，一键生成数字人播报视频，为企业及自媒体提供一站式视频生产，全面提升内容创作效率。|
-|4984|[音虫](https://www.soundbug.com/)|一款用于音乐编曲和录音的软件，
-致力于帮助更多的音乐爱好者体会音乐创作的乐趣！|
+|4984|[音虫](https://www.soundbug.com/)|一款用于音乐编曲和录音的软件，致力于帮助更多的音乐爱好者体会音乐创作的乐趣！|
 |4985|[印象笔记-印象图记](https://static.app.yinxiang.com/evermind/product/login)|在线思维导图工具与流程图工具|
 |4986|[影刀 AI Power](https://www.yingdao.com/ai-power/)|一款无需代码即可搭建AI应用的产品，它全面聚合现有的AI大模型，提供了一套极简的AI应用搭建工具。使用影刀AP，接入AI的成本只有3分钟，让你真实地感受AI落地可以如此简单。|
 |4987|[影眸科技](https://deemos.com/)|致力于探索前沿人工智能与元宇宙的结合与应用。|
@@ -5414,9 +5053,7 @@ WEKA数据平台帮助企业存储、处理和管理云端和本地的数据，�
 |5048|[文心大模型](https://wenxin.baidu.com/)|产业级知识增强大模型,包含基础通用大模型及面向重点领域和重点任务的大模型,同时有丰富的工具与平台支撑高效便捷的应用开发,学习效率高,可解释性好,大幅降低AI开发与应用门槛.|
 |5049|[昇思大模型](https://xihe.mindspore.cn/)|昇思大模型平台是集算法选型、创意分享、模型实验和大模型在线体验为一体的AI学习与实践社区,提供超强Ascend算力、免费课程资源、经典样例代码、企业落地案例和多层级挑战赛,欢迎广大开发者注册试用。 |
 |5050|[序列猴子](https://openapi.mobvoi.com/index)|语言驱动的深度学习大模型能够快速、准确地处理语言表达，支持多种交互方式，可以快速生成悦耳的语音、高质量的文本，以及与人机进行互动，以满足各种语音、文本和对话需求。|
-|5051|[MiniMax abab大模型](https://www.minimaxi.com/platform)|基于MiniMax端到端自研多模态大语言模型，我们为企业用户或企业开发者提供功能丰富的API，适用于大多数文本处理场景。以自然语言交互的形式帮助企业用户或个人开发者提高文本相关的生产效率，例如：文本续写、文案生成、文本扩写、文本改写、内容摘要、代码生成、知识检索等。
-
-MiniMax提供的API以极简的形式供企业客户和个人开发者调用，同时针对不同的行业及场景进行不同的能力抽象和封装，最大限度的降低使用者的开发复杂性，快速在目标场景中验证价值并进行生产部署。|
+|5051|[MiniMax abab大模型](https://www.minimaxi.com/platform)|基于MiniMax端到端自研多模态大语言模型，我们为企业用户或企业开发者提供功能丰富的API，适用于大多数文本处理场景。以自然语言交互的形式帮助企业用户或个人开发者提高文本相关的生产效率，例如：文本续写、文案生成、文本扩写、文本改写、内容摘要、代码生成、知识检索等。MiniMax提供的API以极简的形式供企业客户和个人开发者调用，同时针对不同的行业及场景进行不同的能力抽象和封装，最大限度的降低使用者的开发复杂性，快速在目标场景中验证价值并进行生产部署。|
 |5052|[通义大模型](https://www.huaweicloud.com/product/pangu.html)|由阿里巴巴开发的一种基于深度学习的自然语言处理技术。它采用了大规模的计算资源和先进的机器学习算法，可以模拟人类的思维方式，实现更智能、更灵活的自然语言处理。|
 |5053|[盘古大模型](https://www.huaweicloud.com/product/pangu.html)|盘古大模型3.0是面向行业的大模型，包含L0中5类基础大模型、L1行业大模型及L2场景模型三层架构|
 |5054|[商汤日日新大模型](https://platform.sensenova.cn/home)|日日新（SenseNova），是商汤科技宣布推出的大模型体系，包括自然语言处理模型“商量”（SenseChat）、文生图模型“秒画”和数字人视频生成平台“如影”（SenseAvatar）等。|
@@ -5436,15 +5073,10 @@ MiniMax提供的API以极简的形式供企业客户和个人开发者调用，�
 |5068|[moonshot大模型](https://www.moonshot.cn/)|Moonshot的文本生成模型（指moonshot-v1）是训练用于理解自然语言和书面语言的，它可以根据输入生成文本输出。对模型的输入也被称为“prompt”。通常我们建议您提供明确的指令以及给出一些范例，来让模型能够完成既定的任务，设计 prompt 本质上就是学会如何“训练”模型。moonshot-v1模型可以用于各种任务，包括内容或代码生成、摘要、对话、创意写作等。|
 |5069|[子曰大模型](https://ziyue-media.youdao.com/#/home)|子曰教育大模型2.0基于4个方面（数据、模型、系统、应用）进行了3个能力层面的升级（口语对话能力、教育场景下知识问答能力、文字处理能力）|
 |5070|[封神榜大模型](https://fengshenbang-lm.com/)|“封神榜”是由粤港澳大湾区数字经济研究院（International Digital Economy Academy，简称IDEA研究院）认知计算与自然语言中心的工程师、研究人员、实习生团队共同维护的一项长期开源计划。“封神榜”开源体系将会重新审视整个中文预训练大模型开源社区，全方位的推进整个中文大模型社区的发展，旨在成为中文认知智能的基础设施。|
-|5071|[言犀大模型](https://yanxi.jd.com/)|京东智能人机交互平台，助力企业服务数智化转型.
-以AI技术驱动，从文字、语音到多模态交互，从对话智能到情感智能，聚焦体验、效率与转化，旨在打造新一代智能人机交互平台，面向不同行业和客户场景助力企业服务和营销实现数智化转型升级|
+|5071|[言犀大模型](https://yanxi.jd.com/)|京东智能人机交互平台，助力企业服务数智化转型.以AI技术驱动，从文字、语音到多模态交互，从对话智能到情感智能，聚焦体验、效率与转化，旨在打造新一代智能人机交互平台，面向不同行业和客户场景助力企业服务和营销实现数智化转型升级|
 |5072|[火山方舟](https://www.volcengine.com/product/ark)|一站式大模型服务平台。平台提供模型精调、推理、评测等全方位功能与服务，提供丰富的插件生态和AI原生应用开发服务，并通过安全可信的基础设施，专业的算法技术服务，全方位保障企业级AI应用落地|
 |5073|[快意大模型](https://github.com/kwai/KwaiYii)|「快意」大模型（KwaiYii） 是由快手AI团队从零到一独立自主研发的一系列大规模语言模型（Large Language Model，LLM），当前包含了多种参数规模的模型，并覆盖了预训练模型（KwaiYii-Base)、对话模型（KwaiYii-Chat)。|
-|5074|[TechGPT](https://github.com/neukg/TechGPT)|TechGPT是“东北大学知识图谱研究组”发布的垂直领域大语言模型。目前在HuggingFace🤗: neukg/TechGPT-7B开源了全量微调的7B版本。
-TechGPT主要强化了如下三类任务:
-以“知识图谱构建”为核心的关系三元组抽取等各类信息抽取任务
-以“阅读理解”为核心的各类智能问答任务。
-以“文本理解”为核心的关键词生成等各类序列生成任务。|
+|5074|[TechGPT](https://github.com/neukg/TechGPT)|TechGPT是“东北大学知识图谱研究组”发布的垂直领域大语言模型。目前在HuggingFace🤗: neukg/TechGPT-7B开源了全量微调的7B版本。TechGPT主要强化了如下三类任务:以“知识图谱构建”为核心的关系三元组抽取等各类信息抽取任务以“阅读理解”为核心的各类智能问答任务。以“文本理解”为核心的关键词生成等各类序列生成任务。|
 |5075|[BuboGPT](https://bubo-gpt.github.io/)|BuboGPT是一款先进的大型语言模型（LLM），它创新性地融合了多模态输入，包括文本、图像和音频，并具备一项独特技能：能够将其回应与视觉对象进行关联。无论图像-音频数据是否对齐，BuboGPT均能展现出卓越的对话能力，实现对这些数据的深度理解。这表明BuboGPT在处理复杂多媒体信息方面具有显著优势，能够有效解析并响应跨模态的数据内容，为用户提供更加丰富、直观的交互体验。|
 |5076|[学而思九章大模型](https://www.mathgpt.com/)|学而思九章大模型（MathGPT）是好未来自主研发的，面向全球数学爱好者和科研机构，以解题和讲题算法为核心的大模型。|
 |5077|[元象大模型](https://chat.xverse.cn/home/index.html)|元象大模型是由深圳元象XVERSE从头训练、全链路自主研发的高性能通用大模型系列，现已成功研发XVERSE-7B、13B、65B等多个量级的高性能大模型，并且全部开源，免费商用。|
@@ -5452,18 +5084,13 @@ TechGPT主要强化了如下三类任务:
 |5079|[阶跃星辰Step大模型](https://www.stepfun.com/)|Step-2万亿参数MoE大模型和 Step-1V 千亿多模态大模型，在图像理解、多轮指令跟随、数学能力、逻辑推理、文本创作等方面性能达到业界领先水平。|
 |5080|[东风思必驰DFM-2大模型](https://www.duiopen.com/)|思必驰自研的对话式语言大模型DFM-2（Dialogue Foundation Model），中文直译为“通用对话基础模型”，中文取首字母谐音“东风”，显示将用大模型助力行业实现“沟通万物、打理万事”。思必驰DFM-2大模型是思必驰研发的技术。DFM-2 属于垂域大模型， 是具有通用智能、针对垂域的行业语言大模型。可以实现通用人工智能的柔性定制,开展大规模、高质量、个性化的人工智能系统定制。|
 |5081|[妙想金融大模型](https://ai.eastmoney.com/)|妙想作为东方财富出品国内首款金融行业大模型应用，直面用户投资痛点、切入多元财富场景，以创新自研的专业语料、特色算法和强大算力，为用户提供全程无忧的智能投资体验。|
-|5082|[曹植大语言模型](https://www.datagrand.com/products/aigc/)|曹植是一个能够灵活自如完成金融领域内各项文字资料的自动化创作系统，可以实现对文件资料的分析、问答、撰写等内容。
-该大模型作为垂直专用的国产大语言模型，具有长文本、垂直化和多语言的特点，通过并联多种模型和知识图谱，支持多种语言长文本的自动化写作和多语种翻译等功能，全方位赋能长文档写作、机器翻译、语义分析审核、知识问答、text-to-SQL等场景，可针对不同行业、领域的文案需求，进行深度优化和个性化定制。|
+|5082|[曹植大语言模型](https://www.datagrand.com/products/aigc/)|曹植是一个能够灵活自如完成金融领域内各项文字资料的自动化创作系统，可以实现对文件资料的分析、问答、撰写等内容。该大模型作为垂直专用的国产大语言模型，具有长文本、垂直化和多语言的特点，通过并联多种模型和知识图谱，支持多种语言长文本的自动化写作和多语种翻译等功能，全方位赋能长文档写作、机器翻译、语义分析审核、知识问答、text-to-SQL等场景，可针对不同行业、领域的文案需求，进行深度优化和个性化定制。|
 |5083|[第四范式先知 AIOS 5.0](https://www.4paradigm.com/index.html)|基于各行业场景的特定数据（称为“X模态”）构建专属大模型，进而分析并预测这些特定行业的未来情况，而不再于文本本身，如此得以显著拓宽了该AI模型的应用范围。|
 |5084|[GPT-4o](https://openai.com/index/hello-gpt-4o/)|GPT-4o（“o”代表“全能”）是朝着更加自然的人机交互迈出的一步——它接受任何组合的文本、音频、图像和视频作为输入，并生成任何组合的文本、音频和图像输出。它能以低至232毫秒的时间响应音频输入，平均响应时间为320毫秒，这与人类在对话中的反应时间相似。在英文和代码的文本处理上，它的表现与GPT-4 Turbo相当，在非英文语言的文本处理上有了显著提升，同时在API使用上更快且成本降低了50%。相比现有模型，GPT-4o在视觉和音频理解方面尤其表现出色。|
 |5085|[DALL·E 3](https://openai.com/index/dall-e-3/)|DALL·E 3相较于我们的先前系统，理解了更多的细微差别和细节，使您能够轻松地将想法转化为异常精确的图像。|
-|5086|[GPT-4](https://openai.com/index/gpt-4-research/)|GPT-4是一款大型多模态模型（能够接收图像和文本输入，输出文本），虽然在许多现实世界情境下其能力仍不及人类，但在多种专业和学术基准测试中，它展现出了与人类水平相当的表现。例如，它能在模拟律师资格考试中获得接近前10%考生的成绩；相比之下，GPT-3.5的成绩则大约位于后10%。我们花费了6个月的时间，借助对抗性测试计划的经验以及ChatGPT的反馈，不断对GPT-4进行迭代调整，结果在事实准确性、可控性和避免越界行为等方面取得了迄今为止最佳的结果（尽管远未达到完美）。
-
-这一过程反映了我们在提升模型性能的同时，对安全性和伦理考量的重视，确保GPT-4不仅能提供高质量的信息服务，还能在复杂的网络环境中保持稳健和负责任的行为模式。|
+|5086|[GPT-4](https://openai.com/index/gpt-4-research/)|GPT-4是一款大型多模态模型（能够接收图像和文本输入，输出文本），虽然在许多现实世界情境下其能力仍不及人类，但在多种专业和学术基准测试中，它展现出了与人类水平相当的表现。例如，它能在模拟律师资格考试中获得接近前10%考生的成绩；相比之下，GPT-3.5的成绩则大约位于后10%。我们花费了6个月的时间，借助对抗性测试计划的经验以及ChatGPT的反馈，不断对GPT-4进行迭代调整，结果在事实准确性、可控性和避免越界行为等方面取得了迄今为止最佳的结果（尽管远未达到完美）。这一过程反映了我们在提升模型性能的同时，对安全性和伦理考量的重视，确保GPT-4不仅能提供高质量的信息服务，还能在复杂的网络环境中保持稳健和负责任的行为模式。|
 |5087|[LLAMA3](https://llama.meta.com/llama3/)|Llama-3有两款型号，分别包含80亿和700亿个参数。这些模型是在大约15万亿个从“公开可用资源”收集的文本标记上进行预训练的。指导模型则在“公开可用的指令数据集以及超过1000万个人工标注示例”上进行了微调。Meta计划发布多模态模型，即能够使用多种语言进行对话的模型，以及具备更大上下文窗口的模型。|
-|5088|[Gemma](https://ai.google.dev/gemma?hl=zh-cn)|Gemma 是一系列先进的轻量级开放模型，采用与 Gemini 模型相同的研究和技术构建而成。 Gemma 由 Google DeepMind 和 Google 的其他团队开发，以拉丁语 gemma（指宝石）命名。Gemma 模型权重由用于促进创新、协作和负责任地使用人工智能 (AI) 的开发者工具提供支持。
-
-Gemma 模型可以在应用中以及硬件、移动设备或托管服务中运行。您还可以使用调整方法自定义这些模型，使其擅长执行对您和用户至关重要的特定任务。Gemma 模型从 Gemini 系列模型中汲取灵感和技术沿袭，专为 AI 开发社区而构建，使其能够进一步扩展。|
+|5088|[Gemma](https://ai.google.dev/gemma?hl=zh-cn)|Gemma 是一系列先进的轻量级开放模型，采用与 Gemini 模型相同的研究和技术构建而成。 Gemma 由 Google DeepMind 和 Google 的其他团队开发，以拉丁语 gemma（指宝石）命名。Gemma 模型权重由用于促进创新、协作和负责任地使用人工智能 (AI) 的开发者工具提供支持。Gemma 模型可以在应用中以及硬件、移动设备或托管服务中运行。您还可以使用调整方法自定义这些模型，使其擅长执行对您和用户至关重要的特定任务。Gemma 模型从 Gemini 系列模型中汲取灵感和技术沿袭，专为 AI 开发社区而构建，使其能够进一步扩展。|
 |5089|[Jan](https://jan.ai/)|Jan是一款开源的ChatGPT替代方案，它完全在你的计算机上离线运行。你可以选择在本地计算机上离线运行像Mistral或Llama2这样的大型语言模型（LLM），或者连接到远程的人工智能API，如OpenAI的GPT-4或Grok。|
 |5090|[Ollama](https://ollama.com/)|Ollama是一个开源项目，它作为一个强大且用户友好的平台，使你能够在本地机器上运行大型语言模型（LLM）。它充当了LLM技术复杂性与寻求易用、可定制的AI体验之间桥梁的角色。|
 |5091|[Mistral](https://mistral.ai/)|快速、开源且安全的语言模型。通过利用私有数据和使用反馈，促进模型在企业用例上的专业化，由欧洲的世界级团队构建。|
@@ -5472,50 +5099,31 @@ Gemma 模型可以在应用中以及硬件、移动设备或托管服务中运�
 |5094|[Scale](https://scale.com/)|Scale为包括自动驾驶汽车、地图绘制、AR/VR、机器人技术等在内的AI应用提供高质量的训练数据。|
 |5095|[Evidently AI](https://www.evidentlyai.com/)|协作式AI可观察性平台。评估、测试和监控你的AI驱动产品。|
 |5096|[Lamini](https://www.lamini.ai/)|为企业提供大型语言模型推理和调优。事实型大型语言模型。10分钟内即可上线。可部署于任意位置。|
-|5097|[C-Eval](https://cevalbenchmark.com/static/leaderboard_zh.html)|一个适用于大语言模型的多层次多学科
-中文评估套件|
+|5097|[C-Eval](https://cevalbenchmark.com/static/leaderboard_zh.html)|一个适用于大语言模型的多层次多学科中文评估套件|
 |5098|[Multi-task Language Understanding on MMLU](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)|MMLU（大规模多任务语言理解）是一项新基准测试，旨在通过在零样本和少量样本设置下独家评估模型，测量预训练过程中获取的知识。这种方式使基准测试更具挑战性，也更接近我们评价人类的方式。该基准涵盖了STEM（科学、技术、工程、数学）、人文科学、社会科学等多个领域的57个科目。难度范围从基础的小学水平到高级的专业水平，它既测试世界知识，也测试解决问题的能力。科目范围从传统的数学、历史，到更专业的法律和伦理等领域。科目的精细度和广度使该基准成为识别模型盲点的理想工具。|
-|5099|[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|我们使用Eleuther AI语言模型评估框架，在6个关键基准上评估模型，这是一个统一的框架，用于在大量不同的评估任务上测试生成式语言模型。
-
-对于所有这些评估，分数越高表示性能越好。我们选择了这些基准，因为它们在零样本和少量样本设置下，测试了各种推理能力和跨广泛领域的通用知识。|
+|5099|[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|我们使用Eleuther AI语言模型评估框架，在6个关键基准上评估模型，这是一个统一的框架，用于在大量不同的评估任务上测试生成式语言模型。对于所有这些评估，分数越高表示性能越好。我们选择了这些基准，因为它们在零样本和少量样本设置下，测试了各种推理能力和跨广泛领域的通用知识。|
 |5100|[FlagEval 天秤大模型评测平台](https://flageval.baai.ac.cn/#/trending)|FlagEval （天秤）大模型评测体系及开放平台，旨在建立科学、公正、开放的评测基准、方法、工具集，协助研究人员全方位评估基础模型及训练算法的性能，同时探索利用AI方法实现对主观评测的辅助，大幅提升评测的效率和客观性。目前已推出语言大模型评测、多语言文图大模型评测及文图生成评测等工具，并对广泛的语言基础模型、跨模态基础模型实现了评测。后续将全面覆盖基础模型、预训练算法、微调/压缩算法等三大评测对象，包括自然语言处理（NLP）、计算机视觉（CV）、音频（Audio）及多模态（Multimodal）等四大评测场景和丰富的下游任务。|
-|5101|[SuperCLUE：中文通用大模型综合性测评基准](https://www.cluebenchmarks.com/static/superclue.html)|中文通用大模型综合性测评基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
-它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型的效果情况。包括但不限于：这些模型哪些相对效果情况、相较于国际上的代表性模型做到了什么程度、 这些模型与人类的效果对比如何？它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE，是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。
-目前包括三大基准：OPEN多轮开放式基准、OPT三大能力客观题基准、琅琊榜匿名对战基准。它按照月度进行更新|
+|5101|[SuperCLUE：中文通用大模型综合性测评基准](https://www.cluebenchmarks.com/static/superclue.html)|中文通用大模型综合性测评基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型的效果情况。包括但不限于：这些模型哪些相对效果情况、相较于国际上的代表性模型做到了什么程度、 这些模型与人类的效果对比如何？它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE，是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。目前包括三大基准：OPEN多轮开放式基准、OPT三大能力客观题基准、琅琊榜匿名对战基准。它按照月度进行更新|
 |5102|[OpenCompss 司南](https://rank.opencompass.org.cn/leaderboard-llm)|OpenCompss面向大模型的开源方和使用者， 提供开源、高效、全面的大模型评测开放平台。网站包含大模型评测榜单，数据集社区，文档等专区。榜单专区包含大语言模型以及多模态大模型榜单，提供多能力维度的评分参考。数据集社区致力于打造创新性的基准测试资源专区，提供丰富的评测数据集信息。|
 |5103|[CMMLU](https://github.com/haonan-li/CMMLU/)|CMMLU是一个综合性的中文评估基准，专门用于评估语言模型在中文语境下的知识和推理能力。CMMLU涵盖了从基础学科到高级专业水平的67个主题。它包括：需要计算和推理的自然科学，需要知识的人文科学和社会科学,以及需要生活常识的中国驾驶规则等。此外，CMMLU中的许多任务具有中国特定的答案，可能在其他地区或语言中并不普遍适用。因此是一个完全中国化的中文测试基准。|
 |5104|[MMBench](https://mmbench.opencompass.org.cn/leaderboard)|MMBench是一套基准集合，用于评估大型视觉语言模型（LVLMs）的多模态理解能力。|
 |5105|[Holistic Evaluation of Language Models（HELM）](https://crfm.stanford.edu/helm/lite/latest/)|语言模型的全面评估（HELM）作为语言模型透明度的动态基准，提供了广泛的覆盖范围，承认了评估的不完整性，采用了多指标测量，并实现了标准化。所有数据和分析均可在网站上免费获取，供探索和研究使用。|
-|5106|[H2O LLM Eval](https://evalgpt.ai/)|evalgpt.ai托管了一个基于Elo评分排名的顶级大型语言模型（LLM）排行榜。该排行榜会频繁更新，为大型语言模型提供全面且公正的评估。网站的不同特性如下所述：
-
-Elo排行榜根据Elo评分对顶级LLM进行排名。Elo评分是从一系列A/B测试的结果中计算得出，测试中LLM相互对决。采用的排名系统基于Elo评级系统。Elo评分的计算程序紧密遵循此资源中概述的方法论。|
+|5106|[H2O LLM Eval](https://evalgpt.ai/)|evalgpt.ai托管了一个基于Elo评分排名的顶级大型语言模型（LLM）排行榜。该排行榜会频繁更新，为大型语言模型提供全面且公正的评估。网站的不同特性如下所述：Elo排行榜根据Elo评分对顶级LLM进行排名。Elo评分是从一系列A/B测试的结果中计算得出，测试中LLM相互对决。采用的排名系统基于Elo评级系统。Elo评分的计算程序紧密遵循此资源中概述的方法论。|
 |5107|[PubMedQA](https://pubmedqa.github.io/)|PubMedQA的任务是使用相关的摘要来回答研究问题，答案为是/否/可能（例如：术前使用他汀类药物是否能减少冠状动脉搭桥手术后的房颤？）。PubMedQA包含了1000个专家标注的、61200个未标注的以及211300个人工生成的问题回答实例。|
 |5108|[文心智能体平台](https://agents.baidu.com/)|文心智能体平台AgentBuilder，是百度推出的基于文心大模型的智能体平台，支持广大开发者根据自身行业领域、应用场景，选取不同类型的开发方式，打造大模型时代的产品能力。开发者可以通过prompt编排的方式低成本开发智能体（Agent），同时文心智能体平台还将为智能体（Agent）开发者提供相应的流量分发路径，完成商业闭环。|
 |5109|[Pytorch](https://pytorch.org/)|PyTorch是一个针对使用GPU和CPU进行深度学习的优化张量库。|
 |5110|[飞桨](https://www.paddlepaddle.org.cn/)|飞桨(PaddlePaddle)以百度多年的深度学习技术研究和业务应用为基础，是中国首个自主研发、功能完备、 开源开放的产业级深度学习平台，集深度学习核心训练和推理框架、基础模型库、端到端开发套件和丰富的工具组件于一体。目前，飞桨累计开发者1070万，服务企业23.5万家，基于飞桨开源深度学习平台产生了86万个模型。飞桨助力开发者快速实现AI想法，快速上线AI业务。帮助越来越多的行业完成AI赋能，实现产业智能化升级。|
 |5111|[阿里云百炼大模型服务平台](https://bailian.aliyun.com/)|阿里云百炼是基于通义大模型、行业大模型以及三方大模型的一站式大模型开发平台。面向企业客户和个人开发者，提供完整的模型服务工具和全链路应用开发套件，预置丰富的能力插件，提供API及SDK等便捷的集成方式，高效完成大模型应用构建。|
 |5112|[scikit-learn](https://scikit-learn.org/stable/)|scikit-learn是一个基于SciPy构建的Python机器学习模块，遵循3-Clause BSD许可证分发。|
-|5113|[MLX](https://ml-explore.github.io/mlx/build/html/index.html)|MLX是一个类似NumPy的数组框架，由苹果机器学习研究团队设计，旨在苹果芯片上实现高效且灵活的机器学习。
-
-其Python API在少数例外情况下，与NumPy非常接近。MLX同样提供了一个与Python API高度吻合的完整C++ API。|
-|5114|[Lable Studio](https://labelstud.io/)|Label Studio是一款开源的数据标注工具，支持在同一平台上管理多个项目、用户和数据类型。它使你能够：
-
-使用多种数据格式执行不同类型的数据标注。
-将Label Studio与机器学习模型集成，以提供标签预测（预标注），或执行连续主动学习。详情请参阅将机器学习与标注过程结合设置。
-Label Studio还提供了一款增强安全性的企业级云服务（包括SSO、RBAC、SOC2认证），具备团队管理功能、数据发现、数据分析与报告，以及支持SLA（服务水平协议）。提供免费试用，以便快速开始并探索企业级云产品。|
+|5113|[MLX](https://ml-explore.github.io/mlx/build/html/index.html)|MLX是一个类似NumPy的数组框架，由苹果机器学习研究团队设计，旨在苹果芯片上实现高效且灵活的机器学习。其Python API在少数例外情况下，与NumPy非常接近。MLX同样提供了一个与Python API高度吻合的完整C++ API。|
+|5114|[Lable Studio](https://labelstud.io/)|Label Studio是一款开源的数据标注工具，支持在同一平台上管理多个项目、用户和数据类型。它使你能够：使用多种数据格式执行不同类型的数据标注。将Label Studio与机器学习模型集成，以提供标签预测（预标注），或执行连续主动学习。详情请参阅将机器学习与标注过程结合设置。Label Studio还提供了一款增强安全性的企业级云服务（包括SSO、RBAC、SOC2认证），具备团队管理功能、数据发现、数据分析与报告，以及支持SLA（服务水平协议）。提供免费试用，以便快速开始并探索企业级云产品。|
 |5115|[Vercel AI](https://sdk.vercel.ai/docs/introduction)|Vercel AI SDK是专为帮助开发者使用React、Next.js、Vue、Svelte、Node.js等技术栈构建AI驱动应用的TypeScript工具包。|
 |5116|[Keras 3](https://keras.io/)|Keras 3是一个深度学习框架，可与TensorFlow、JAX和PyTorch互换使用。|
 |5117|[Caffe](https://caffe.berkeleyvision.org/)|Caffe是一个以表达力、速度和模块化为设计理念的深度学习框架。它由Berkeley AI Research（BAIR）和社区贡献者共同开发。Yangqing Jia在其于UC Berkeley攻读博士学位期间创立了该项目。Caffe在BSD 2-Clause许可下发布。|
 |5118|[NumPy](https://numpy.org/)|NumPy是Python中科学计算的基础包。它是一个Python库，提供多维数组对象、各种衍生对象（如蒙面数组和矩阵），以及一组针对数组的快速操作例程，包括数学、逻辑、形状操作、排序、选择、I/O、离散傅立叶变换、基本线性代数、基本统计运算、随机模拟等众多功能。|
 |5119|[Deeplearning4j ](https://deeplearning4j.konduit.ai/)|Eclipse Deeplearning4j是一套用于在JVM上运行深度学习的工具。它是唯一允许你在Java环境中训练模型的同时，通过我们的cpython绑定、模型导入支持以及其他运行时如tensorflow-java和onnxruntime的交互操作，与Python生态系统互通的框架。|
 |5120|[JAX](https://jax.readthedocs.io/en/latest/)|JAX是一个面向加速器的数组计算和程序转换的Python库，专为高性能数值计算和大规模机器学习设计。|
-|5121|[LangChain](https://python.langchain.com/v0.1/docs/get_started/introduction/)|LangChain是一个用于开发由大型语言模型（LLMs）驱动的应用程序的框架。简化了LLM应用程序生命周期的每个阶段：
-
-开发：使用LangChain的开源构建模块和组件构建你的应用程序。通过第三方集成和模板，快速启动并运行。
-生产化：利用LangSmith检查、监控和评估你的链路，以便你能持续优化并有信心地部署。
-部署：通过LangServe将任何链路转变为API。
-
-简而言之，LangChain旨在通过提供一整套工具和服务，使开发者能够更容易地构建、优化和部署基于大型语言模型的应用程序，从而加速开发过程并提高最终产品的质量和效率。|
+|5121|[LangChain](https://python.langchain.com/v0.1/docs/get_started/introduction/)|LangChain是一个用于开发由大型语言模型（LLMs）驱动的应用程序的框架。简化了LLM应用程序生命周期的每个阶段：开发：使用LangChain的开源构建模块和组件构建你的应用程序。通过第三方集成和模板，快速启动并运行。生产化：利用LangSmith检查、监控和评估你的链路，以便你能持续优化并有信心地部署。部署：通过LangServe将任何链路转变为API。简而言之，LangChain旨在通过提供一整套工具和服务，使开发者能够更容易地构建、优化和部署基于大型语言模型的应用程序，从而加速开发过程并提高最终产品的质量和效率。|
 |5122|[Lightening AI](https://lightning.ai/)|无需环境配置，即可即时运行和定制AI配方。内置的AI任务模板，如微调、预训练、数据准备、AI网页应用、RAG等。无需环境设置，即可在浏览器或本地IDE中进行定制和部署。|
 |5123|[Docker](https://www.docker.com/)|Docker 是一个平台，旨在帮助开发者构建、分享和运行容器化的应用程序。它处理了繁琐的设置工作，让你可以专注于编写代码。|
 |5124|[OpenWebUI](https://www.openwebui.com/)|Open WebUI 是一个可扩展的、自托管的人工智能界面，它可以适应您的工作流程，并且在完全离线的情况下运行。|
@@ -5525,7 +5133,5 @@ Label Studio还提供了一款增强安全性的企业级云服务（包括SSO�
 |5128|[DingoDB](https://www.dingodb.com/#/home)|一个多模态数据库，它提供了诸如关系、向量和文本等多模态数据的强一致性存储，并基于 SQL 提供了多模态联合分析能力。|
 |5129|[Milvus](https://milvus.io/)|Milvus 是一个为生成式人工智能（GenAI）应用构建的开源向量数据库。它可以通过 pip 安装，能够执行高速搜索，并且在扩展至数十亿个向量时几乎不会损失性能。|
 |5130|[Qdrant](https://cloud.qdrant.io/)|Qdrant（读作：quadrant，象限）是一个向量相似性搜索引擎和向量数据库。它提供了一个生产就绪的服务，配备了一个方便的 API 用于存储、搜索和管理点——即带有额外负载信息的向量。Qdrant 特别针对扩展过滤支持进行了优化，这使其非常适合各种基于神经网络或语义的匹配、分面搜索以及其他应用场景。|
-|5131|[Vald](https://vald.vdaas.org/)|Vald 是一个高度可扩展的分布式快速近似最近邻密集向量搜索引擎。
-
-Vald 基于云原生架构设计和实现。它使用最快的近似最近邻 (ANN) 算法 NGT 进行邻居搜索。Vald 具有自动向量索引和索引备份功能，并支持水平扩展，这使得它可以从数十亿的特征向量数据中进行搜索。Vald 易于使用，功能丰富且高度可定制，以满足您的需求。|
+|5131|[Vald](https://vald.vdaas.org/)|Vald 是一个高度可扩展的分布式快速近似最近邻密集向量搜索引擎。Vald 基于云原生架构设计和实现。它使用最快的近似最近邻 (ANN) 算法 NGT 进行邻居搜索。Vald 具有自动向量索引和索引备份功能，并支持水平扩展，这使得它可以从数十亿的特征向量数据中进行搜索。Vald 易于使用，功能丰富且高度可定制，以满足您的需求。|
 |5132|[LanceDB](https://lancedb.com/)|LanceDB 是一个面向开发者的友好型、开源的人工智能数据库。无论是高度可扩展的向量搜索、为检索增强生成（RAG, Retrieval-Augmented Generation）设计的高级检索功能，还是流式传输训练数据和对大规模人工智能数据集进行交互式探索，LanceDB 都是构建您的人工智能应用的最佳基础。|
