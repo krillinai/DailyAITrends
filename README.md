@@ -11,4 +11,5 @@ Official Website:  [www.krillin.ai](http://www.krillin.ai/)
 
 ### August
 
+[2024.08.30 AI Trends](https://github.com/krillinai/DailyAITrends/blob/main/English/2024.08.30%20AI%20Trends.md)
 [2024.08.29 AI Trends](https://github.com/krillinai/DailyAITrends/blob/main/English/2024.08.29%20AI%20Trends.md)
