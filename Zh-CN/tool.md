@@ -72,7 +72,7 @@
 |68|[AI Ads](https://creatorkit.com/aiads)|仅需输入网站URL，利用AI生成胜出的视频广告。|
 |69|[AI Anywhere](https://www.ai-anywhere.com/)|灵羽助手可以与您喜爱的应用程序无缝配合，包括浏览器，Word，Excel，PDF阅读器，通讯工具，文本编辑器，代码编辑器等等。|
 |70|[AI Art Apps Database](https://aiartapps.com/)|AI艺术资源和工具，为设计师、艺术家和提示工程师提供灵感、创作、学习、社群及提示构建的全方位支持。|
-|71|[AI Art Generator | Image-Maker](https://apps.apple.com/app/apple-store/id1644315225)|释放文字的全部潜能，用我们的AI艺术生成器应用创造令人震撼、独一无二的艺术作品。只需输入任何文本或短语，我们先进的算法就能将其转变成独一无二、视觉冲击力强的艺术品。多种风格任你挑选，创意无限。无论是想为您的家居创造个性化的艺术品，为社交媒体帖子增添创意，还是仅仅探索AI生成艺术的领域，我们的应用都能满足您的需求。|
+|71|[AI Art Generator   Image-Maker](https://apps.apple.com/app/apple-store/id1644315225)|释放文字的全部潜能，用我们的AI艺术生成器应用创造令人震撼、独一无二的艺术作品。只需输入任何文本或短语，我们先进的算法就能将其转变成独一无二、视觉冲击力强的艺术品。多种风格任你挑选，创意无限。无论是想为您的家居创造个性化的艺术品，为社交媒体帖子增添创意，还是仅仅探索AI生成艺术的领域，我们的应用都能满足您的需求。|
 |72|[AI Art Limited](https://aiart.limited/)|让您通过转换现有图像或创造全新的照片，来制作出令人印象深刻、美感十足的AI艺术作品。|
 |73|[AI Art Weekly](https://aiartweekly.com/)|免费每周一次的生成式AI艺术新闻、访谈和资源汇总邮件|
 |74|[AI Assist by airfocus](https://airfocus.com/product/ai/)|模块化产品管理平台，特别为产品团队设计，适用于面向市场的产物、内部产物管理和IT组合管理。这一灵活的平台协助产物团队治理战略、理解用户需求、确定优先级，并围绕清晰的路线图使团队保持一致。|
@@ -159,8 +159,7 @@
 |155|[AI Prompt Randomizer](https://promptrandomizer.tdbr.de/)|Prompt生成器|
 |156|[AI Rap Song Generator](https://apps.apple.com/us/app/ai-rap-song-generator/id6448916248)|AI说唱歌曲生成器是终极应用程序，专为说唱爱好者及有志成为说唱艺术家的人士设计，让他们能利用人工智能的力量创作自己的说唱歌曲。|
 |157|[AI Recipe Generator](https://recipes.lionix.io/)|立即获取独特且美味的食谱。厌倦了每天重复相同的菜谱吗？试试我们的AI食谱生成器！输入你的食材，几秒钟内就能获得一个独一无二、美味可口的食谱。|
-|158|[
-AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免费检测任何AI生成的文本。几乎每个人都在试图以某种方式对使用AI生成内容的行为进行惩罚，因此确保内容并非完全由AI撰写是很有必要的。|
+|158|[AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免费检测任何AI生成的文本。几乎每个人都在试图以某种方式对使用AI生成内容的行为进行惩罚，因此确保内容并非完全由AI撰写是很有必要的。|
 |159|[AI Resume Checker](https://www.resumechecker.ai/)|我们的AI根据行业标准和就业市场趋势分析您的简历。然后我们提供一份包含个性化改进建议的报告。|
 |160|[AI Resume Parser](https://www.adaface.com/ai/resume-screening)|您可以询问关于候选人的问题，获取候选人简介摘要，并找出最适合特定职位的候选人等。|
 |161|[AI Reverse Image Search](https://www.vecteezy.com/reverse-image-search)|AI反向图片搜索。上传源图像，为您的项目获得概念相关且完全许可的相似图像。|
@@ -264,7 +263,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |259|[AIWritingPal](https://aiwritingpal.com/)|人工智能内容创作工具，能够优化语法、拼写及写作风格。|
 |260|[aiXcoder](https://www.aixcoder.com/#/)|国内首款基于深度学习的智能化软件开发工具，利用AI技术实现代码⾃动⽣成、代码⾃动补全、代码智能搜索等功能，提升开发者开发效率与代码质量|
 |261|[Aizzy.ai](https://aizzy.ai/)|Aizzy.ai是一个AI驱动的平台，专注于匿名性和隐私性，旨在提高处理文件和执行各种任务的生产力和效率。它提供了匿名文档交互、智能搜索、虚拟助理、内容创建等功能|
-|262|[Ai|coustics](https://ai-coustics.com/playground)|随时随地，从任意设备获取录音室级音频质量。借助我们的网络应用程序，将您的语音录音转换为录音室级别，或利用我们的实时和按需AI语音增强API及SDK，将语音清晰度集成到您的产品中。|
+|262|[Ai coustics](https://ai-coustics.com/playground)|随时随地，从任意设备获取录音室级音频质量。借助我们的网络应用程序，将您的语音录音转换为录音室级别，或利用我们的实时和按需AI语音增强API及SDK，将语音清晰度集成到您的产品中。|
 |263|[AI改图神器](https://img.logosc.cn/)|AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印。AI/EPS/PSD/SVG全格式支持的在线图片编辑器。|
 |264|[AI创客贴](https://aiart.chuangkit.com/landingpage)|一款平面设计工具和在线平面设计软件,提供海量海报模板,新媒体配图,电商模板,主图模板,邀请函,公告通知,喜报,logo等免费设计素材和模板,创客贴AI工具箱提供在线智能生成海报,一键抠图,一键消除,一键去水印,图片高清修复,无损放大，智能拼图等众多智能AI工具|
 |265|[AI论文君](https://www.ailunwenjun.com/)|AI论文辅助写作工具，可一键生成论文选题、开题报告、论文大纲、论文全文等。|
@@ -2093,7 +2092,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |2088|[InsightBase](https://insightbase.ai/)|InsightBase是一个强大的AI驱动的数据分析与商业智能平台，无需任何编码知识，让每个人都能从自己的数据中获取洞察。|
 |2089|[Insightful](https://insightful.page/)|专为你设计，由AI驱动的教练服务。|
 |2090|[Insights Copilot](https://youscan.io/insights-copilot/)|无需花费数小时分析社交数据，使用Insights Copilot在几秒钟内获取洞见。|
-|2091|[Insou](https://www.insou.ai/)|像撰写文档一样编写演示文稿 | Insou是你的AI驱动路径，通往引人入胜的内容和有说服力的演示。无需设计和格式烦恼，书写、吸引观众、闪耀全场。|
+|2091|[Insou](https://www.insou.ai/)|像撰写文档一样编写演示文稿   Insou是你的AI驱动路径，通往引人入胜的内容和有说服力的演示。无需设计和格式烦恼，书写、吸引观众、闪耀全场。|
 |2092|[Inspiro](https://apps.apple.com/nl/app/inspiro-inspirational-quotes/id6448215289)|Inspiro是为所有寻求每日灵感和动力的人打造的应用程序。拥有大量精选名人名言的庞大图书馆，你永远不会缺乏灵感。|
 |2093|[Insta Photo AI](https://instaphotoai.com/)|在几秒钟内为你的内容生成逼真图像。通过提供参考图像或人物面部照片，提升你的市场营销水平。为市场营销、电子商务、Instagram、LinkedIn或博客创作惊艳的AI图像。|
 |2094|[Instabot](https://www.instabot.io/)|使用Instabot生成潜在客户并提升你的客户体验。易于使用的平台，配备强大且可定制的聊天机器人。几分钟内即可设置完成。|
@@ -2215,7 +2214,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |2210|[JustLearn](https://www.justlearn.com/)|通过Just Learn深入定制的知识文章，增强你的全球沟通技巧，开始沉浸式语言学习之旅。|
 |2211|[K8sGPT](https://k8sgpt.ai/)|借助AI，为Kubernetes SRE注入超能力|
 |2212|[Kadoa](https://www.kadoa.co)|无代码、免维护的数据抓取与转换，AI赋能的网络数据抓取自动化|
-|2213|[Kaedim](https://www.kaedim3d.com/)|专为游戏、AR/VR、电子商务和3D打印打造 | 图像到3D AI · 从照片生成生产级3D资产 · 从PNG/JPG生成3D模型 · 2D转3D|
+|2213|[Kaedim](https://www.kaedim3d.com/)|专为游戏、AR/VR、电子商务和3D打印打造   图像到3D AI · 从照片生成生产级3D资产 · 从PNG/JPG生成3D模型 · 2D转3D|
 |2214|[Kafkai](https://kafkai.com/)|Kafkai是一款可以从零开始撰写文章的机器学习算法。为营销人员和SEO专家提供的前沿技术。|
 |2215|[Kaggle](https://www.kaggle.com/)|Kaggle是全球最大的数据科学社区，提供强大的工具和资源，助力你达成数据科学目标。|
 |2216|[Kahma](https://kahma.io/)|创建令人惊叹的AI肖像和头像，无论是你自己、你的亲友、已故亲属（或是任何人）都能以惊艳的8K质量呈现。|
@@ -2657,7 +2656,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |2652|[Midjourney Splitter](https://www.mjsplitter.com/)|使用MJSplitter将你的Midjourney网格拆分为单个图像。点击下载并将它们以JPEG格式保存到你的电脑中。|
 |2653|[MidReal](https://midreal.ai/)|Midreal.ai是一款互动文本冒险游戏，由我们的创新AI技术（记忆跨度技术和长篇写作能力）驱动，MidReal拥有近乎无限的记忆力，确保你的故事从头至尾连贯一致，为你提供真正沉浸式的体验。|
 |2654|[MightyGPT](https://www.mightygpt.com/)|现在，你可以在WhatsApp上直接享受最强大的聊天机器人。|
-|2655|[MiGuru](https://miguru.ai/)|MiGuru | 提升你找到工作的机会|
+|2655|[MiGuru](https://miguru.ai/)|MiGuru   提升你找到工作的机会|
 |2656|[Mike AI](https://www.mikeai.co/)|认识#MikeAI，你的个性化AI健身教练！准备好用定制的锻炼计划、膳食计划和个性化的体适能评估来重塑你的健身之旅。让我们一起朝着更健康、更健硕的生活方式努力！|
 |2657|[Miku](https://www.hellomiku.com/)|AI搜索问答|
 |2658|[Milo](https://www.joinmilo.com/)|你的AI合作者，专门设计来帮助你管理和减轻经营家庭及抚养子女的隐形负担。|
@@ -2739,7 +2738,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |2734|[Movie Deep Search](https://deepsearch.mycelebs.com/movie)|想看特定类型的电影？描述你想观看的电影类型。|
 |2735|[MovieWiser](https://moviewiser.com/)|使用Moviewiser AI发现个性化电影和剧集推荐。基于你的心情找到个性化的内容。轻松查找您喜爱的内容在网络流媒体上的播放位置。|
 |2736|[Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator)|最佳的AI食谱生成器。使用Mr. Cook的烹饪AI将食材转化为美味佳肴。让AI烹饪变得简单。立即免费开始！|
-|2737|[MrScrapper](https://mrscraper.com/ai)|体验MrScraper AI的强大功能：无需纠结于CSS选择器，轻松从网页中提取数据 | 支持代理轮换、分页等更多功能。|
+|2737|[MrScrapper](https://mrscraper.com/ai)|体验MrScraper AI的强大功能：无需纠结于CSS选择器，轻松从网页中提取数据   支持代理轮换、分页等更多功能。|
 |2738|[Msgmate](https://msgmate.io/)|Msgmate是一款软件服务，让您在喜爱的聊天应用中使用ChatGPT。Msgmate还整合了其他AI工具，并为开发者提供了API接口，以便他们能使用ChatGPT与自己的应用进行交互。|
 |2739|[Mubert](https://mubert.com/)|Mubert - 专为内容创作者、品牌和开发者打造的全新无版权音乐生态系统🔥来看看我们的高品质音乐如何提升您的内容⏩。|
 |2740|[Multilings](https://multilings.com)|Multilings提供一系列卓越产品，帮助用户生成人工智能驱动的内容，实现不同语言间的内容翻译，检测内容抄袭，并找出任何外部贡献的引用来源。我们强大的内部AI算法生成的内容精确满足需求。这款AI工具对于内容作者、自由撰稿人、学生、教育工作者、数字营销人员和研究者来说极为有用，让他们能够以高效、有影响力的方式完成工作，同时节省时间和精力。|
@@ -2818,7 +2817,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |2813|[Neural Canvas](https://neuralcanvas.io/)|在AI的支持下表达你的创造力 - 创建AI生成的漫画！|
 |2814|[Neural frames](https://www.neuralframes.com/)|快速制作迷幻视频的AI动画生成器，带有逐帧图像动画。我们的视频编辑器允许在生成过程中随时进行全面控制。你甚至可以上传歌曲，使动画对音频作出反应。|
 |2815|[Neural Text](https://www.neuraltext.com/)|使用世界上最先进的AI生成营销文案和博客文章。有了NeuralText，你可以快速轻松地撰写SEO内容，而不是花费数小时在上面。|
-|2816|[neural.love](https://neural.love/)|免费使用AI图像生成器或AI增强功能，或访问数百万公共领域的图片 | AI增强与易用的在线AI工具|
+|2816|[neural.love](https://neural.love/)|免费使用AI图像生成器或AI增强功能，或访问数百万公共领域的图片   AI增强与易用的在线AI工具|
 |2817|[NeuralBlender](https://neuralblender.com/)|创造你自己的AI艺术作品|
 |2818|[NeuralStudio](https://neural.cam/studio/)|通过文本生成任何图像或自我头像|
 |2819|[NeuralText](https://www.neuraltext.com/)|使用世界上最先进的AI生成营销文案和博客文章。有了NeuralText，你可以快速轻松地撰写SEO内容，而不必花费数小时。|
@@ -3197,7 +3196,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |3192|[Podcast Marketing AI](https://podcastmarketing.ai/)|使用AI生成文字记录、节目笔记、剧集描述、社交媒体帖子、名言卡片和标题。|
 |3193|[Podcaster Tools](https://podurama.com/podcaster-tools)|为营销和内容生成提供的播客工具。|
 |3194|[Podcastle](https://podcastle.ai/)|Podcastle是创建专业品质播客的最简单方式。使用基于网络的软件，借助AI的力量录制、编辑和托管你的内容。|
-|3195|[Podchat](https://www.podchat.io/)|Podchat | 与你喜爱的播客进行AI驱动的搜索和问答。浏览所有当前索引的播客。|
+|3195|[Podchat](https://www.podchat.io/)|Podchat   与你喜爱的播客进行AI驱动的搜索和问答。浏览所有当前索引的播客。|
 |3196|[Poddy](https://poddy.ai/)|Poddy.ai是快速发布播客的引擎。在10分钟内将你的想法转化为播客剧集。|
 |3197|[Podium](https://podium.page)|利用AI驱动的工具简化播客制作流程，实现节省时间、高质量的内容创作。|
 |3198|[Podpulse](https://podpulse.ai/)|以更智能的方式享受由AI客观性驱动的精准播客笔记和关键要点。|
@@ -3632,7 +3631,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |3627|[SalesGPT](https://bravado.co/salesgpt)|一个专为顶级销售专业人士打造的独家销售社区。|
 |3628|[Saleshandy](https://www.saleshandy.com/)|最优秀的冷邮件拓展软件，用于产生更多潜在客户。通过无限的电子邮件账户自动化你的拓展，实现高送达率，以及更好的打开和回复率。|
 |3629|[SalesMind AI](https://sales-mind.ai/)|使用我们尖端的AI软件来简化你的销售拓展并促成更多交易。立即探索我们所有的生成式AI销售工具！|
-|3630|[SalesMirror.ai](https://salesmirror.ai/)|实时拓展软件 我们简单且经济实惠的实时拓展工具让您能够找到初创企业和本地商业线索。无需信用卡 | 每月起价$49。由电子邮件查找器和验证器提供支持，获取任何公司的电子邮件、电话和社交媒体线索，并验证它们。本地与SaaS线索查找器，找到您的目标公司。|
+|3630|[SalesMirror.ai](https://salesmirror.ai/)|实时拓展软件 我们简单且经济实惠的实时拓展工具让您能够找到初创企业和本地商业线索。无需信用卡   每月起价$49。由电子邮件查找器和验证器提供支持，获取任何公司的电子邮件、电话和社交媒体线索，并验证它们。本地与SaaS线索查找器，找到您的目标公司。|
 |3631|[Salespitch](https://salespitch.pro/)|让Salespitch AI在几秒钟内为您撰写数百封冷邮件。比冷邮件模板好10倍。用专门针对您的潜在客户撰写的完美邮件增加销售额。|
 |3632|[Salient](https://www.trysalient.com/)|Salient利用AI重新定义汽车贷款商与其客户互动的方式。|
 |3633|[Salley](https://www.salley.co/)|由行业专家主导的现场小组辅导课程，辅以您自己的AI领导力教练。终于，一种实用的方法，让您在工作中成为更好的领导者，以便保持相关性并向前发展。|
@@ -3701,7 +3700,7 @@ AI Content Detector](https://www.interestedinai.com/ai-resource-finder-tool)|免
 |3696|[Seenapse](https://seenapse.ai)|Seenapse是人类横向思维与AI速度的独特结合，让你能在几分钟内生成数百个不同的、创造性的可能性。|
 |3697|[Segment Anything](https://segment-anything.com/)|SAM是来自Meta AI的一个AI模型，它能够实现“一键抠图”，从任何图像中精准地分离出任意对象。SAM是一个可提示的分割系统，具有零样本学习的能力，可以泛化到从未见过的对象和图像上，而无需额外的训练过程。|
 |3698|[Segmentle](https://segmentle.com/)|一款受Wordle启发的每日数学游戏，可以无限制地游玩。|
-|3699|[Selfgazer](https://www.selfgazer.com/)|Selfgazer | 提供心理塔罗牌解读和自我探索服务。|
+|3699|[Selfgazer](https://www.selfgazer.com/)|Selfgazer   提供心理塔罗牌解读和自我探索服务。|
 |3700|[SellerAi](https://sellerai.in/)|成本效益高的解决方案，可在几秒钟内生成详尽的产品内容，提升转化率。|
 |3701|[SellMate](https://www.sellmate.ai/)|发现SellMate：专为在线卖家设计的终极AI驱动跨平台列表平台。SellMate革新了电子商务领域，简化了在亚马逊、eBay等多平台销售的过程。只需一拍，我们的AI技术就能增强你的商品列表，优化产品可见度，并提供有价值的分析，以提升你的销售策略。我们由学术创新和电商专家组成的团队，致力于为卖家提供让在线销售变得轻松、高效和有效的解决方案。|
 |3702|[SellScale](https://www.sellscale.com/)|使用AI个性化你的外发信息。|
