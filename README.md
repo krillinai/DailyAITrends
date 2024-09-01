@@ -7,7 +7,7 @@ Daily updates of the latest high-quality content in the field of AI, interviews,
 
 Official Website:  [www.krillin.ai](http://www.krillin.ai/)
 
-|[tool(Recorded 4822)](https://github.com/krillinai/DailyAITrends/blob/main/English/tool.md)|[Reference(Recorded 224)](https://github.com/krillinai/DailyAITrends/blob/main/English/reference.md)|[Intelligence Tech(Recorded 48)](https://github.com/krillinai/DailyAITrends/blob/main/English/intelligenceTech.md)|[Agent(Recorded 701)](https://github.com/krillinai/DailyAITrends/blob/main/English/agent.md)
+|[Tools(4822)](https://github.com/krillinai/DailyAITrends/blob/main/English/tool.md)|[References(224)](https://github.com/krillinai/DailyAITrends/blob/main/English/reference.md)|[Intelligence Tech(48)](https://github.com/krillinai/DailyAITrends/blob/main/English/intelligenceTech.md)|[Agents(701)](https://github.com/krillinai/DailyAITrends/blob/main/English/agent.md)
 |:---:|:---:|:---:|:---:|
 |Development|Podcast|Embodied Intelligence|GPTs
 Image Editing|Website|Spatial Computing
