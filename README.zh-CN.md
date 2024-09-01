@@ -5,7 +5,7 @@
 
 官方网站:  www.krillinai.com
 
-|[工具插件(已收录5132)](https://github.com/krillinai/DailyAITrends/blob/main/Zh-CN/tool.md)|学习资料(已收录341)|智能科技(已收录52)|智能体(已收录658)
+|[工具插件(已收录5132)](https://github.com/krillinai/DailyAITrends/blob/main/Zh-CN/tool.md)|[学习资料(已收录341)](https://github.com/krillinai/DailyAITrends/blob/main/Zh-CN/reference.md)|[智能科技(已收录52)](https://github.com/krillinai/DailyAITrends/blob/main/Zh-CN/intelligenceTech.md)|[智能体(已收录658)](https://github.com/krillinai/DailyAITrends/blob/main/Zh-CN/agent.md)
 |:---:|:---:|:---:|:---:|
 创意设计|网站|具身智能|豆包智能体
 对话助手|视频|空间计算|Kimi智能体
